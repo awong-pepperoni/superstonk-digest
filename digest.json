@@ -21,6 +21,227 @@
   },
   "digests": [
     {
+      "date": "2026-10-09",
+      "title": "Superstonk digest",
+      "intro_html": "<p>The warrant expiry has gone from a countdown to an argument about what GameStop is still allowed to do, and the sub's stickied megathread now carries a claim about the warrant agreement that the agreement's own text does not support. The other preoccupation is a single 5,000-contract call block that members hope is Keith Gill. Nothing changed at the company: EDGAR shows no GameStop filing on or after 7 October, and no press release in the window either.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>GameStop can still extend the warrants or cut their strike price without warrant holders' consent, and the &quot;too late to change anything&quot; argument circulating on the sub rests on the wrong clause.</strong>",
+              "html": "<p><strong>GameStop can still extend the warrants or cut their strike price without warrant holders' consent, and the &quot;too late to change anything&quot; argument circulating on the sub rests on the wrong clause.</strong> The warrant agreement gives those two powers under separate sections, and only one of them carries the twenty-day minimum the sub is quoting.</p>\n<ul>\n<li><strong>Why it matters:</strong> the <a href=\"https://www.reddit.com/r/Superstonk/comments/1x0a9kg/\" target=\"_blank\" rel=\"noopener noreferrer\">megathread</a> has added to its own &quot;New information from the comments&quot; box the claim that &quot;Per Section 4.01(h) of the warrant agreement, the strike price or exercise rate can not be adjusted without it taking effect for a minimum of 20 trading days. There are too few trading days left for that to be possible&quot;, and its top comment at 31 points extends that reasoning to the expiry date itself. In the filed agreement the twenty-day floor sits in Section 4.01(h) and attaches to a voluntary strike-price decrease; extending the expiration date is a separate power under Section 4.06(a), which carries no such floor. One commenter had already pushed back, quoting the filing that GameStop and the warrant agent &quot;are legally permitted to amend the contract without the consent of the warrant holders&quot;. None of this says an extension will happen — only that the agreement does not foreclose one on the timetable the sub is describing.</li>\n<li><strong>What to watch:</strong> 30 October, 5:00 p.m. New York time; any 8-K amending the warrant agreement; and the reminder notice the megathread says an earlier filing promised 10 to 30 days before expiry — that window is now open and nothing has been filed in it.</li>\n<li><strong>Numbers:</strong> as filed, Section 4.01(h) permits the company to decrease the strike price or increase the exercise rate &quot;by any amount for a period of at least twenty (20) Business Days&quot; — Business Days, where the sub's version says trading days. Section 4.06(a) lists amendments permitted without holder consent, among them &quot;to extend the Expiration Date&quot; and &quot;to increase the Warrant Exercise Rate, decrease the Strike Price, decrease the Warrant Exercise Price&quot;. Commenters put the remaining window at 17 business days; that count is theirs, not one I made.</li>\n<li><strong>Caveats:</strong> I read Sections 4.01(h) and 4.06(a) in the filed exhibit, not the agreement end to end, so another clause could condition them. The commenters' further argument that an extension would require &quot;reasonable notice&quot; of 10 to 20 business days is their reading, and I found no such requirement in the sections I read.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000091/projectgenesis-ex41xwarran.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant agreement, Exhibit 4.1</a></li>\n</ul>",
+              "text": "GameStop can still extend the warrants or cut their strike price without warrant holders' consent, and the \"too late to change anything\" argument circulating on the sub rests on the wrong clause. The warrant agreement gives those two powers under separate sections, and only one of them carries the twenty-day minimum the sub is quoting. Why it matters: the megathread has added to its own \"New information from the comments\" box the claim that \"Per Section 4.01(h) of the warrant agreement, the strike price or exercise rate can not be adjusted without it taking effect for a minimum of 20 trading days. There are too few trading days left for that to be possible\", and its top comment at 31 points extends that reasoning to the expiry date itself. In the filed agreement the twenty-day floor sits in Section 4.01(h) and attaches to a voluntary strike-price decrease; extending the expiration date is a separate power under Section 4.06(a), which carries no such floor. One commenter had already pushed back, quoting the filing that GameStop and the warrant agent \"are legally permitted to amend the contract without the consent of the warrant holders\". None of this says an extension will happen — only that the agreement does not foreclose one on the timetable the sub is describing. What to watch: 30 October, 5:00 p.m. New York time; any 8-K amending the warrant agreement; and the reminder notice the megathread says an earlier filing promised 10 to 30 days before expiry — that window is now open and nothing has been filed in it. Numbers: as filed, Section 4.01(h) permits the company to decrease the strike price or increase the exercise rate \"by any amount for a period of at least twenty (20) Business Days\" — Business Days, where the sub's version says trading days. Section 4.06(a) lists amendments permitted without holder consent, among them \"to extend the Expiration Date\" and \"to increase the Warrant Exercise Rate, decrease the Strike Price, decrease the Warrant Exercise Price\". Commenters put the remaining window at 17 business days; that count is theirs, not one I made. Caveats: I read Sections 4.01(h) and 4.06(a) in the filed exhibit, not the agreement end to end, so another clause could condition them. The commenters' further argument that an extension would require \"reasonable notice\" of 10 to 20 business days is their reading, and I found no such requirement in the sections I read. Read next: the warrant agreement, Exhibit 4.1 Verified for the quoted clauses, against the filed warrant agreement · whether GameStop will use either power is unannounced",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the quoted clauses, against the filed warrant agreement · whether GameStop will use either power is unannounced</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market-data claims",
+          "category": "data",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;Oct 8, 2026 - Short Volume 80.69%, Off-Exchange 74.23%&quot;, which the author then corrected to be 7 October's data.</strong>",
+              "html": "<p><strong>&quot;Oct 8, 2026 - Short Volume 80.69%, Off-Exchange 74.23%&quot;, which the author then corrected to be 7 October's data.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x12hjd/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> at 578 points says the short volume is &quot;the highest value I've seen since Sep 21, 2023&quot; and that off-exchange is &quot;anomalously big&quot;; the body carried no source until a commenter supplied <a href=\"https://chartexchange.com/symbol/nyse-gme/short-volume/\" target=\"_blank\" rel=\"noopener noreferrer\">chartexchange</a> links, and another asked outright &quot;Where's the data you're talking about?&quot; The top reply, at 71 points, dismisses the figure as self-reported. The off-exchange number is effectively the same 7 October reading the last entry recorded at 74.24%, reposted with short volume attached. One commenter pairs it with a borrow fee &quot;still up near 800&quot; and argues the pairing is what matters; a reply asks whether that rate is for the warrants rather than the shares, which is what the last entry found.</p>",
+              "text": "\"Oct 8, 2026 - Short Volume 80.69%, Off-Exchange 74.23%\", which the author then corrected to be 7 October's data. The post at 578 points says the short volume is \"the highest value I've seen since Sep 21, 2023\" and that off-exchange is \"anomalously big\"; the body carried no source until a commenter supplied chartexchange links, and another asked outright \"Where's the data you're talking about?\" The top reply, at 71 points, dismisses the figure as self-reported. The off-exchange number is effectively the same 7 October reading the last entry recorded at 74.24%, reposted with short volume attached. One commenter pairs it with a borrow fee \"still up near 800\" and argues the pairing is what matters; a reply asks whether that rate is for the warrants rather than the shares, which is what the last entry found. Single source. Figures are as posted and not independently measured; the author's own correction of the date is in an edit and a comment.",
+              "status": "single-source",
+              "status_html": "<p>Single source. Figures are as posted and not independently measured; the author's own correction of the date is in an edit and a comment.</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk",
+                "chartexchange.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A 5,000-contract block of January 2029 $40 calls traded for about $2.47 million, and the sub's first guess was Keith Gill.</strong>",
+              "html": "<p><strong>A 5,000-contract block of January 2029 $40 calls traded for about $2.47 million, and the sub's first guess was Keith Gill.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x0u7f6/\" target=\"_blank\" rel=\"noopener noreferrer\">The gallery post</a> at 2,530 points is titled &quot;RK is that you? 5K 2.47m call block&quot;; <a href=\"https://www.reddit.com/r/Superstonk/comments/1x0zplx/\" target=\"_blank\" rel=\"noopener noreferrer\">a parallel thread</a> asks about the same volume. The case for it being new buying rather than a transfer is one commenter's: &quot;the open interest this morning on that contract was only 391. So the only option to transact that many option contracts would be to write new ones.&quot; The same commenter offers the counter-reading that it could be a covered call, and notes the expiry is far out for anyone expecting an imminent move. Another suggests it could be a hedge against a short position — &quot;a 'just in case GME does blow up' I'm out only $40 a share&quot;. A member who follows the Gill pattern concedes the mismatch: &quot;DFV's 5K call blocks were always for the closest Monthly OPEX&quot;.</p>",
+              "text": "A 5,000-contract block of January 2029 $40 calls traded for about $2.47 million, and the sub's first guess was Keith Gill. The gallery post at 2,530 points is titled \"RK is that you? 5K 2.47m call block\"; a parallel thread asks about the same volume. The case for it being new buying rather than a transfer is one commenter's: \"the open interest this morning on that contract was only 391. So the only option to transact that many option contracts would be to write new ones.\" The same commenter offers the counter-reading that it could be a covered call, and notes the expiry is far out for anyone expecting an imminent move. Another suggests it could be a hedge against a short position — \"a 'just in case GME does blow up' I'm out only $40 a share\". A member who follows the Gill pattern concedes the mismatch: \"DFV's 5K call blocks were always for the closest Monthly OPEX\". Single source for the block's size and price, as posted. No attribution of the trade to any person is established, and the alternative readings are commenters' too.",
+              "status": "single-source",
+              "status_html": "<p>Single source for the block's size and price, as posted. No attribution of the trade to any person is established, and the alternative readings are commenters' too.</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;This is settlement friction.&quot;</strong>",
+              "html": "<p><strong>&quot;This is settlement friction.&quot;</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x17onf/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> at 297 points reads the same 80% short volume as &quot;the immediate internalization of orders by 'market liquidity providers'&quot;, argues part of the recent price rise was &quot;clearing the ETFs so they could fill them right back up again&quot;, and concludes &quot;Mandatory settlement happened&quot;. It cites no data beyond the percentage. The top comment adds &quot;$60 billion worth of securities sold but not yet purchased&quot; with no source, and the next reply treats it as a figure recalled from years ago.</p>",
+              "text": "\"This is settlement friction.\" The post at 297 points reads the same 80% short volume as \"the immediate internalization of orders by 'market liquidity providers'\", argues part of the recent price rise was \"clearing the ETFs so they could fill them right back up again\", and concludes \"Mandatory settlement happened\". It cites no data beyond the percentage. The top comment adds \"$60 billion worth of securities sold but not yet purchased\" with no source, and the next reply treats it as a figure recalled from years ago. Single source. The mechanism is the author's interpretation, and the $60 billion figure is unsourced in the thread.",
+              "status": "single-source",
+              "status_html": "<p>Single source. The mechanism is the author's interpretation, and the $60 billion figure is unsourced in the thread.</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Due diligence",
+          "category": "dd",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A post arguing that at $64 a share you could sell one share to fund exercising two warrants drew the run's sharpest rejection.</strong>",
+              "html": "<p><strong>A post arguing that at $64 a share you could sell one share to fund exercising two warrants drew the run's sharpest rejection.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x0wwaj/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> sits at 707 points, but its top comment at 452 says &quot;this feels like the worst advice ever posted on Superstonk&quot;. The substantive objections are that the idea is just a cashless exercise — &quot;Just research 'sell to cover' and done. Most brokers will do it automatically for you&quot; — and that the arithmetic is backwards, since selling one share at $64 and exercising two warrants hands GameStop the cash, which several commenters prefer to selling the warrants. A separate argument against selling warrants at all claims &quot;there's only supposed to be 59,000,000 warrants out there because that's what GameStop authorized&quot;, so mass exercise would expose any warrants sold short; that share count is the commenter's and I did not check it against a filing.</p>",
+              "text": "A post arguing that at $64 a share you could sell one share to fund exercising two warrants drew the run's sharpest rejection. The thread sits at 707 points, but its top comment at 452 says \"this feels like the worst advice ever posted on Superstonk\". The substantive objections are that the idea is just a cashless exercise — \"Just research 'sell to cover' and done. Most brokers will do it automatically for you\" — and that the arithmetic is backwards, since selling one share at $64 and exercising two warrants hands GameStop the cash, which several commenters prefer to selling the warrants. A separate argument against selling warrants at all claims \"there's only supposed to be 59,000,000 warrants out there because that's what GameStop authorized\", so mass exercise would expose any warrants sold short; that share count is the commenter's and I did not check it against a filing. Single source · one author's argument, and the strongest replies disagree with its mechanics rather than its conclusion.",
+              "status": "single-source",
+              "status_html": "<p>Single source · one author's argument, and the strongest replies disagree with its mechanics rather than its conclusion.</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The megathread exists partly to stop the flow of warrant questions: one commenter thanks the author for something that may stem &quot;the approximately ten identi…",
+              "html": "<p>The megathread exists partly to stop the flow of warrant questions: one commenter thanks the author for something that may stem &quot;the approximately ten identical posts per day&quot; asking what to do with warrants, while suspecting many &quot;are attempting to sow FUD&quot;. Members split on whether they are owed anything. One argues Cohen &quot;personally owns over 3.7 million warrants&quot; and so &quot;it simply won't happen&quot; that he lets them lapse; the reply is blunt — &quot;No one owes you anything. You weren't promised anything.&quot; Another points to Overstock, later renamed, whose own warrants are said to be expiring far out of the money, as the cautionary case.</p>",
+              "text": "The megathread exists partly to stop the flow of warrant questions: one commenter thanks the author for something that may stem \"the approximately ten identical posts per day\" asking what to do with warrants, while suspecting many \"are attempting to sow FUD\". Members split on whether they are owed anything. One argues Cohen \"personally owns over 3.7 million warrants\" and so \"it simply won't happen\" that he lets them lapse; the reply is blunt — \"No one owes you anything. You weren't promised anything.\" Another points to Overstock, later renamed, whose own warrants are said to be expiring far out of the money, as the cautionary case.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A post reading &quot;Funny how they only talk about GameStop&quot; was the run's third-highest scorer at 1,041 points</strong>",
+              "html": "<p><strong>A post reading &quot;Funny how they only talk about GameStop&quot; was the run's third-highest scorer at 1,041 points</strong>, complaining that coverage of console price rises names GameStop and not larger retailers. <a href=\"https://www.reddit.com/r/Superstonk/comments/1x1702w/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> is mostly stigma and astroturfing talk, with one commenter linking GameStop's own PS5 Pro listing to argue it undercuts other retailers, and the console price rises themselves attributed in replies to memory costs, tariffs and GTA 6 demand.</p>",
+              "text": "A post reading \"Funny how they only talk about GameStop\" was the run's third-highest scorer at 1,041 points , complaining that coverage of console price rises names GameStop and not larger retailers. The thread is mostly stigma and astroturfing talk, with one commenter linking GameStop's own PS5 Pro listing to argue it undercuts other retailers, and the console price rises themselves attributed in replies to memory costs, tariffs and GTA 6 demand.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "An insider-selling screenshot titled &quot;eBay keeps selling while GME keeps buying&quot; drew 281 points and nine comments, one of them claiming &quot;eBay currently repr…",
+              "html": "<p>An insider-selling screenshot titled <a href=\"https://www.reddit.com/r/Superstonk/comments/1x16hcw/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;eBay keeps selling while GME keeps buying&quot;</a> drew 281 points and nine comments, one of them claiming &quot;eBay currently represents ~40% of GME's market cap&quot;. That percentage is unsourced in the thread.</p>",
+              "text": "An insider-selling screenshot titled \"eBay keeps selling while GME keeps buying\" drew 281 points and nine comments, one of them claiming \"eBay currently represents ~40% of GME's market cap\". That percentage is unsourced in the thread.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A &quot;$64 fair value&quot; is starting to circulate as though a published analyst number existed.</strong>",
+              "html": "<p><strong>A &quot;$64 fair value&quot; is starting to circulate as though a published analyst number existed.</strong> The clearest statement is a comment in the settlement-friction thread: &quot;$40-200 fair value a couple months ago. $64 fair value today.&quot; The $64 in the sub's own posts is warrant arithmetic — twice the $32 strike — and <a href=\"https://www.reddit.com/r/Superstonk/comments/1x0z7o5/\" target=\"_blank\" rel=\"noopener noreferrer\">a separate thread</a> at 850 points treats it instead as a price to hold through, one commenter noting &quot;$64 is $256 pre-split&quot;. Another member asks the right question: &quot;Why do we now jump on a random made up number?&quot;</p>",
+              "text": "A \"$64 fair value\" is starting to circulate as though a published analyst number existed. The clearest statement is a comment in the settlement-friction thread: \"$40-200 fair value a couple months ago. $64 fair value today.\" The $64 in the sub's own posts is warrant arithmetic — twice the $32 strike — and a separate thread at 850 points treats it instead as a price to hold through, one commenter noting \"$64 is $256 pre-split\". Another member asks the right question: \"Why do we now jump on a random made up number?\" Unconfirmed as any analyst or media figure. I searched for a $64 GameStop price target or fair-value article dated October 2026 and found none; the published October initiations I could find are Yorkville Ives at $32 and Argus at $26, both already noted or lower than this.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> as any analyst or media figure. I searched for a $64 GameStop price target or fair-value article dated October 2026 and found none; the published October initiations I could find are Yorkville Ives at $32 and Argus at $26, both already noted or lower than this.</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Cohen's warrant holding, which the sub cites as the reason an extension is coming.</strong>",
+              "html": "<p><strong>Cohen's warrant holding, which the sub cites as the reason an extension is coming.</strong> The commenter's &quot;over 3.7 million&quot; matches the 3,734,784 warrants that secondary summaries of his 2 October Schedule 13D/A report, received at no cost in the warrant dividend.</p>",
+              "text": "Cohen's warrant holding, which the sub cites as the reason an extension is coming. The commenter's \"over 3.7 million\" matches the 3,734,784 warrants that secondary summaries of his 2 October Schedule 13D/A report, received at no cost in the warrant dividend. Reported · the figure is consistent across two secondary summaries of the Schedule 13D/A, but I did not open the filing itself, and no inference about what he will do with them follows from it.",
+              "status": "reported",
+              "status_html": "<p>Reported · the figure is consistent across two secondary summaries of the Schedule 13D/A, but I did not open the filing itself, and no inference about what he will do with them follows from it.</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> Superstonk.",
+              "html": "<p><strong>Read:</strong> Superstonk. <strong>Sources checked:</strong> GameStop's SEC filings via EDGAR, which shows nothing filed on or after 7 October, the most recent being 5 October; GameStop's warrant dividend page and news-release page, both of which returned only navigation to an automated request, so web search was used for the window and found no company release.</p>",
+              "text": "Read: Superstonk. Sources checked: GameStop's SEC filings via EDGAR, which shows nothing filed on or after 7 October, the most recent being 5 October; GameStop's warrant dividend page and news-release page, both of which returned only navigation to an automated request, so web search was used for the window and found no company release.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. No GameStop filing or press release appeared between the 2026-10-07 entry and this run.</p>",
+              "text": "Announced, not discussed: none. No GameStop filing or press release appeared between the 2026-10-07 entry and this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Run two days after the previous entry rather than three, so it samples a hot list that still overlaps the last one; the warrant megathread and the 7 October…",
+              "html": "<p>Run two days after the previous entry rather than three, so it samples a hot list that still overlaps the last one; the warrant megathread and the 7 October off-exchange figure are both carried forward rather than new, and are marked as such above.</p>",
+              "text": "Run two days after the previous entry rather than three, so it samples a hot list that still overlaps the last one; the warrant megathread and the 7 October off-exchange figure are both carried forward rather than new, and are marked as such above.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-07",
       "title": "Superstonk digest",
       "intro_html": "<p>The sub is counting down to the warrant expiry, now 23 days away, and replaying a Ryan Cohen interview from the same day whose closing line, &quot;bet against us&quot;, became the run's slogan. Most of hot is reaction to those two things plus market-data screenshots; the useful material is in the comments, where the claims get checked, often by other members.</p>",
@@ -267,6 +488,30 @@
           "due_label": "expiry, 5:00 p.m. New York time"
         },
         {
+          "headline": "<strong>The warrant agreement permits an extension, and the twenty-day rule the sub cites applies to something else.</strong>",
+          "html": "<p><strong>The warrant agreement permits an extension, and the twenty-day rule the sub cites applies to something else.</strong> Section 4.06(a) lets GameStop and the warrant agent amend the agreement without warrant holders' consent, including &quot;to extend the Expiration Date&quot; and &quot;to increase the Warrant Exercise Rate, decrease the Strike Price, decrease the Warrant Exercise Price&quot;. Section 4.01(h) separately lets the company decrease the strike price or increase the exercise rate &quot;by any amount for a period of at least twenty (20) Business Days&quot; — that minimum attaches to a voluntary strike-price cut, not to an extension, and the agreement says Business Days where the sub's version says trading days. The megathread's claim that too few trading days remain for any change to be possible therefore does not follow from the clause it cites. Sections 4.01(h) and 4.06(a) were read; the agreement was not read end to end.</p>",
+          "text": "The warrant agreement permits an extension, and the twenty-day rule the sub cites applies to something else. Section 4.06(a) lets GameStop and the warrant agent amend the agreement without warrant holders' consent, including \"to extend the Expiration Date\" and \"to increase the Warrant Exercise Rate, decrease the Strike Price, decrease the Warrant Exercise Price\". Section 4.01(h) separately lets the company decrease the strike price or increase the exercise rate \"by any amount for a period of at least twenty (20) Business Days\" — that minimum attaches to a voluntary strike-price cut, not to an extension, and the agreement says Business Days where the sub's version says trading days. The megathread's claim that too few trading days remain for any change to be possible therefore does not follow from the clause it cites. Sections 4.01(h) and 4.06(a) were read; the agreement was not read end to end. Verified for the quoted clauses, against the warrant agreement, Exhibit 4.1 · whether either power is used is unannounced · 2026-10-09",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the quoted clauses, against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000091/projectgenesis-ex41xwarran.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant agreement, Exhibit 4.1</a> · whether either power is used is unannounced · 2026-10-09</p>",
+          "updated": "2026-10-09",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Ryan Cohen holds 3,734,784 warrants, received at no cost in the warrant dividend.</strong>",
+          "html": "<p><strong>Ryan Cohen holds 3,734,784 warrants, received at no cost in the warrant dividend.</strong> The sub cites this as the reason it expects an extension; nothing about his intentions follows from the holding, and his filings have disclosed no sale of warrants.</p>",
+          "text": "Ryan Cohen holds 3,734,784 warrants, received at no cost in the warrant dividend. The sub cites this as the reason it expects an extension; nothing about his intentions follows from the holding, and his filings have disclosed no sale of warrants. Reported · consistent across two secondary summaries of his 2 October 2026 Schedule 13D/A; the filing itself has not been opened · 2026-10-09",
+          "status": "reported",
+          "status_html": "<p>Reported · consistent across two secondary summaries of his 2 October 2026 Schedule 13D/A; the filing itself has not been opened · 2026-10-09</p>",
+          "updated": "2026-10-09",
+          "sources": [],
+          "due": null,
+          "due_label": null
+        },
+        {
           "headline": "<strong>Ryan Cohen keeps buying on the open market.</strong>",
           "html": "<p><strong>Ryan Cohen keeps buying on the open market.</strong> His most recent filed purchase is 700,000 shares on 2 October 2026 at a weighted average of $24.4061, which left him with 41,648,522 shares held directly. Before that, he bought 1,150,680 shares at $22.9375 on 21 September and 450,000 at about $23.47 on 29 September, each with a Schedule 13D amendment.</p>",
           "text": "Ryan Cohen keeps buying on the open market. His most recent filed purchase is 700,000 shares on 2 October 2026 at a weighted average of $24.4061, which left him with 41,648,522 shares held directly. Before that, he bought 1,150,680 shares at $22.9375 on 21 September and 450,000 at about $23.47 on 29 September, each with a Schedule 13D amendment. Verified against the Form 4s for 2 October and 29 September , and the 21 September filing · 2026-10-08",
@@ -320,10 +565,21 @@
         {
           "headline": "<strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong>",
           "html": "<p><strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong> They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered.</p>",
-          "text": "Off-exchange volume, FTD counts and \"who is buying\" candles get posted as screenshots most days. They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered. Single source each time; figures as posted, never independently checked · 2026-10-07",
+          "text": "Off-exchange volume, FTD counts and \"who is buying\" candles get posted as screenshots most days. They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered. Single source each time; figures as posted, never independently checked · 2026-10-09",
           "status": "single-source",
-          "status_html": "<p>Single source each time; figures as posted, never independently checked · 2026-10-07</p>",
-          "updated": "2026-10-07",
+          "status_html": "<p>Single source each time; figures as posted, never independently checked · 2026-10-09</p>",
+          "updated": "2026-10-09",
+          "sources": [],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>A &quot;$64 fair value&quot; for GME is circulating as though a published analyst figure existed.</strong>",
+          "html": "<p><strong>A &quot;$64 fair value&quot; for GME is circulating as though a published analyst figure existed.</strong> It appears in comments as a shift in the media narrative, and in posts as a price to hold through. The $64 in the sub's own threads is warrant arithmetic — twice the $32 strike. A search for a $64 GameStop price target or fair-value article dated October 2026 found none; the October initiations found were Yorkville Ives at $32 and Argus at $26.</p>",
+          "text": "A \"$64 fair value\" for GME is circulating as though a published analyst figure existed. It appears in comments as a shift in the media narrative, and in posts as a price to hold through. The $64 in the sub's own threads is warrant arithmetic — twice the $32 strike. A search for a $64 GameStop price target or fair-value article dated October 2026 found none; the October initiations found were Yorkville Ives at $32 and Argus at $26. Unconfirmed as any analyst or media figure · 2026-10-09",
+          "status": "unconfirmed",
+          "status_html": "<p><strong>Unconfirmed</strong> as any analyst or media figure · 2026-10-09</p>",
+          "updated": "2026-10-09",
           "sources": [],
           "due": null,
           "due_label": null
