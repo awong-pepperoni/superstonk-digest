@@ -16,7 +16,8 @@
       "unverified": "Unverified claims",
       "coverage": "Coverage",
       "other": "Other"
-    }
+    },
+    "source_note": "from Reddit's hot threads"
   },
   "digests": [
     {
@@ -31,11 +32,17 @@
           "items": [
             {
               "headline": "<strong>GameStop's warrants expire at 5:00 p.m. New York time on 30 October 2026.</strong>",
-              "html": "<p><strong>GameStop's warrants expire at 5:00 p.m. New York time on 30 October 2026.</strong> Each warrant buys one share at $32.00. They were distributed one per ten shares held on 3 October 2025.</p>\n<ul>\n<li><strong>Why it matters:</strong> it is a hard deadline. Unexercised warrants lapse, and the sub's talk of an extension has no basis in anything the company has published.</li>\n<li><strong>What to watch:</strong> 30 October, 5:00 p.m. New York time; any company statement on the warrants; for Computershare holders, the separate exercise site and the codes in the &quot;GameStop Warrant Exercise&quot; letter. Members report one online transaction per account before paper forms are needed.</li>\n<li><strong>Numbers:</strong> a $32.00 exercise price and a 1-for-10 distribution ratio, as filed.</li>\n<li><strong>Caveats:</strong> the Computershare process comes from members' reports and was not checked with Computershare. A 23 October last-day-to-sell date circulating on the sub could not be confirmed.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">GameStop's warrant FAQ on EDGAR</a></li>\n</ul>",
-              "text": "GameStop's warrants expire at 5:00 p.m. New York time on 30 October 2026. Each warrant buys one share at $32.00. They were distributed one per ten shares held on 3 October 2025. Why it matters: it is a hard deadline. Unexercised warrants lapse, and the sub's talk of an extension has no basis in anything the company has published. What to watch: 30 October, 5:00 p.m. New York time; any company statement on the warrants; for Computershare holders, the separate exercise site and the codes in the \"GameStop Warrant Exercise\" letter. Members report one online transaction per account before paper forms are needed. Numbers: a $32.00 exercise price and a 1-for-10 distribution ratio, as filed. Caveats: the Computershare process comes from members' reports and was not checked with Computershare. A 23 October last-day-to-sell date circulating on the sub could not be confirmed. Read next: GameStop's warrant FAQ on EDGAR Verified for terms and date · the Computershare details are Reported",
+              "html": "<p><strong>GameStop's warrants expire at 5:00 p.m. New York time on 30 October 2026.</strong> Each warrant buys one share at $32.00. They were distributed one per ten shares held on 3 October 2025.</p>\n<ul>\n<li><strong>Why it matters:</strong> it is a hard deadline. Unexercised warrants lapse, and the sub's talk of an extension has no basis in anything the company has published. <a href=\"https://www.reddit.com/r/Superstonk/comments/1x08d6w/\" target=\"_blank\" rel=\"noopener noreferrer\">The warrant thread</a> is mostly members saying they will hold; the practical detail is in <a href=\"https://www.reddit.com/r/Superstonk/comments/1vh69ne/\" target=\"_blank\" rel=\"noopener noreferrer\">an older help thread</a>.</li>\n<li><strong>What to watch:</strong> 30 October, 5:00 p.m. New York time; any company statement on the warrants; for Computershare holders, the separate exercise site and the codes in the &quot;GameStop Warrant Exercise&quot; letter. Members report one online transaction per account before paper forms are needed.</li>\n<li><strong>Numbers:</strong> a $32.00 exercise price and a 1-for-10 distribution ratio, as filed.</li>\n<li><strong>Caveats:</strong> the Computershare process comes from members' reports and was not checked with Computershare. A 23 October last-day-to-sell date circulating on the sub could not be confirmed.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">GameStop's warrant FAQ on EDGAR</a></li>\n</ul>",
+              "text": "GameStop's warrants expire at 5:00 p.m. New York time on 30 October 2026. Each warrant buys one share at $32.00. They were distributed one per ten shares held on 3 October 2025. Why it matters: it is a hard deadline. Unexercised warrants lapse, and the sub's talk of an extension has no basis in anything the company has published. The warrant thread is mostly members saying they will hold; the practical detail is in an older help thread . What to watch: 30 October, 5:00 p.m. New York time; any company statement on the warrants; for Computershare holders, the separate exercise site and the codes in the \"GameStop Warrant Exercise\" letter. Members report one online transaction per account before paper forms are needed. Numbers: a $32.00 exercise price and a 1-for-10 distribution ratio, as filed. Caveats: the Computershare process comes from members' reports and was not checked with Computershare. A 23 October last-day-to-sell date circulating on the sub could not be confirmed. Read next: GameStop's warrant FAQ on EDGAR Verified for terms and date · the Computershare details are Reported",
               "status": "verified",
               "status_html": "<p><strong>Verified</strong> for terms and date · the Computershare details are Reported</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/Superstonk",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -45,20 +52,17 @@
           "lead_html": null,
           "items": [
             {
-              "headline": "<strong>GameStop's warrants expire at 5:00 p.m. New York time on 30 October 2026, at a $32.00 exercise price.</strong>",
-              "html": "<p><strong>GameStop's warrants expire at 5:00 p.m. New York time on 30 October 2026, at a $32.00 exercise price.</strong> They were distributed one for every ten shares held on 3 October 2025. <a href=\"https://www.reddit.com/r/Superstonk/comments/1x08d6w/\" target=\"_blank\" rel=\"noopener noreferrer\">The warrant thread</a> is mostly members saying they will hold, and a commenter reads 23 October as the last date to sell through Computershare; that date I could not confirm. The most useful practical detail sits in <a href=\"https://www.reddit.com/r/Superstonk/comments/1vh69ne/\" target=\"_blank\" rel=\"noopener noreferrer\">an older help thread</a>: warrants held at Computershare cannot be sold or exercised from the Investor Center or the app, only through a separate site using the account and control codes from the &quot;GameStop Warrant Exercise&quot; letter, and members report you get <strong>one online transaction</strong> per account before paper forms are required.</p>",
-              "text": "GameStop's warrants expire at 5:00 p.m. New York time on 30 October 2026, at a $32.00 exercise price. They were distributed one for every ten shares held on 3 October 2025. The warrant thread is mostly members saying they will hold, and a commenter reads 23 October as the last date to sell through Computershare; that date I could not confirm. The most useful practical detail sits in an older help thread : warrants held at Computershare cannot be sold or exercised from the Investor Center or the app, only through a separate site using the account and control codes from the \"GameStop Warrant Exercise\" letter, and members report you get one online transaction per account before paper forms are required. Verified for the dates, price and ratio, against GameStop's warrant distribution FAQ on SEC EDGAR . The Computershare process is Reported by several commenters; not checked with Computershare.",
-              "status": "verified",
-              "status_html": "<p><strong>Verified</strong> for the dates, price and ratio, against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">GameStop's warrant distribution FAQ on SEC EDGAR</a>. The Computershare process is Reported by several commenters; not checked with Computershare.</p>",
-              "updated": null
-            },
-            {
               "headline": "<strong>Ryan Cohen's most recent filed purchase is 700,000 shares on 2 October, at a weighted average of $24.4061.</strong>",
               "html": "<p><strong>Ryan Cohen's most recent filed purchase is 700,000 shares on 2 October, at a weighted average of $24.4061.</strong> Commenters cite a &quot;myriad of insider buys&quot; as the context for his interview. Per the filing, he directly owned 41,648,522 shares afterwards. EDGAR also lists Form 4s from him dated 10, 21 and 29 September; I did not open those.</p>",
               "text": "Ryan Cohen's most recent filed purchase is 700,000 shares on 2 October, at a weighted average of $24.4061. Commenters cite a \"myriad of insider buys\" as the context for his interview. Per the filing, he directly owned 41,648,522 shares afterwards. EDGAR also lists Form 4s from him dated 10, 21 and 29 September; I did not open those. Verified against the 2 October Form 4 .",
               "status": "verified",
               "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001326380/000092189526002719/form413177018_10022026.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the 2 October Form 4</a>.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>Cohen interview, 7 October: &quot;What can people in this room do to help you?&quot; &quot;Bet against us.&quot;</strong>",
@@ -66,7 +70,12 @@
               "text": "Cohen interview, 7 October: \"What can people in this room do to help you?\" \"Bet against us.\" It was the top post of the run at 2,583 points, with the interview streamed live and clipped in two parts. Commenters describe him as choosing his words carefully, praising retail shareholders, and using AI heavily inside the company. One commenter notes he was not asked about eBay. A separate post quotes him calling his GameStop investment \"a screw-up\" and \"a mistake\" and reads it as an echo of Warren Buffett on Berkshire; one reply warns the cheering is starting to look like past rounds of explaining away bad news. Reported. The quotes are as members transcribed them from video; I found no published transcript of the interview.",
               "status": "reported",
               "status_html": "<p>Reported. The quotes are as members transcribed them from video; I found no published transcript of the interview.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>Yorkville Ives initiated coverage with an outperform rating and a $32 price target</strong>",
@@ -74,7 +83,13 @@
               "text": "Yorkville Ives initiated coverage with an outperform rating and a $32 price target , according to the post (1,672 points) and analyst Dan Ives. Coverage describes the thesis as GameStop becoming a leaner collectibles and capital-allocation business, with trading cards and its PSA grading partnership at the centre. Replies point out the coverage article listed insider share sales without noting they were planned or tax-related sales. Reported, from Investing.com's report ; the research note itself is paywalled and not read.",
               "status": "reported",
               "status_html": "<p>Reported, from <a href=\"https://www.investing.com/news/analyst-ratings/yorkville-ives-initiates-gamestop-stock-coverage-with-outperform-rating-93CH-4937141\" target=\"_blank\" rel=\"noopener noreferrer\">Investing.com's report</a>; the research note itself is paywalled and not read.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/Superstonk",
+                "Investing.com"
+              ],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -89,7 +104,12 @@
               "text": "\"74.24% off-exchange today.\" A screenshot post at 685 points; one commenter says that is the highest off-exchange share since April. The thread reads it as evidence against fair price discovery, without citing the data source. Single source. The figure is as posted; I did not check it against any market-data feed.",
               "status": "single-source",
               "status_html": "<p>Single source. The figure is as posted; I did not check it against any market-data feed.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>A 1.7-million-share volume candle and &quot;$42m+ orders&quot; were read as someone buying in size</strong>",
@@ -97,7 +117,12 @@
               "text": "A 1.7-million-share volume candle and \"$42m+ orders\" were read as someone buying in size , and some members guessed Cohen. Replies in the volume thread push back: one links a post saying the trades were qualified contingent trades and \"does not appear to be his\". Another answers a claim that 2.5 million shares of FTDs were due that day by saying the due date \"is irrelevant when they are covered the next day.\" Single source for each figure, all as posted, with the counter-claims from commenters. None checked.",
               "status": "single-source",
               "status_html": "<p>Single source for each figure, all as posted, with the counter-claims from commenters. None checked.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>&quot;Warrants have ~800% cost to borrow.&quot;</strong>",
@@ -105,7 +130,12 @@
               "text": "\"Warrants have ~800% cost to borrow.\" The post argues that shorts paying that rate are betting on the warrants expiring worthless. A reply corrects the framing: the rate is annualised, which the commenter puts at about 34% for 30 days. Single source, figure as posted.",
               "status": "single-source",
               "status_html": "<p>Single source, figure as posted.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -120,7 +150,10 @@
               "text": "The dominant mood is expectation of an event before 30 October. Theories in the top comments chain the warrant expiry, a claimed 16 October \"gamma ramp\", FTDs and an eBay purchase into a squeeze; a dissenting theory has someone wanting the warrants to expire worthless, with any squeeze coming after. These are members' predictions, reported as such.",
               "status": null,
               "status_html": null,
-              "updated": null
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>Webull drew a &quot;move your shares&quot; thread after a House select committee report on its China ties</strong>",
@@ -128,7 +161,13 @@
               "text": "Webull drew a \"move your shares\" thread after a House select committee report on its China ties , and Webull's own stock fell sharply the same day. One commenter calls the coverage \"nonsense news\". Thread ; CNBC on the report , which Webull says contains \"significant inaccuracies\".",
               "status": null,
               "status_html": null,
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/Superstonk",
+                "cnbc.com"
+              ],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -143,7 +182,12 @@
               "text": "The sub talks about an eBay deal as if it were pending. Examples: \"It's a shame he wasn't asked about the progress on the eBay deal\", \"We buy eBay with cash\", \"eBay might in reality already be a done deal\". GameStop proposed buying eBay at $125 a share in May, and eBay rejected it on 12 May. The latest GameStop filing on it I found, a transcript filed 16 July, says eBay called the offer \"neither credible nor attractive\", with no agreement in place. Cohen added: \"we're coming for eBay one way or another.\" Unconfirmed that any deal is in progress. I checked GameStop's 16 July filing and press coverage of the May offer and rejection, and found nothing newer.",
               "status": "unconfirmed",
               "status_html": "<p><strong>Unconfirmed</strong> that any deal is in progress. I checked <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000119312526307990/d158390d425.htm\" target=\"_blank\" rel=\"noopener noreferrer\">GameStop's 16 July filing</a> and press coverage of the May offer and rejection, and found nothing newer.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>A warrant extension.</strong> The hope runs through the megathread&#x27;s own title, &quot;Warrant Expiration (or possible extension)&quot;, and through the top reply on the expiry p…",
@@ -151,7 +195,10 @@
               "text": "A warrant extension. The hope runs through the megathread's own title, \"Warrant Expiration (or possible extension)\", and through the top reply on the expiry post, \"wait for the fucking extension.\" Unconfirmed . GameStop's warrant FAQ states the 30 October expiry and mentions no extension, and I found no announcement of one.",
               "status": "unconfirmed",
               "status_html": "<p><strong>Unconfirmed</strong>. GameStop's warrant FAQ states the 30 October expiry and mentions no extension, and I found no announcement of one.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -166,7 +213,10 @@
               "text": "Read: Superstonk. Sources checked: GameStop's SEC filings since 21 September. GameStop's investor news page refused automated requests; web search found no company release in the window.",
               "status": null,
               "status_html": null,
-              "updated": null
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>Announced, not discussed:</strong>",
@@ -174,7 +224,12 @@
               "text": "Announced, not discussed: Director Nat Turner bought 10,462 shares on the open market on 1 October, at $24.33. It is his first reported holding. Form 4 Two officers sold shares. CFO Daniel Moore sold 7,297 shares at $24.26 on 1 October ( Form 4 ). General Counsel Mark Robinson sold 7,296 at $24.26 the same day and 3,882 at $25.418 on 5 October ( Form 4 ). His Form 144 describes the shares as restricted stock units. Cohen's September purchases , which the entry listed but did not open: 1,150,680 shares at $22.9375 on 21 September, and 450,000 at about $23.47 on 29 September ( Form 4 ). Each came with a Schedule 13D amendment. They take him from 40,498,522 to 40,948,522 shares before the 2 October purchase. Verified against the Form 4 Status: Verified against the filings. Whether Moore's sale was tied to vesting isn't stated in the Form 4. Status: Verified against the Form 4s",
               "status": "verified",
               "status_html": "<p><strong>Verified</strong> against the Form 4 Status: <strong>Verified</strong> against the filings. Whether Moore's sale was tied to vesting isn't stated in the Form 4. Status: <strong>Verified</strong> against the Form 4s</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged nothing.",
@@ -182,7 +237,10 @@
               "text": "Flagged terms set aside: none; the scan flagged nothing.",
               "status": null,
               "status_html": null,
-              "updated": null
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
             }
           ]
         }
@@ -201,7 +259,12 @@
           "text": "GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026. Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the \"GameStop Warrant Exercise\" letter, with one online transaction per account. Hopes of an extension circulate on the sub, but the company's FAQ states the expiry and mentions no extension, and none has been announced. Verified for terms and date, against the warrant distribution FAQ ; the extension is Unconfirmed · 2026-10-07",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> for terms and date, against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant distribution FAQ</a>; the extension is Unconfirmed · 2026-10-07</p>",
-          "updated": "2026-10-07"
+          "updated": "2026-10-07",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": "2026-10-30",
+          "due_label": "expiry, 5:00 p.m. New York time"
         },
         {
           "headline": "<strong>Ryan Cohen keeps buying on the open market.</strong>",
@@ -209,7 +272,12 @@
           "text": "Ryan Cohen keeps buying on the open market. His most recent filed purchase is 700,000 shares on 2 October 2026 at a weighted average of $24.4061, which left him with 41,648,522 shares held directly. Before that, he bought 1,150,680 shares at $22.9375 on 21 September and 450,000 at about $23.47 on 29 September, each with a Schedule 13D amendment. Verified against the Form 4s for 2 October and 29 September , and the 21 September filing · 2026-10-08",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> against the Form 4s for <a href=\"https://www.sec.gov/Archives/edgar/data/0001326380/000092189526002719/form413177018_10022026.xml\" target=\"_blank\" rel=\"noopener noreferrer\">2 October</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000092189526002670/xslF345X06/form413177gme_09292026.xml\" target=\"_blank\" rel=\"noopener noreferrer\">29 September</a>, and the 21 September filing · 2026-10-08</p>",
-          "updated": "2026-10-08"
+          "updated": "2026-10-08",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
         },
         {
           "headline": "<strong>Other insiders: one director bought, two officers sold.</strong>",
@@ -217,7 +285,10 @@
           "text": "Other insiders: one director bought, two officers sold. Director Nat Turner bought 10,462 shares at $24.33 on 1 October, his first reported holding. CFO Daniel Moore and General Counsel Mark Robinson sold about 7,300 shares each at $24.26 that day, and Robinson sold 3,882 more on 5 October. The sub has not discussed any of these. Verified against the Form 4s · 2026-10-08",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> against the Form 4s · 2026-10-08</p>",
-          "updated": "2026-10-08"
+          "updated": "2026-10-08",
+          "sources": [],
+          "due": null,
+          "due_label": null
         }
       ]
     },
@@ -232,7 +303,12 @@
           "text": "GameStop's unsolicited bid for eBay was rejected, and no agreement exists. GameStop proposed $125 a share in cash and stock in May 2026, and eBay rejected it on 12 May. In a transcript GameStop filed on 16 July, Cohen says eBay called the offer \"neither credible nor attractive\" and adds \"we're coming for eBay one way or another\". The sub often talks about the deal as if it were in progress. Verified as of the 16 July filing ( 425 ); any later development is Unconfirmed · 2026-10-07",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> as of the 16 July filing (<a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000119312526307990/d158390d425.htm\" target=\"_blank\" rel=\"noopener noreferrer\">425</a>); any later development is Unconfirmed · 2026-10-07</p>",
-          "updated": "2026-10-07"
+          "updated": "2026-10-07",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
         }
       ]
     },
@@ -247,7 +323,10 @@
           "text": "Off-exchange volume, FTD counts and \"who is buying\" candles get posted as screenshots most days. They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered. Single source each time; figures as posted, never independently checked · 2026-10-07",
           "status": "single-source",
           "status_html": "<p>Single source each time; figures as posted, never independently checked · 2026-10-07</p>",
-          "updated": "2026-10-07"
+          "updated": "2026-10-07",
+          "sources": [],
+          "due": null,
+          "due_label": null
         }
       ]
     }
