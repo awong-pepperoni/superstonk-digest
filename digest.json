@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08",
+  "generated": "2026-10-09",
   "meta": {
     "feed": "superstonk",
     "title": "Superstonk Digest",
@@ -8,6 +8,7 @@
     "durable_label": "Tracker",
     "durable_heading": "Claims tracker",
     "topics": {
+      "mustknow": "Must know",
       "news": "Company news",
       "data": "Market data",
       "dd": "DD",
@@ -23,6 +24,21 @@
       "title": "Superstonk digest",
       "intro_html": "<p>The sub is counting down to the warrant expiry, now 23 days away, and replaying a Ryan Cohen interview from the same day whose closing line, &quot;bet against us&quot;, became the run's slogan. Most of hot is reaction to those two things plus market-data screenshots; the useful material is in the comments, where the claims get checked, often by other members.</p>",
       "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>GameStop's warrants expire at 5:00 p.m. New York time on 30 October 2026.</strong>",
+              "html": "<p><strong>GameStop's warrants expire at 5:00 p.m. New York time on 30 October 2026.</strong> Each warrant buys one share at $32.00. They were distributed one per ten shares held on 3 October 2025.</p>\n<ul>\n<li><strong>Why it matters:</strong> it is a hard deadline. Unexercised warrants lapse, and the sub's talk of an extension has no basis in anything the company has published.</li>\n<li><strong>What to watch:</strong> 30 October, 5:00 p.m. New York time; any company statement on the warrants; for Computershare holders, the separate exercise site and the codes in the &quot;GameStop Warrant Exercise&quot; letter. Members report one online transaction per account before paper forms are needed.</li>\n<li><strong>Numbers:</strong> a $32.00 exercise price and a 1-for-10 distribution ratio, as filed.</li>\n<li><strong>Caveats:</strong> the Computershare process comes from members' reports and was not checked with Computershare. A 23 October last-day-to-sell date circulating on the sub could not be confirmed.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">GameStop's warrant FAQ on EDGAR</a></li>\n</ul>",
+              "text": "GameStop's warrants expire at 5:00 p.m. New York time on 30 October 2026. Each warrant buys one share at $32.00. They were distributed one per ten shares held on 3 October 2025. Why it matters: it is a hard deadline. Unexercised warrants lapse, and the sub's talk of an extension has no basis in anything the company has published. What to watch: 30 October, 5:00 p.m. New York time; any company statement on the warrants; for Computershare holders, the separate exercise site and the codes in the \"GameStop Warrant Exercise\" letter. Members report one online transaction per account before paper forms are needed. Numbers: a $32.00 exercise price and a 1-for-10 distribution ratio, as filed. Caveats: the Computershare process comes from members' reports and was not checked with Computershare. A 23 October last-day-to-sell date circulating on the sub could not be confirmed. Read next: GameStop's warrant FAQ on EDGAR Verified for terms and date · the Computershare details are Reported",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for terms and date · the Computershare details are Reported</p>",
+              "updated": null
+            }
+          ]
+        },
         {
           "heading": "Company news and filings",
           "category": "news",
