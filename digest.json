@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09",
+  "generated": "2026-10-12",
   "meta": {
     "feed": "superstonk",
     "title": "Superstonk Digest",
@@ -20,6 +20,160 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-12",
+      "title": "Superstonk digest",
+      "intro_html": "<p>With the warrants eighteen days out, the sub spent this run arguing the case it had not made before — that they may simply expire worthless — and the post making it drew 376 comments. Most of hot is memes and weekend hype; the run's biggest scores went to an unreadable screenshot of an X post and the speculation it set off, that GameStop could clone eBay rather than buy it. The one checkable piece of news is not GameStop's at all: DTC has asked the SEC to modernise the Direct Registration System, and comments on that proposal close on 26 October. Nothing new was filed by the company — EDGAR's most recent GameStop filings are still the three from 5 October that the last two entries covered.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>DTC has asked the SEC to modernise the Direct Registration System, and the public comment window closes on 26 October 2026.</strong>",
+              "html": "<p><strong>DTC has asked the SEC to modernise the Direct Registration System, and the public comment window closes on 26 October 2026.</strong> The proposal moves DRS transfers off legacy batch files and onto real-time interfaces, leaving ownership and the transfer agent's approval step unchanged.</p>\n<ul>\n<li><strong>Why it matters:</strong> DRS is this sub's central practice, so a rule change to the plumbing between brokers and transfer agents lands directly on how members hold. <a href=\"https://www.reddit.com/r/Superstonk/comments/1x36hvi/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> at 894 points is the run's highest-scoring piece of substance, and its top comment at 334 points reads the scope correctly: &quot;DTC is proposing to modernize DRS by replacing outdated systems with faster, real-time transfers between brokers and transfer agents like Computershare. Transfers that currently take days could potentially take minutes&quot;, adding that &quot;Your direct ownership doesn't change, and Computershare's scheduled batch purchases won't suddenly become instant buys.&quot; Several commenters read it the other way — one hopes it is &quot;the way to finally buy shares and have them immediately reach the lit markets to affect some proper price discovery&quot;, another that it lets brokers un-register and re-register shares to use as locates. Neither reading follows from the notice I read, which governs DRS deposits and withdrawals through DTC's Securities Processing Application, not how a transfer agent routes purchase orders.</li>\n<li><strong>What to watch:</strong> comments due 26 October 2026; the Commission's approval or disapproval; implementation targeted for 13 November 2026, or no later than January 2027 if DTC cannot meet that date.</li>\n<li><strong>Numbers:</strong> as filed — File No. SR-DTC-2026-012, Release No. 34-106552, filed by DTC on 29 September 2026 and published in the Federal Register on 5 October 2026. The notice describes the new interfaces as &quot;a real-time machine-to-machine processing solution&quot;, and proposes extending Centralized Billing to collect DRS Agents' pass-through fees with a five-percent collection charge, which it says matches existing DRS Centralized Billing rates. The &quot;days to minutes&quot; framing above is the commenter's, not the filing's.</li>\n<li><strong>Caveats:</strong> it is a proposal, not an approved rule, as the thread's own top comment says. I read the Federal Register text of the notice, not its exhibits. The filing keeps the transfer agent in the loop — &quot;The DRS Agent would still need to review and approve or reject the request&quot; — so the sub's hopes and fears about automated re-registration are not in the document.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-dtc-2026-012\" target=\"_blank\" rel=\"noopener noreferrer\">the SEC's rule-filing page for SR-DTC-2026-012</a></li>\n</ul>",
+              "text": "DTC has asked the SEC to modernise the Direct Registration System, and the public comment window closes on 26 October 2026. The proposal moves DRS transfers off legacy batch files and onto real-time interfaces, leaving ownership and the transfer agent's approval step unchanged. Why it matters: DRS is this sub's central practice, so a rule change to the plumbing between brokers and transfer agents lands directly on how members hold. The thread at 894 points is the run's highest-scoring piece of substance, and its top comment at 334 points reads the scope correctly: \"DTC is proposing to modernize DRS by replacing outdated systems with faster, real-time transfers between brokers and transfer agents like Computershare. Transfers that currently take days could potentially take minutes\", adding that \"Your direct ownership doesn't change, and Computershare's scheduled batch purchases won't suddenly become instant buys.\" Several commenters read it the other way — one hopes it is \"the way to finally buy shares and have them immediately reach the lit markets to affect some proper price discovery\", another that it lets brokers un-register and re-register shares to use as locates. Neither reading follows from the notice I read, which governs DRS deposits and withdrawals through DTC's Securities Processing Application, not how a transfer agent routes purchase orders. What to watch: comments due 26 October 2026; the Commission's approval or disapproval; implementation targeted for 13 November 2026, or no later than January 2027 if DTC cannot meet that date. Numbers: as filed — File No. SR-DTC-2026-012, Release No. 34-106552, filed by DTC on 29 September 2026 and published in the Federal Register on 5 October 2026. The notice describes the new interfaces as \"a real-time machine-to-machine processing solution\", and proposes extending Centralized Billing to collect DRS Agents' pass-through fees with a five-percent collection charge, which it says matches existing DRS Centralized Billing rates. The \"days to minutes\" framing above is the commenter's, not the filing's. Caveats: it is a proposal, not an approved rule, as the thread's own top comment says. I read the Federal Register text of the notice, not its exhibits. The filing keeps the transfer agent in the loop — \"The DRS Agent would still need to review and approve or reject the request\" — so the sub's hopes and fears about automated re-registration are not in the document. Read next: the SEC's rule-filing page for SR-DTC-2026-012 Verified against the Federal Register notice and the SEC's rule-filing page · the market-structure consequences members draw from it are their own",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the Federal Register notice and the SEC's rule-filing page · the market-structure consequences members draw from it are their own</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Due diligence",
+          "category": "dd",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The run's most-discussed post argues the warrants were an idea that did not come off, and that GameStop will let them expire rather than engineer a fix.</strong>",
+              "html": "<p><strong>The run's most-discussed post argues the warrants were an idea that did not come off, and that GameStop will let them expire rather than engineer a fix.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3c7qv/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> at 851 points and 376 comments reasons that the $32 warrants were &quot;preloaded&quot; a year ago on the expectation of an eBay deal closing by now, that the rejection sent the company &quot;back to the drawing board&quot;, and that a board which &quot;DON'T like to do business gimmicks&quot; would find a last-minute extension or strike cut out of character: &quot;They cost us nothing, the dilution doesn't happen, and we can finally move on.&quot; It was received as an argument rather than FUD — the top comment at 446 points is &quot;I'll give you an upvote for saying unpopular things out loud.&quot; The strongest objections are that the hostility toward eBay's management was deliberate, so &quot;Getting rejected was part of the plan&quot;; that the premise has already moved, &quot;This was an argument at $17. At $26.60 I am not so sure&quot;; and that the cluster of insider buying as the price climbs is at least a coincidence worth noting. One commenter restates the mechanical point this entry's predecessor checked in the filing — &quot;I thought GameStop can extend the expiry date, change the strike price or pretty much do whatever the fuck they want with the warrants?&quot;</p>",
+              "text": "The run's most-discussed post argues the warrants were an idea that did not come off, and that GameStop will let them expire rather than engineer a fix. The post at 851 points and 376 comments reasons that the $32 warrants were \"preloaded\" a year ago on the expectation of an eBay deal closing by now, that the rejection sent the company \"back to the drawing board\", and that a board which \"DON'T like to do business gimmicks\" would find a last-minute extension or strike cut out of character: \"They cost us nothing, the dilution doesn't happen, and we can finally move on.\" It was received as an argument rather than FUD — the top comment at 446 points is \"I'll give you an upvote for saying unpopular things out loud.\" The strongest objections are that the hostility toward eBay's management was deliberate, so \"Getting rejected was part of the plan\"; that the premise has already moved, \"This was an argument at $17. At $26.60 I am not so sure\"; and that the cluster of insider buying as the price climbs is at least a coincidence worth noting. One commenter restates the mechanical point this entry's predecessor checked in the filing — \"I thought GameStop can extend the expiry date, change the strike price or pretty much do whatever the fuck they want with the warrants?\" Single source · one author's argument about intentions nobody outside the company has stated, and the replies dispute its premises rather than its arithmetic",
+              "status": "single-source",
+              "status_html": "<p>Single source · one author's argument about intentions nobody outside the company has stated, and the replies dispute its premises rather than its arithmetic</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market-data claims",
+          "category": "data",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;Right on the dot at 26.5, and you took delivery instead of selling the call. Paper gets passed around all day. Somebody has to come up with 5,000 real shares now.&quot;</strong>",
+              "html": "<p><strong>&quot;Right on the dot at 26.5, and you took delivery instead of selling the call. Paper gets passed around all day. Somebody has to come up with 5,000 real shares now.&quot;</strong> That comment, at 95 points, is the only account of what <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3ipiy/\" target=\"_blank\" rel=\"noopener noreferrer\">the run's fourth-highest post</a> at 1,457 points actually shows: a screenshot titled &quot;Goofed around and exercised my calls.&quot; The rest of the thread is reaction GIFs. Neither the contract count nor the strike appears anywhere in text I could read, and nothing identifies the broker or the expiry.</p>",
+              "text": "\"Right on the dot at 26.5, and you took delivery instead of selling the call. Paper gets passed around all day. Somebody has to come up with 5,000 real shares now.\" That comment, at 95 points, is the only account of what the run's fourth-highest post at 1,457 points actually shows: a screenshot titled \"Goofed around and exercised my calls.\" The rest of the thread is reaction GIFs. Neither the contract count nor the strike appears anywhere in text I could read, and nothing identifies the broker or the expiry. Single source · the share figure is one commenter's reading of an image, and the post itself carries no text",
+              "status": "single-source",
+              "status_html": "<p>Single source · the share figure is one commenter's reading of an image, and the post itself carries no text</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A screenshot the sub labels only &quot;Larry on X&quot; was the run's top post at 2,026 points, and the thread turned into an argument about building an eBay rather than buying one.</strong>",
+              "html": "<p><strong>A screenshot the sub labels only &quot;Larry on X&quot; was the run's top post at 2,026 points, and the thread turned into an argument about building an eBay rather than buying one.</strong> The image is unreadable to me and no commenter quotes it; from the replies it concerns a tool that uses AI to reverse-engineer software, with members citing clones of Adobe's apps as the precedent. Who posted it and what it said are not established in the thread. The follow-on post, <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3os1x/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;could it be&quot;</a> at 1,855 points, draws the inference — one commenter puts it as &quot;when you're ready, you won't have to buy ebay&quot; — and the most-upvoted replies there are the sceptical ones: &quot;building an ebay was never the difficult part. hosting it and getting people to use it is&quot;, and &quot;there's nothing about ebay that needs to be reverse engineered. Its advantage is the network effect&quot;.</p>",
+              "text": "A screenshot the sub labels only \"Larry on X\" was the run's top post at 2,026 points, and the thread turned into an argument about building an eBay rather than buying one. The image is unreadable to me and no commenter quotes it; from the replies it concerns a tool that uses AI to reverse-engineer software, with members citing clones of Adobe's apps as the precedent. Who posted it and what it said are not established in the thread. The follow-on post, \"could it be\" at 1,855 points, draws the inference — one commenter puts it as \"when you're ready, you won't have to buy ebay\" — and the most-upvoted replies there are the sceptical ones: \"building an ebay was never the difficult part. hosting it and getting people to use it is\", and \"there's nothing about ebay that needs to be reverse engineered. Its advantage is the network effect\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Members are still discovering that Computershare warrants cannot be exercised from Investor Center.</strong>",
+              "html": "<p><strong>Members are still discovering that Computershare warrants cannot be exercised from Investor Center.</strong> A <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3nkkt/\" target=\"_blank\" rel=\"noopener noreferrer\">walkthrough of the separate corporate-action site</a> at 419 points drew replies like &quot;This is incredibly helpful, I had zero idea that I'd need to do this without this post&quot; and &quot;Wait, why is there a website for this?&quot;, eighteen days out. The mechanics match what the megathread and the last two entries recorded.</p>",
+              "text": "Members are still discovering that Computershare warrants cannot be exercised from Investor Center. A walkthrough of the separate corporate-action site at 419 points drew replies like \"This is incredibly helpful, I had zero idea that I'd need to do this without this post\" and \"Wait, why is there a website for this?\", eighteen days out. The mechanics match what the megathread and the last two entries recorded.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Columbus Day produced its own thesis: a post at 751 points notes banks and bond markets are closed while the NYSE trades, and concludes &quot;Marge calls Tuesday.…",
+              "html": "<p>Columbus Day produced its own thesis: <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3hapi/\" target=\"_blank\" rel=\"noopener noreferrer\">a post</a> at 751 points notes banks and bond markets are closed while the NYSE trades, and concludes &quot;Marge calls Tuesday.&quot; The author's own follow-up is &quot;Yea, but they are also not open to issue a margin call. In theory…🤦🏻‍♂️ I know nothing&quot;, and a reply counters &quot;The big guys never sleep.&quot; One commenter adds that &quot;options settlement from last week is on tuesday&quot;, unsourced.</p>",
+              "text": "Columbus Day produced its own thesis: a post at 751 points notes banks and bond markets are closed while the NYSE trades, and concludes \"Marge calls Tuesday.\" The author's own follow-up is \"Yea, but they are also not open to issue a margin call. In theory…🤦🏻‍♂️ I know nothing\", and a reply counters \"The big guys never sleep.\" One commenter adds that \"options settlement from last week is on tuesday\", unsourced.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> Superstonk.",
+              "html": "<p><strong>Read:</strong> Superstonk. <strong>Sources checked:</strong> GameStop's SEC filings via EDGAR, where the most recent filings are still two Form 4s and a Form 144 dated 5 October, all already covered; GameStop's news-release page, which returned only navigation to an automated request, so web search was used for the window and surfaced no company release since the last entry.</p>",
+              "text": "Read: Superstonk. Sources checked: GameStop's SEC filings via EDGAR, where the most recent filings are still two Form 4s and a Form 144 dated 5 October, all already covered; GameStop's news-release page, which returned only navigation to an automated request, so web search was used for the window and surfaced no company release since the last entry.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. No GameStop filing or press release appeared between the 2026-10-09 entry and this run.</p>",
+              "text": "Announced, not discussed: none. No GameStop filing or press release appeared between the 2026-10-09 entry and this run. Verified against EDGAR's filing list for CIK 0001326380",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against EDGAR's filing list for CIK 0001326380</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "title": "Superstonk digest",
@@ -385,7 +539,7 @@
               "updated": null,
               "sources": [
                 "r/Superstonk",
-                "cnbc.com"
+                "CNBC"
               ],
               "due": null,
               "due_label": null
@@ -558,10 +712,43 @@
       ]
     },
     {
+      "theme": "Market-structure claims",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>DTC has asked the SEC to modernise the Direct Registration System, moving DRS transfers onto real-time interfaces.</strong>",
+          "html": "<p><strong>DTC has asked the SEC to modernise the Direct Registration System, moving DRS transfers onto real-time interfaces.</strong> File No. SR-DTC-2026-012, Release No. 34-106552, filed 29 September 2026 and published in the Federal Register on 5 October 2026. It makes DRS available through DTC's Securities Processing Application via the DTCC Portal, replacing legacy batch-file processing with what the notice calls &quot;a real-time machine-to-machine processing solution&quot;, and extends Centralized Billing to DRS Agents' pass-through fees with a five-percent collection charge. Ownership does not change and the DRS Agent still approves or rejects each request. Implementation is targeted for 13 November 2026, or no later than January 2027. The sub's readings that it will route Computershare purchases straight to lit markets, or let brokers re-register shares as locates, are not supported by the notice.</p>",
+          "text": "DTC has asked the SEC to modernise the Direct Registration System, moving DRS transfers onto real-time interfaces. File No. SR-DTC-2026-012, Release No. 34-106552, filed 29 September 2026 and published in the Federal Register on 5 October 2026. It makes DRS available through DTC's Securities Processing Application via the DTCC Portal, replacing legacy batch-file processing with what the notice calls \"a real-time machine-to-machine processing solution\", and extends Centralized Billing to DRS Agents' pass-through fees with a five-percent collection charge. Ownership does not change and the DRS Agent still approves or rejects each request. Implementation is targeted for 13 November 2026, or no later than January 2027. The sub's readings that it will route Computershare purchases straight to lit markets, or let brokers re-register shares as locates, are not supported by the notice. Verified against the SEC's rule-filing page and the Federal Register notice; it remains a proposal, not an approved rule · 2026-10-12",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-dtc-2026-012\" target=\"_blank\" rel=\"noopener noreferrer\">the SEC's rule-filing page</a> and the Federal Register notice; it remains a proposal, not an approved rule · 2026-10-12</p>",
+          "updated": "2026-10-12",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": "2026-10-26",
+          "due_label": "public comments due"
+        }
+      ]
+    },
+    {
       "theme": "Recurring community claims",
       "sub": false,
       "lead_html": null,
       "items": [
+        {
+          "headline": "<strong>The sub now argues both sides of the warrant expiry.</strong>",
+          "html": "<p><strong>The sub now argues both sides of the warrant expiry.</strong> The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3c7qv/\" target=\"_blank\" rel=\"noopener noreferrer\">a post</a> at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated.</p>",
+          "text": "The sub now argues both sides of the warrant expiry. The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in a post at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated. Single source for the argument; the mechanical question it rests on is settled above under Corporate actions · 2026-10-12",
+          "status": "single-source",
+          "status_html": "<p>Single source for the argument; the mechanical question it rests on is settled above under Corporate actions · 2026-10-12</p>",
+          "updated": "2026-10-12",
+          "sources": [
+            "r/Superstonk"
+          ],
+          "due": null,
+          "due_label": null
+        },
         {
           "headline": "<strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong>",
           "html": "<p><strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong> They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered.</p>",
