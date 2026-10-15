@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12",
+  "generated": "2026-10-15",
   "meta": {
     "feed": "superstonk",
     "title": "Superstonk Digest",
@@ -20,6 +20,200 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-15",
+      "title": "Superstonk digest",
+      "intro_html": "<p>Ryan Cohen bought 844,130 shares on 13 October, and that filing is what the sub ran on this whole run — a human-written read of the purchase prices was the highest-scoring piece of substance, and the rest of hot is frustration that the price fell anyway. The other development is a correction to the entry before this one: the megathread has replaced its wrong twenty-day claim with a DD that puts the practical cutoff for any warrant change in the week of 20 October. Warrants are fifteen days out. Four GameStop filings landed on 13 October, all of them insider paperwork; the company itself has announced nothing.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Ryan Cohen bought 844,130 GameStop shares on 13 October 2026, taking his direct holding to 42,492,652 shares and his reported beneficial ownership to about 9.1%.</strong>",
+              "html": "<p><strong>Ryan Cohen bought 844,130 GameStop shares on 13 October 2026, taking his direct holding to 42,492,652 shares and his reported beneficial ownership to about 9.1%.</strong> The purchase came in two blocks at prices one dollar below and five dollars below the $32 warrant strike, and the sub read the shape of the order as deliberate.</p>\n<ul>\n<li><strong>Why it matters:</strong> it is the fifth filed open-market purchase since 10 September and the largest dollar amount of the series, with the warrants expiring on 30 October. The run's most-discussed substantive post, <a href=\"https://www.reddit.com/r/Superstonk/comments/1x5uluw/\" target=\"_blank\" rel=\"noopener noreferrer\">a hand-made comparison of all five purchases</a> at 1,973 points, argues this one behaved differently from the others: the day's low was exactly $26.75, the lower of the two fill prices, so &quot;RC has set up limit buys beforehand that got triggered by the dips. Basically he didn't want the price to drop, so he set up a net.&quot; The author's own conclusion is hedged — &quot;Based on data RC is using different tactics but clearly is keeping an eye on the stock price&quot; — and he states plainly that his volume data is from a free TradingView account. The top comment, at 838 points, upvotes the post for being human-written rather than for its thesis; the next, at 349, draws the inference the sub wants: &quot;If it's true he has limit buys set, that sends a pretty strong message to the shorts: you can't even drop the price temporarily without consequence.&quot;</li>\n<li><strong>What to watch:</strong> any further Form 4 or Schedule 13D amendment before 30 October; whether the share count in the next 13D/A still shows 3,734,784 warrants unsold.</li>\n<li><strong>Numbers:</strong> as filed — 67,130 shares at $26.7500 and 777,000 shares at $27.0000, both coded P, both dated 13 October 2026, leaving 42,492,652 shares held directly. The Schedule 13D/A filed the same day, Amendment No. 21, states &quot;Aggregate amount beneficially owned by each reporting person: 46,227,436.00&quot; at &quot;9.1 %&quot;, and that &quot;Mr. Cohen also owns 3,734,784 Warrants, which Mr. Cohen received from the Issuer for no consideration pursuant to a warrant dividend&quot;. The post's table of the five purchase dates matches the filings for every line I checked. The limit-buy reading, and the claim that the fills sat at call walls, are the posters' own.</li>\n<li><strong>Caveats:</strong> a Form 4 records the price and date of a purchase, not the order type, so nothing in the filings says whether these were limit orders or how they were routed. The sub's step from that to a defended price floor is an inference, and the author does not make it himself.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000092189526002784/form413177018_10132026.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 for 13 October</a></li>\n</ul>",
+              "text": "Ryan Cohen bought 844,130 GameStop shares on 13 October 2026, taking his direct holding to 42,492,652 shares and his reported beneficial ownership to about 9.1%. The purchase came in two blocks at prices one dollar below and five dollars below the $32 warrant strike, and the sub read the shape of the order as deliberate. Why it matters: it is the fifth filed open-market purchase since 10 September and the largest dollar amount of the series, with the warrants expiring on 30 October. The run's most-discussed substantive post, a hand-made comparison of all five purchases at 1,973 points, argues this one behaved differently from the others: the day's low was exactly $26.75, the lower of the two fill prices, so \"RC has set up limit buys beforehand that got triggered by the dips. Basically he didn't want the price to drop, so he set up a net.\" The author's own conclusion is hedged — \"Based on data RC is using different tactics but clearly is keeping an eye on the stock price\" — and he states plainly that his volume data is from a free TradingView account. The top comment, at 838 points, upvotes the post for being human-written rather than for its thesis; the next, at 349, draws the inference the sub wants: \"If it's true he has limit buys set, that sends a pretty strong message to the shorts: you can't even drop the price temporarily without consequence.\" What to watch: any further Form 4 or Schedule 13D amendment before 30 October; whether the share count in the next 13D/A still shows 3,734,784 warrants unsold. Numbers: as filed — 67,130 shares at $26.7500 and 777,000 shares at $27.0000, both coded P, both dated 13 October 2026, leaving 42,492,652 shares held directly. The Schedule 13D/A filed the same day, Amendment No. 21, states \"Aggregate amount beneficially owned by each reporting person: 46,227,436.00\" at \"9.1 %\", and that \"Mr. Cohen also owns 3,734,784 Warrants, which Mr. Cohen received from the Issuer for no consideration pursuant to a warrant dividend\". The post's table of the five purchase dates matches the filings for every line I checked. The limit-buy reading, and the claim that the fills sat at call walls, are the posters' own. Caveats: a Form 4 records the price and date of a purchase, not the order type, so nothing in the filings says whether these were limit orders or how they were routed. The sub's step from that to a defended price floor is an inference, and the author does not make it himself. Read next: the Form 4 for 13 October Verified against the 13 October Form 4 and Schedule 13D/A Amendment No. 21 · the limit-order and call-wall readings are Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the 13 October Form 4 and <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000092189526002783/xslSCHEDULE_13D_X02/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Schedule 13D/A Amendment No. 21</a> · the limit-order and call-wall readings are Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The warrant megathread has dropped the twenty-day claim the last entry corrected and replaced it with a DD arguing the practical deadline for any change to the warrants falls in the week of 20 October.</strong>",
+              "html": "<p><strong>The warrant megathread has dropped the twenty-day claim the last entry corrected and replaced it with a DD arguing the practical deadline for any change to the warrants falls in the week of 20 October.</strong> The new analysis reaches roughly the right conclusion from the right documents, and one commenter has found a real hole in its central legal step.</p>\n<ul>\n<li><strong>Why it matters:</strong> holders deciding whether to sell, exercise or wait are now working from a date, not a vibe. <a href=\"https://www.reddit.com/r/Superstonk/comments/1x56b7v/\" target=\"_blank\" rel=\"noopener noreferrer\">The DD</a> at 441 points quotes the prospectus supplement rather than a screenshot, and separates the two powers the last entry had to untangle by hand: a voluntary strike-price decrease needs a 20-Business-Day runway and so is out of reach, while extending the expiration date is an amendment GameStop can make without holder consent on &quot;reasonable notice ... via press release or Form 8-K filing&quot;. From there the author adds NYSE Listed Company Manual Section 204 and SEC Rule 10b-17, and concludes &quot;the absolute cutoff for an announcement of change to the terms of the warrants, in my humble fucking opinion would be about 10 calendar days, or 5-7 business days before expiration.&quot; The sharpest reply disputes exactly that step: &quot;Record dates are not the same as expiration dates. The NYSE rules about 10 day prior notification about RECORD dates do not apply to expiration dates. ... GameStop can change the expiration date any anytime up until expiration.&quot; I did not read the NYSE manual sections, so I cannot settle which reading is right.</li>\n<li><strong>What to watch:</strong> the author's three candidate cutoffs, 20, 21 and 23 October 2026; 30 October, 5:00 p.m. New York time; any 8-K under Item 3.03; and for holders at Computershare, that one-online-transaction limit. The megathread now also carries a member's report that &quot;Fidelity's deadline for exercising is 7PM Oct 29, 2026&quot; with best-effort orders accepted until 11 a.m. ET on 30 October — that is one member's account of what a broker told them, not a company statement.</li>\n<li><strong>Numbers:</strong> as filed, the prospectus supplement says the Company &quot;may decrease the Strike Price (or increase the Warrant Exercise Rate) by any amount for a period of at least 20 Business Days&quot;, lists &quot;to extend the Expiration Date&quot; among the amendments permitted without holder consent, and requires that &quot;The Company shall provide reasonable notice to the Holders via press release or Form 8-K filing of any material amendment to the Warrant Agreement&quot;. I checked those three quotations against the filed document and they are accurate. The 10-calendar-day, 7-trading-day and 5-trading-day cutoffs, the four-business-day 8-K window and the 20-business-day Rule 13e-4 tender-offer period are the author's analysis.</li>\n<li><strong>Caveats:</strong> this is one member's legal reading, not advice from the company or a lawyer, and the author presents the verdict as opinion. Its NYSE notice argument is contested in its own comments on a point that looks substantive. Nothing here says an extension is coming; GameStop has announced nothing about the warrants.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000092/projectgenesis-prospectuss.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant prospectus supplement</a></li>\n</ul>",
+              "text": "The warrant megathread has dropped the twenty-day claim the last entry corrected and replaced it with a DD arguing the practical deadline for any change to the warrants falls in the week of 20 October. The new analysis reaches roughly the right conclusion from the right documents, and one commenter has found a real hole in its central legal step. Why it matters: holders deciding whether to sell, exercise or wait are now working from a date, not a vibe. The DD at 441 points quotes the prospectus supplement rather than a screenshot, and separates the two powers the last entry had to untangle by hand: a voluntary strike-price decrease needs a 20-Business-Day runway and so is out of reach, while extending the expiration date is an amendment GameStop can make without holder consent on \"reasonable notice ... via press release or Form 8-K filing\". From there the author adds NYSE Listed Company Manual Section 204 and SEC Rule 10b-17, and concludes \"the absolute cutoff for an announcement of change to the terms of the warrants, in my humble fucking opinion would be about 10 calendar days, or 5-7 business days before expiration.\" The sharpest reply disputes exactly that step: \"Record dates are not the same as expiration dates. The NYSE rules about 10 day prior notification about RECORD dates do not apply to expiration dates. ... GameStop can change the expiration date any anytime up until expiration.\" I did not read the NYSE manual sections, so I cannot settle which reading is right. What to watch: the author's three candidate cutoffs, 20, 21 and 23 October 2026; 30 October, 5:00 p.m. New York time; any 8-K under Item 3.03; and for holders at Computershare, that one-online-transaction limit. The megathread now also carries a member's report that \"Fidelity's deadline for exercising is 7PM Oct 29, 2026\" with best-effort orders accepted until 11 a.m. ET on 30 October — that is one member's account of what a broker told them, not a company statement. Numbers: as filed, the prospectus supplement says the Company \"may decrease the Strike Price (or increase the Warrant Exercise Rate) by any amount for a period of at least 20 Business Days\", lists \"to extend the Expiration Date\" among the amendments permitted without holder consent, and requires that \"The Company shall provide reasonable notice to the Holders via press release or Form 8-K filing of any material amendment to the Warrant Agreement\". I checked those three quotations against the filed document and they are accurate. The 10-calendar-day, 7-trading-day and 5-trading-day cutoffs, the four-business-day 8-K window and the 20-business-day Rule 13e-4 tender-offer period are the author's analysis. Caveats: this is one member's legal reading, not advice from the company or a lawyer, and the author presents the verdict as opinion. Its NYSE notice argument is contested in its own comments on a point that looks substantive. Nothing here says an extension is coming; GameStop has announced nothing about the warrants. Read next: the warrant prospectus supplement Verified for the three prospectus quotations, against the filed prospectus supplement · the timing verdict is Single source and disputed in the thread",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the three prospectus quotations, against the filed prospectus supplement · the timing verdict is Single source and disputed in the thread</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>GameStop's principal financial officer sold 15,480 shares at $27 on 12 October under a trading plan adopted a year earlier, and the sub has not mentioned it.</strong>",
+              "html": "<p><strong>GameStop's principal financial officer sold 15,480 shares at $27 on 12 October under a trading plan adopted a year earlier, and the sub has not mentioned it.</strong> The Form 4 codes the sale S(1) and attributes it to a Rule 10b5-1 plan adopted on 3 October 2025, leaving 92,348 shares held. A Form 144 filed the same day puts the aggregate market value at $411,148.80, says the shares came from restricted stock units that vested between 1 January and 1 October 2026, and explains the late notice: EDGAR was unavailable on 12 October for the federal holiday. The same officer sold 7,297 shares on 1 October, which the previous tracker entry recorded.</p>",
+              "text": "GameStop's principal financial officer sold 15,480 shares at $27 on 12 October under a trading plan adopted a year earlier, and the sub has not mentioned it. The Form 4 codes the sale S(1) and attributes it to a Rule 10b5-1 plan adopted on 3 October 2025, leaving 92,348 shares held. A Form 144 filed the same day puts the aggregate market value at $411,148.80, says the shares came from restricted stock units that vested between 1 January and 1 October 2026, and explains the late notice: EDGAR was unavailable on 12 October for the federal holiday. The same officer sold 7,297 shares on 1 October, which the previous tracker entry recorded. Verified against the Form 4 and Form 144 filed 13 October 2026",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000199054726000025/xslF345X06/wk-form4_1791940906.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Form 4</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000195004726010160/xsl144X01/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Form 144</a> filed 13 October 2026</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market-data claims",
+          "category": "data",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;8 million volume candle after hours! Far outside standard candle volume&quot; — then the thread established it was neither after hours nor, probably, real.</strong>",
+              "html": "<p><strong>&quot;8 million volume candle after hours! Far outside standard candle volume&quot; — then the thread established it was neither after hours nor, probably, real.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x67j68/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> at 368 points shows a chart the OP read as an after-hours spike. The first comment, at 67 points, points out &quot;Your image is showing today at 1:15pm for the 8M volume&quot;, and the commenter who looked hardest says &quot;That minute had 7.91 million volume&quot; before conceding &quot;Also, I realize now this is the same picture. That wasn't after hours.&quot; Two others attribute it to the platform: &quot;It shows on Yahoo finance. Not sure if it's just a glitch&quot;, and &quot;This and yahoo is known to be the most glitchy platform there is, but for some reason people keep making posts about it after 5 years&quot;. Nobody in the thread checked it against a second data source, and neither did I.</p>",
+              "text": "\"8 million volume candle after hours! Far outside standard candle volume\" — then the thread established it was neither after hours nor, probably, real. The post at 368 points shows a chart the OP read as an after-hours spike. The first comment, at 67 points, points out \"Your image is showing today at 1:15pm for the 8M volume\", and the commenter who looked hardest says \"That minute had 7.91 million volume\" before conceding \"Also, I realize now this is the same picture. That wasn't after hours.\" Two others attribute it to the platform: \"It shows on Yahoo finance. Not sure if it's just a glitch\", and \"This and yahoo is known to be the most glitchy platform there is, but for some reason people keep making posts about it after 5 years\". Nobody in the thread checked it against a second data source, and neither did I. Single source · the figure is as posted from one charting platform, corrected within the thread as to timing and unverified as to existence",
+              "status": "single-source",
+              "status_html": "<p>Single source · the figure is as posted from one charting platform, corrected within the thread as to timing and unverified as to existence</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Volume after hours is very low. Lower than Cohens entire buy. Yet it drops like nothing. What a joke market.&quot;</strong>",
+              "html": "<p><strong>&quot;Volume after hours is very low. Lower than Cohens entire buy. Yet it drops like nothing. What a joke market.&quot;</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x653c3/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> at 1,528 points carries no data beyond that title; the OP's own top comment asks &quot;How can you drop 5% on orders like 600 shares per batch&quot;. No share count, percentage or time is sourced anywhere in the thread. The replies supply mechanisms rather than evidence — &quot;Ladder attack&quot;, internalisation described as selling &quot;it to yourself back and forth at lower and lower prices&quot; — and the most measured one is simply &quot;Hence 'scam hours'.&quot; One commenter asks whether the next day is T+35 from the 10 September purchase; nobody answers.</p>",
+              "text": "\"Volume after hours is very low. Lower than Cohens entire buy. Yet it drops like nothing. What a joke market.\" The post at 1,528 points carries no data beyond that title; the OP's own top comment asks \"How can you drop 5% on orders like 600 shares per batch\". No share count, percentage or time is sourced anywhere in the thread. The replies supply mechanisms rather than evidence — \"Ladder attack\", internalisation described as selling \"it to yourself back and forth at lower and lower prices\" — and the most measured one is simply \"Hence 'scam hours'.\" One commenter asks whether the next day is T+35 from the 10 September purchase; nobody answers. Single source · the 5% and the 600-share batches are the poster's, unsourced, and the after-hours figure others quoted in a neighbouring thread ranged from 766,320 to 1.56 million depending on the platform",
+              "status": "single-source",
+              "status_html": "<p>Single source · the 5% and the 600-share batches are the poster's, unsourced, and the after-hours figure others quoted in a neighbouring thread ranged from 766,320 to 1.56 million depending on the platform</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Cohen's purchase landing on a red day set the tone for the run, and the sub's reaction was more exasperated than triumphant.</strong>",
+              "html": "<p><strong>Cohen's purchase landing on a red day set the tone for the run, and the sub's reaction was more exasperated than triumphant.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x5zhwd/\" target=\"_blank\" rel=\"noopener noreferrer\">A post titled only &quot;Lol. lmao even&quot;</a> took 2,307 points and 196 comments, its top comment at 925 reading &quot;CEO buys 800k+ shares and we're about to be red for the day lmao, what a load of shit.&quot; One reply supplies the counterweight the thread mostly lacks — &quot;The entire market is taking a fat shit today. GME is doing fine&quot; — at 89 points against the 460 on &quot;Any other company in the entire stock market, the CEO buys 800k shares and the stock sky rockets.&quot; The two posts the scan flagged for the sub's nickname for Cohen, RCEO, are both this joke in another form: buying a few shares yourself to help him out. <a href=\"https://www.reddit.com/r/Superstonk/comments/1x66o71/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;It's over boys. We lost.&quot;</a> at 682 points is the same sentiment played as satire, and its top comment is &quot;Can't wait for RC to get pissed at this and buy another 800K shares tomorrow.&quot;</p>",
+              "text": "Cohen's purchase landing on a red day set the tone for the run, and the sub's reaction was more exasperated than triumphant. A post titled only \"Lol. lmao even\" took 2,307 points and 196 comments, its top comment at 925 reading \"CEO buys 800k+ shares and we're about to be red for the day lmao, what a load of shit.\" One reply supplies the counterweight the thread mostly lacks — \"The entire market is taking a fat shit today. GME is doing fine\" — at 89 points against the 460 on \"Any other company in the entire stock market, the CEO buys 800k shares and the stock sky rockets.\" The two posts the scan flagged for the sub's nickname for Cohen, RCEO, are both this joke in another form: buying a few shares yourself to help him out. \"It's over boys. We lost.\" at 682 points is the same sentiment played as satire, and its top comment is \"Can't wait for RC to get pissed at this and buy another 800K shares tomorrow.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The run's single highest-scoring post is a screenshot captioned only &quot;Larry Cheng on X&quot;, and no commenter quotes what it says.</strong>",
+              "html": "<p><strong>The run's single highest-scoring post is a screenshot captioned only &quot;Larry Cheng on X&quot;, and no commenter quotes what it says.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x62j7h/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> reached 2,670 points on 49 comments. The image is unreadable to me and the replies establish only the gist — the top comment at 416 points asks &quot;So GME is a top 5% company?&quot; — so what Cheng, a GameStop director, actually posted is not established here. One of the few sceptical replies is worth recording against the mood: &quot;GameStop being at a 52-week high is cool and all, but $27 isn't based on reality.&quot;</p>",
+              "text": "The run's single highest-scoring post is a screenshot captioned only \"Larry Cheng on X\", and no commenter quotes what it says. The thread reached 2,670 points on 49 comments. The image is unreadable to me and the replies establish only the gist — the top comment at 416 points asks \"So GME is a top 5% company?\" — so what Cheng, a GameStop director, actually posted is not established here. One of the few sceptical replies is worth recording against the mood: \"GameStop being at a 52-week high is cool and all, but $27 isn't based on reality.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Trading cards are back in hot, this time through a Pawn Stars cast member streaming pack openings in GameStop clothing.</strong>",
+              "html": "<p><strong>Trading cards are back in hot, this time through a Pawn Stars cast member streaming pack openings in GameStop clothing.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x69tk7/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> at 2,083 points draws 163 points of curiosity about his audience size, the OP's answer that &quot;He's very well known in the TCG world&quot;, and the obvious caution from another member: &quot;Likely not his own money. I think the GameStop hat and shirt were part of this sponsorship/maketing deal lmfao.&quot; Whether GameStop paid for any of it is not established in the thread. The OP states the total spend as &quot;$100k&quot; with no source.</p>",
+              "text": "Trading cards are back in hot, this time through a Pawn Stars cast member streaming pack openings in GameStop clothing. The post at 2,083 points draws 163 points of curiosity about his audience size, the OP's answer that \"He's very well known in the TCG world\", and the obvious caution from another member: \"Likely not his own money. I think the GameStop hat and shirt were part of this sponsorship/maketing deal lmfao.\" Whether GameStop paid for any of it is not established in the thread. The OP states the total spend as \"$100k\" with no source.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Nostalgia is doing well: a reposted Roaring Kitty clip titled &quot;Breaking $30 This is All Ryan Cohen&quot; took 1,579 points, and the useful comment in it is the co…",
+              "html": "<p>Nostalgia is doing well: <a href=\"https://www.reddit.com/r/Superstonk/comments/1x6b1wg/\" target=\"_blank\" rel=\"noopener noreferrer\">a reposted Roaring Kitty clip</a> titled &quot;Breaking $30 This is All Ryan Cohen&quot; took 1,579 points, and the useful comment in it is the correction that the old price action is not comparable — &quot;There's been a 4:1 stock split since this video.&quot;</p>",
+              "text": "Nostalgia is doing well: a reposted Roaring Kitty clip titled \"Breaking $30 This is All Ryan Cohen\" took 1,579 points, and the useful comment in it is the correction that the old price action is not comparable — \"There's been a 4:1 stock split since this video.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> Superstonk.",
+              "html": "<p><strong>Read:</strong> Superstonk. <strong>Sources checked:</strong> GameStop's SEC filings via EDGAR, where four filings dated 13 October 2026 are the most recent and all four are accounted for above or in the tracker; GameStop's news-release page, which again returned only navigation, so web search was used for the 12–15 October window and surfaced no company release, the most recent releases found being the 2026 annual meeting results of 7 July and the fiscal 2026 outlook of 26 June.</p>",
+              "text": "Read: Superstonk. Sources checked: GameStop's SEC filings via EDGAR, where four filings dated 13 October 2026 are the most recent and all four are accounted for above or in the tracker; GameStop's news-release page, which again returned only navigation, so web search was used for the 12–15 October window and surfaced no company release, the most recent releases found being the 2026 annual meeting results of 7 July and the fiscal 2026 outlook of 26 June.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> the principal financial officer&#x27;s 10b5-1 sale of 15,480 shares, filed 13 October, covered under Company news and filings above; the sub p…",
+              "html": "<p><strong>Announced, not discussed:</strong> the principal financial officer's 10b5-1 sale of 15,480 shares, filed 13 October, covered under Company news and filings above; the sub posted nothing about it. No GameStop press release appeared between the 2026-10-12 entry and this run.</p>",
+              "text": "Announced, not discussed: the principal financial officer's 10b5-1 sale of 15,480 shares, filed 13 October, covered under Company news and filings above; the sub posted nothing about it. No GameStop press release appeared between the 2026-10-12 entry and this run. Verified against EDGAR's filing list for CIK 0001326380",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against EDGAR's filing list for CIK 0001326380</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none. The scan's one flagged term, RCEO, is the sub's nickname for Ryan Cohen as CEO and is covered under Community sentiment.</p>",
+              "text": "Flagged terms set aside: none. The scan's one flagged term, RCEO, is the sub's nickname for Ryan Cohen as CEO and is covered under Community sentiment.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "title": "Superstonk digest",
@@ -629,6 +823,20 @@
       "lead_html": null,
       "items": [
         {
+          "headline": "<strong>The megathread has dropped the wrong twenty-day claim, and the sub's own estimate of the last date for a warrant change is the week of 20 October.</strong>",
+          "html": "<p><strong>The megathread has dropped the wrong twenty-day claim, and the sub's own estimate of the last date for a warrant change is the week of 20 October.</strong> A <a href=\"https://www.reddit.com/r/Superstonk/comments/1x56b7v/\" target=\"_blank\" rel=\"noopener noreferrer\">DD at 441 points</a> quotes the prospectus supplement correctly on both powers — the 20-Business-Day runway for a voluntary strike-price decrease, and &quot;to extend the Expiration Date&quot; as an amendment allowed without holder consent on &quot;reasonable notice ... via press release or Form 8-K filing&quot; — and adds NYSE Listed Company Manual Section 204 and SEC Rule 10b-17 to argue the practical cutoff for an announcement is 10 calendar days, or 5–7 business days, before expiry: 20, 21 or 23 October 2026. A commenter disputes that step, arguing the NYSE 10-day rule governs record dates rather than expiration dates, so &quot;GameStop can change the expiration date any anytime up until expiration.&quot; The NYSE manual sections were not read here, so which reading holds is unsettled. Members also report Fidelity's own exercise deadline as 7 p.m. on 29 October with best-effort orders until 11 a.m. ET on 30 October.</p>",
+          "text": "The megathread has dropped the wrong twenty-day claim, and the sub's own estimate of the last date for a warrant change is the week of 20 October. A DD at 441 points quotes the prospectus supplement correctly on both powers — the 20-Business-Day runway for a voluntary strike-price decrease, and \"to extend the Expiration Date\" as an amendment allowed without holder consent on \"reasonable notice ... via press release or Form 8-K filing\" — and adds NYSE Listed Company Manual Section 204 and SEC Rule 10b-17 to argue the practical cutoff for an announcement is 10 calendar days, or 5–7 business days, before expiry: 20, 21 or 23 October 2026. A commenter disputes that step, arguing the NYSE 10-day rule governs record dates rather than expiration dates, so \"GameStop can change the expiration date any anytime up until expiration.\" The NYSE manual sections were not read here, so which reading holds is unsettled. Members also report Fidelity's own exercise deadline as 7 p.m. on 29 October with best-effort orders until 11 a.m. ET on 30 October. Verified for the three prospectus quotations, against the prospectus supplement ; the timing verdict is Single source and contested in its own thread, and the Fidelity deadline is Reported by members · 2026-10-15",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the three prospectus quotations, against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000092/projectgenesis-prospectuss.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the prospectus supplement</a>; the timing verdict is Single source and contested in its own thread, and the Fidelity deadline is Reported by members · 2026-10-15</p>",
+          "updated": "2026-10-15",
+          "sources": [
+            "r/Superstonk",
+            "SEC filing"
+          ],
+          "due": "2026-10-23",
+          "due_label": "the latest of the sub's three candidate cutoffs for an announcement"
+        },
+        {
           "headline": "<strong>GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026.</strong>",
           "html": "<p><strong>GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026.</strong> Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the &quot;GameStop Warrant Exercise&quot; letter, with one online transaction per account. Hopes of an extension circulate on the sub, but the company's FAQ states the expiry and mentions no extension, and none has been announced.</p>",
           "text": "GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026. Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the \"GameStop Warrant Exercise\" letter, with one online transaction per account. Hopes of an extension circulate on the sub, but the company's FAQ states the expiry and mentions no extension, and none has been announced. Verified for terms and date, against the warrant distribution FAQ ; the extension is Unconfirmed · 2026-10-07",
@@ -656,22 +864,24 @@
         },
         {
           "headline": "<strong>Ryan Cohen holds 3,734,784 warrants, received at no cost in the warrant dividend.</strong>",
-          "html": "<p><strong>Ryan Cohen holds 3,734,784 warrants, received at no cost in the warrant dividend.</strong> The sub cites this as the reason it expects an extension; nothing about his intentions follows from the holding, and his filings have disclosed no sale of warrants.</p>",
-          "text": "Ryan Cohen holds 3,734,784 warrants, received at no cost in the warrant dividend. The sub cites this as the reason it expects an extension; nothing about his intentions follows from the holding, and his filings have disclosed no sale of warrants. Reported · consistent across two secondary summaries of his 2 October 2026 Schedule 13D/A; the filing itself has not been opened · 2026-10-09",
-          "status": "reported",
-          "status_html": "<p>Reported · consistent across two secondary summaries of his 2 October 2026 Schedule 13D/A; the filing itself has not been opened · 2026-10-09</p>",
-          "updated": "2026-10-09",
-          "sources": [],
+          "html": "<p><strong>Ryan Cohen holds 3,734,784 warrants, received at no cost in the warrant dividend.</strong> The sub cites this as the reason it expects an extension; nothing about his intentions follows from the holding, and his filings have disclosed no sale of warrants. His Schedule 13D/A of 13 October 2026 repeats the figure unchanged: &quot;Mr. Cohen also owns 3,734,784 Warrants, which Mr. Cohen received from the Issuer for no consideration pursuant to a warrant dividend&quot;.</p>",
+          "text": "Ryan Cohen holds 3,734,784 warrants, received at no cost in the warrant dividend. The sub cites this as the reason it expects an extension; nothing about his intentions follows from the holding, and his filings have disclosed no sale of warrants. His Schedule 13D/A of 13 October 2026 repeats the figure unchanged: \"Mr. Cohen also owns 3,734,784 Warrants, which Mr. Cohen received from the Issuer for no consideration pursuant to a warrant dividend\". Verified against Schedule 13D/A Amendment No. 21 , filed 13 October 2026, upgraded from Reported · what he does with them is unannounced · 2026-10-15",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000092189526002783/xslSCHEDULE_13D_X02/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Schedule 13D/A Amendment No. 21</a>, filed 13 October 2026, upgraded from Reported · what he does with them is unannounced · 2026-10-15</p>",
+          "updated": "2026-10-15",
+          "sources": [
+            "SEC filing"
+          ],
           "due": null,
           "due_label": null
         },
         {
           "headline": "<strong>Ryan Cohen keeps buying on the open market.</strong>",
-          "html": "<p><strong>Ryan Cohen keeps buying on the open market.</strong> His most recent filed purchase is 700,000 shares on 2 October 2026 at a weighted average of $24.4061, which left him with 41,648,522 shares held directly. Before that, he bought 1,150,680 shares at $22.9375 on 21 September and 450,000 at about $23.47 on 29 September, each with a Schedule 13D amendment.</p>",
-          "text": "Ryan Cohen keeps buying on the open market. His most recent filed purchase is 700,000 shares on 2 October 2026 at a weighted average of $24.4061, which left him with 41,648,522 shares held directly. Before that, he bought 1,150,680 shares at $22.9375 on 21 September and 450,000 at about $23.47 on 29 September, each with a Schedule 13D amendment. Verified against the Form 4s for 2 October and 29 September , and the 21 September filing · 2026-10-08",
+          "html": "<p><strong>Ryan Cohen keeps buying on the open market.</strong> His most recent filed purchase is 844,130 shares on 13 October 2026 — 67,130 at $26.7500 and 777,000 at $27.0000 — which left him with 42,492,652 shares held directly and beneficial ownership of 46,227,436 shares, or 9.1%, counting the warrants. It is the fifth purchase of the series and the largest by dollar amount. Before that: 1,000,000 shares at an average $20.38 on 10 September, 1,150,680 at $22.9375 on 21 September, 450,000 at about $23.47 on 29 September, and 700,000 at a weighted average $24.4061 on 2 October. Each came with a Schedule 13D amendment. A post on the sub reads the 13 October fills as pre-set limit orders defending a price floor; a Form 4 does not record order type, so that is an inference.</p>",
+          "text": "Ryan Cohen keeps buying on the open market. His most recent filed purchase is 844,130 shares on 13 October 2026 — 67,130 at $26.7500 and 777,000 at $27.0000 — which left him with 42,492,652 shares held directly and beneficial ownership of 46,227,436 shares, or 9.1%, counting the warrants. It is the fifth purchase of the series and the largest by dollar amount. Before that: 1,000,000 shares at an average $20.38 on 10 September, 1,150,680 at $22.9375 on 21 September, 450,000 at about $23.47 on 29 September, and 700,000 at a weighted average $24.4061 on 2 October. Each came with a Schedule 13D amendment. A post on the sub reads the 13 October fills as pre-set limit orders defending a price floor; a Form 4 does not record order type, so that is an inference. Verified against the Form 4s for 13 October , 2 October and 29 September , and Schedule 13D/A Amendment No. 21; the limit-order reading is Single source · 2026-10-15",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against the Form 4s for <a href=\"https://www.sec.gov/Archives/edgar/data/0001326380/000092189526002719/form413177018_10022026.xml\" target=\"_blank\" rel=\"noopener noreferrer\">2 October</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000092189526002670/xslF345X06/form413177gme_09292026.xml\" target=\"_blank\" rel=\"noopener noreferrer\">29 September</a>, and the 21 September filing · 2026-10-08</p>",
-          "updated": "2026-10-08",
+          "status_html": "<p><strong>Verified</strong> against the Form 4s for <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000092189526002784/form413177018_10132026.xml\" target=\"_blank\" rel=\"noopener noreferrer\">13 October</a>, <a href=\"https://www.sec.gov/Archives/edgar/data/0001326380/000092189526002719/form413177018_10022026.xml\" target=\"_blank\" rel=\"noopener noreferrer\">2 October</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000092189526002670/xslF345X06/form413177gme_09292026.xml\" target=\"_blank\" rel=\"noopener noreferrer\">29 September</a>, and Schedule 13D/A Amendment No. 21; the limit-order reading is Single source · 2026-10-15</p>",
+          "updated": "2026-10-15",
           "sources": [
             "SEC filing"
           ],
@@ -680,12 +890,14 @@
         },
         {
           "headline": "<strong>Other insiders: one director bought, two officers sold.</strong>",
-          "html": "<p><strong>Other insiders: one director bought, two officers sold.</strong> Director Nat Turner bought 10,462 shares at $24.33 on 1 October, his first reported holding. CFO Daniel Moore and General Counsel Mark Robinson sold about 7,300 shares each at $24.26 that day, and Robinson sold 3,882 more on 5 October. The sub has not discussed any of these.</p>",
-          "text": "Other insiders: one director bought, two officers sold. Director Nat Turner bought 10,462 shares at $24.33 on 1 October, his first reported holding. CFO Daniel Moore and General Counsel Mark Robinson sold about 7,300 shares each at $24.26 that day, and Robinson sold 3,882 more on 5 October. The sub has not discussed any of these. Verified against the Form 4s · 2026-10-08",
+          "html": "<p><strong>Other insiders: one director bought, two officers sold.</strong> Director Nat Turner bought 10,462 shares at $24.33 on 1 October, his first reported holding. Daniel Moore, the principal financial and accounting officer, and General Counsel Mark Robinson sold about 7,300 shares each at $24.26 that day, and Robinson sold 3,882 more on 5 October. Moore sold a further 15,480 shares at $27 on 12 October under a Rule 10b5-1 plan adopted 3 October 2025, leaving 92,348 shares; the accompanying Form 144 values it at $411,148.80, sources the shares to restricted stock units vested between 1 January and 1 October 2026, and notes the notice was filed a day late because EDGAR was closed for the holiday. The sub has not discussed any of these.</p>",
+          "text": "Other insiders: one director bought, two officers sold. Director Nat Turner bought 10,462 shares at $24.33 on 1 October, his first reported holding. Daniel Moore, the principal financial and accounting officer, and General Counsel Mark Robinson sold about 7,300 shares each at $24.26 that day, and Robinson sold 3,882 more on 5 October. Moore sold a further 15,480 shares at $27 on 12 October under a Rule 10b5-1 plan adopted 3 October 2025, leaving 92,348 shares; the accompanying Form 144 values it at $411,148.80, sources the shares to restricted stock units vested between 1 January and 1 October 2026, and notes the notice was filed a day late because EDGAR was closed for the holiday. The sub has not discussed any of these. Verified against the Form 4s and the 13 October Form 144 · 2026-10-15",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against the Form 4s · 2026-10-08</p>",
-          "updated": "2026-10-08",
-          "sources": [],
+          "status_html": "<p><strong>Verified</strong> against the Form 4s and the <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000195004726010160/xsl144X01/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">13 October Form 144</a> · 2026-10-15</p>",
+          "updated": "2026-10-15",
+          "sources": [
+            "SEC filing"
+          ],
           "due": null,
           "due_label": null
         }
