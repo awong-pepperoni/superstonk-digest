@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15",
+  "generated": "2026-10-18",
   "meta": {
     "feed": "superstonk",
     "title": "Superstonk Digest",
@@ -20,6 +20,213 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-18",
+      "title": "Superstonk digest",
+      "intro_html": "<p>A weekend run, and hot is mostly memes — the top three posts are untitled images. All the substance is the warrants, twelve days out, and the useful thing this run is a date I could check: GameStop promised in the warrant FAQ to issue a reminder press release between 10 and 30 days before expiry, which puts the deadline at 20 October, and as of this run nothing has been issued. The sub's mood has also turned: its highest-scoring post is a plea to extend the warrants, and the most-upvoted replies under it argue no extension is coming. Nothing has changed at the company — EDGAR's most recent GameStop filings are still the four from 13 October that the last entry covered.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>GameStop promised a public press release reminding holders that the warrants expire, due between 10 and 30 days before 30 October — so by 20 October 2026 — and as of this run none has appeared.</strong>",
+              "html": "<p><strong>GameStop promised a public press release reminding holders that the warrants expire, due between 10 and 30 days before 30 October — so by 20 October 2026 — and as of this run none has appeared.</strong> The sub is reading that same window as the slot for an announcement about an extension, and the FAQ language promises no such thing.</p>\n<ul>\n<li><strong>Why it matters:</strong> holders at Computershare get one online transaction and brokers are quoting a week's notice, so the last fortnight is when the decision to sell, exercise or wait actually has to be made. The run's clearest piece of substance, <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8w21s/\" target=\"_blank\" rel=\"noopener noreferrer\">a post at 277 points</a>, exists to correct the sub on exactly this: &quot;I have seen several people post that GameStop will announce something between 10 and 30 days before expiration, and I can't help feeling this is misleading&quot;, and on the &quot;watch party&quot; the author says was proposed, &quot;That's it, not promises of some big announcement that's worth a 'watch party'. Just a reminder that they are expiring.&quot; The quotation the author gives is accurate — I checked it against the filed FAQ. The top reply, at 68 points, is temperamental rather than substantive: &quot;Best advice from every prominent character in this saga I've kept tabs on, have always advised to 'temper expectations'.&quot; One commenter at 26 points raises the obvious precedent against relying on the promise at all, that the Bed Bath &amp; Beyond warrants were also meant to carry notice and, in his account, did not; a reply disputes that and says his broker notified him on schedule.</li>\n<li><strong>What to watch:</strong> 20 October 2026 for the promised reminder release; the sub's own three candidate cutoffs for any announcement of a change, 20, 21 and 23 October; any 8-K amending the warrant agreement; and 30 October 2026, 5:00 p.m. New York time.</li>\n<li><strong>Numbers:</strong> as filed, the warrant distribution FAQ says &quot;GameStop will also issue at least one public press release providing a reminder of the expiration date, between 10 and 30 days prior to the scheduled expiration date&quot;, against an expiration date of &quot;October 30, 2026&quot;. The claim that a reminder is all it will be is the poster's reading of the same sentence, and a fair one.</li>\n<li><strong>Caveats:</strong> the FAQ commits to a reminder, not to a decision, and says nothing about extending or repricing anything — the absence of a release so far is an absence, not a signal. I checked EDGAR, where the latest GameStop filing is still 13 October, and GameStop's news-release page, which again served only navigation, so a web search was used for the 15–18 October window and surfaced no release; a wire release that reached neither EDGAR nor search results would not show up in what I checked. GameStop has announced nothing about an extension.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant distribution FAQ</a></li>\n</ul>",
+              "text": "GameStop promised a public press release reminding holders that the warrants expire, due between 10 and 30 days before 30 October — so by 20 October 2026 — and as of this run none has appeared. The sub is reading that same window as the slot for an announcement about an extension, and the FAQ language promises no such thing. Why it matters: holders at Computershare get one online transaction and brokers are quoting a week's notice, so the last fortnight is when the decision to sell, exercise or wait actually has to be made. The run's clearest piece of substance, a post at 277 points , exists to correct the sub on exactly this: \"I have seen several people post that GameStop will announce something between 10 and 30 days before expiration, and I can't help feeling this is misleading\", and on the \"watch party\" the author says was proposed, \"That's it, not promises of some big announcement that's worth a 'watch party'. Just a reminder that they are expiring.\" The quotation the author gives is accurate — I checked it against the filed FAQ. The top reply, at 68 points, is temperamental rather than substantive: \"Best advice from every prominent character in this saga I've kept tabs on, have always advised to 'temper expectations'.\" One commenter at 26 points raises the obvious precedent against relying on the promise at all, that the Bed Bath & Beyond warrants were also meant to carry notice and, in his account, did not; a reply disputes that and says his broker notified him on schedule. What to watch: 20 October 2026 for the promised reminder release; the sub's own three candidate cutoffs for any announcement of a change, 20, 21 and 23 October; any 8-K amending the warrant agreement; and 30 October 2026, 5:00 p.m. New York time. Numbers: as filed, the warrant distribution FAQ says \"GameStop will also issue at least one public press release providing a reminder of the expiration date, between 10 and 30 days prior to the scheduled expiration date\", against an expiration date of \"October 30, 2026\". The claim that a reminder is all it will be is the poster's reading of the same sentence, and a fair one. Caveats: the FAQ commits to a reminder, not to a decision, and says nothing about extending or repricing anything — the absence of a release so far is an absence, not a signal. I checked EDGAR, where the latest GameStop filing is still 13 October, and GameStop's news-release page, which again served only navigation, so a web search was used for the 15–18 October window and surfaced no release; a wire release that reached neither EDGAR nor search results would not show up in what I checked. GameStop has announced nothing about an extension. Read next: the warrant distribution FAQ Verified for the promised release and the expiry date, against the filed FAQ · that no release has been issued is as of this run, from EDGAR and web search",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the promised release and the expiry date, against the filed FAQ · that no release has been issued is as of this run, from EDGAR and web search</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Due diligence",
+          "category": "dd",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A sum-of-the-parts gallery putting the implied value of GameStop's core business at $6.08B drew a detailed accounting objection that it double-counts the balance sheet.</strong>",
+              "html": "<p><strong>A sum-of-the-parts gallery putting the implied value of GameStop's core business at $6.08B drew a detailed accounting objection that it double-counts the balance sheet.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8b2yp/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> at 226 points splits the market capitalisation into an eBay stake, bitcoin, net cash and &quot;Implied core GameStop business: $6.08B | $12.04/share | 44.9%&quot;, a line quoted in the comments because the images themselves are not readable here. The sharpest reply argues the method is wrong at the root: &quot;What OP apparently dont understand is that Shareholders Equity already includes Cash, Bitcoin and Ebay stakes. And also excludes all Liabilities (Total Debt) cuz Shareholders Equity is [Total Assets - Total Liabilities]&quot;, so the chart adds each non-operating asset twice. Two commenters defend the post on the grounds that it is a market-cap decomposition rather than an asset tally — &quot;OP is talking about Market Cap valuation and I think you're talking about Assets&quot; — and the author's own answer is to concede the labelling and check: &quot;I should call it 'everything else' which is what im highlighting here. ... will report back&quot;. None of the underlying figures were checked here against a 10-Q.</p>",
+              "text": "A sum-of-the-parts gallery putting the implied value of GameStop's core business at $6.08B drew a detailed accounting objection that it double-counts the balance sheet. The post at 226 points splits the market capitalisation into an eBay stake, bitcoin, net cash and \"Implied core GameStop business: $6.08B | $12.04/share | 44.9%\", a line quoted in the comments because the images themselves are not readable here. The sharpest reply argues the method is wrong at the root: \"What OP apparently dont understand is that Shareholders Equity already includes Cash, Bitcoin and Ebay stakes. And also excludes all Liabilities (Total Debt) cuz Shareholders Equity is [Total Assets - Total Liabilities]\", so the chart adds each non-operating asset twice. Two commenters defend the post on the grounds that it is a market-cap decomposition rather than an asset tally — \"OP is talking about Market Cap valuation and I think you're talking about Assets\" — and the author's own answer is to concede the labelling and check: \"I should call it 'everything else' which is what im highlighting here. ... will report back\". None of the underlying figures were checked here against a 10-Q. Single source · one author's arithmetic, contested in its own thread on method, and not checked against a filing",
+              "status": "single-source",
+              "status_html": "<p>Single source · one author's arithmetic, contested in its own thread on method, and not checked against a filing</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The warrant megathread still carries the Section 4.01(h) claim that two earlier entries corrected, alongside the DD that supersedes it.</strong>",
+              "html": "<p><strong>The warrant megathread still carries the Section 4.01(h) claim that two earlier entries corrected, alongside the DD that supersedes it.</strong> The last entry recorded that the megathread had dropped the claim that &quot;the strike price or exercise rate can not be adjusted without it taking effect for a minimum of 20 trading days. There are too few trading days left for that to be possible&quot; — it has not. The thread, now at 545 points and 146 comments, has struck through only its separate line that an announcement could come &quot;Potentially as late as the day of expiration&quot;, added the 15 October DD on NYSE and SEC notice timing, and added a member's report that &quot;Fidelity's deadline for exercising is 7PM Oct 29, 2026&quot;, while the twenty-day paragraph remains under &quot;New information from the comments&quot;. As the tracker records, the filed agreement says twenty <strong>Business</strong> Days and attaches that floor to a voluntary strike-price cut, not to an extension of the expiration date.</p>",
+              "text": "The warrant megathread still carries the Section 4.01(h) claim that two earlier entries corrected, alongside the DD that supersedes it. The last entry recorded that the megathread had dropped the claim that \"the strike price or exercise rate can not be adjusted without it taking effect for a minimum of 20 trading days. There are too few trading days left for that to be possible\" — it has not. The thread, now at 545 points and 146 comments, has struck through only its separate line that an announcement could come \"Potentially as late as the day of expiration\", added the 15 October DD on NYSE and SEC notice timing, and added a member's report that \"Fidelity's deadline for exercising is 7PM Oct 29, 2026\", while the twenty-day paragraph remains under \"New information from the comments\". As the tracker records, the filed agreement says twenty Business Days and attaches that floor to a voluntary strike-price cut, not to an extension of the expiration date. Verified for the quoted clauses against the warrant agreement, Exhibit 4.1 · the megathread's wording is quoted as it currently stands",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the quoted clauses against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000091/projectgenesis-ex41xwarran.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant agreement, Exhibit 4.1</a> · the megathread's wording is quoted as it currently stands</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market-data claims",
+          "category": "data",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;CTB on the warrants has been insane, with some sources showing 700%.&quot;</strong>",
+              "html": "<p><strong>&quot;CTB on the warrants has been insane, with some sources showing 700%.&quot;</strong> That comment, at 96 points under the run's top post, is the quantitative basis for an argument that a late extension would be expensive for anyone short the warrants: &quot;An extention, by only a month or so, could not only cause the warrants to squeeze on themselves, but also feed into the upward momentum of insider buying having their shares delivered within 35 days of purchase.&quot; No source is named for the borrow fee, no date is given for the reading, and the author labels the whole thing a theory. A similar figure &quot;near 800&quot; appeared in the 2026-10-09 entry, where a reply questioned whether it described the warrants or the shares; here it is attributed to the warrants.</p>",
+              "text": "\"CTB on the warrants has been insane, with some sources showing 700%.\" That comment, at 96 points under the run's top post, is the quantitative basis for an argument that a late extension would be expensive for anyone short the warrants: \"An extention, by only a month or so, could not only cause the warrants to squeeze on themselves, but also feed into the upward momentum of insider buying having their shares delivered within 35 days of purchase.\" No source is named for the borrow fee, no date is given for the reading, and the author labels the whole thing a theory. A similar figure \"near 800\" appeared in the 2026-10-09 entry, where a reply questioned whether it described the warrants or the shares; here it is attributed to the warrants. Single source · the rate is as posted with no source or date, and was not independently checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the rate is as posted with no source or date, and was not independently checked</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Latest short data as of Oct 15 says 10.43% of the float is shorted.&quot;</strong>",
+              "html": "<p><strong>&quot;Latest short data as of Oct 15 says 10.43% of the float is shorted.&quot;</strong> The comment, sitting at −2 points on the sum-of-the-parts thread, uses the figure to argue the thesis has changed character — &quot;the play is not really a short squeeze anymore, it's too diluted&quot; — against a recalled &quot;over 120% shorted&quot; at the time of the first run. It names no data provider, and nobody in the thread asked for one. The sub's downvoting of it is not evidence either way.</p>",
+              "text": "\"Latest short data as of Oct 15 says 10.43% of the float is shorted.\" The comment, sitting at −2 points on the sum-of-the-parts thread, uses the figure to argue the thesis has changed character — \"the play is not really a short squeeze anymore, it's too diluted\" — against a recalled \"over 120% shorted\" at the time of the first run. It names no data provider, and nobody in the thread asked for one. The sub's downvoting of it is not evidence either way. Single source · a percentage as posted, provider unnamed, not checked against exchange or FINRA data",
+              "status": "single-source",
+              "status_html": "<p>Single source · a percentage as posted, provider unnamed, not checked against exchange or FINRA data</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The run's top post asks GameStop to extend the warrants, and its most-upvoted replies argue that no extension is coming.</strong>",
+              "html": "<p><strong>The run's top post asks GameStop to extend the warrants, and its most-upvoted replies argue that no extension is coming.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8bn90/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a>, titled only &quot;Why not?&quot;, took 2,392 points on 155 comments, and the two highest-scoring text replies both read the silence as the answer. One, at 133 points: &quot;People keep acting like Cohen is just sneakily waiting to do an extension but the only person who can actually make that call (Cohen) isn't doing it! I see no upside in making it come down to the wire, forcing people to make choices with the asset with the limited information they have. Which all makes me think no extension is coming.&quot; The other, at 101 points, argues the warrants were only ever a dividend contingent on a much higher share price — &quot;The strike price of the warrants was set to define a reasonable floor for GME in 2026. To lower the strike price does not send a good message&quot; — and is endorsed at 51 points. The counter-cases are the borrow-fee theory in Market-data claims and a reply arguing short sellers may have used warrants as synthetic longs, which draws the thread's sarcastic correction: &quot;Yeah because the stock always responds to extreme levels FTDs /s&quot;. All of it is speculation about intentions nobody at the company has stated.</p>",
+              "text": "The run's top post asks GameStop to extend the warrants, and its most-upvoted replies argue that no extension is coming. The post , titled only \"Why not?\", took 2,392 points on 155 comments, and the two highest-scoring text replies both read the silence as the answer. One, at 133 points: \"People keep acting like Cohen is just sneakily waiting to do an extension but the only person who can actually make that call (Cohen) isn't doing it! I see no upside in making it come down to the wire, forcing people to make choices with the asset with the limited information they have. Which all makes me think no extension is coming.\" The other, at 101 points, argues the warrants were only ever a dividend contingent on a much higher share price — \"The strike price of the warrants was set to define a reasonable floor for GME in 2026. To lower the strike price does not send a good message\" — and is endorsed at 51 points. The counter-cases are the borrow-fee theory in Market-data claims and a reply arguing short sellers may have used warrants as synthetic longs, which draws the thread's sarcastic correction: \"Yeah because the stock always responds to extreme levels FTDs /s\". All of it is speculation about intentions nobody at the company has stated.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Twelve days out, the warrant thread is full of holders asking what a warrant is.</strong>",
+              "html": "<p><strong>Twelve days out, the warrant thread is full of holders asking what a warrant is.</strong> Under <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8n0ze/\" target=\"_blank\" rel=\"noopener noreferrer\">the 771-point countdown post</a>, the second-highest comment at 59 points is &quot;Can we get a PSA refresher on all of this? I haven't touched anything since these were issued&quot;, another asks &quot;What's sell mean?&quot;, and another &quot;What happens if I do nothing?&quot;, answered correctly by a member at 30 points: &quot;Even if they are 'in the money' at expiry ... these will NOT auto-exercise.&quot; Alongside them is the position several members state outright, at 65 points: &quot;Has to be extended. Im not exercising them if we not above 30&quot;, with a reply raising it to &quot;Above 35*&quot;.</p>",
+              "text": "Twelve days out, the warrant thread is full of holders asking what a warrant is. Under the 771-point countdown post , the second-highest comment at 59 points is \"Can we get a PSA refresher on all of this? I haven't touched anything since these were issued\", another asks \"What's sell mean?\", and another \"What happens if I do nothing?\", answered correctly by a member at 30 points: \"Even if they are 'in the money' at expiry ... these will NOT auto-exercise.\" Alongside them is the position several members state outright, at 65 points: \"Has to be extended. Im not exercising them if we not above 30\", with a reply raising it to \"Above 35*\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A weekend post at 33 points complains about &quot;a lot of FUD this weekend about warrant expiry&quot; and carries nothing but reaction images and members stating thei…",
+              "html": "<p>A <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8zkuk/\" target=\"_blank\" rel=\"noopener noreferrer\">weekend post</a> at 33 points complains about &quot;a lot of FUD this weekend about warrant expiry&quot; and carries nothing but reaction images and members stating their intention to let warrants lapse; one at 5 points puts the mood as &quot;We either ride to Valhalla or ride into the ground&quot;. The rest of hot is memes, nostalgia and position screenshots — <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8bn90/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Why not?&quot;</a> aside, the top scorers are <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8757f/\" target=\"_blank\" rel=\"noopener noreferrer\">an untitled image at 1,160 points</a>, <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8hilb/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;I just like the stock&quot;</a> at 1,368, and <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8j3e2/\" target=\"_blank\" rel=\"noopener noreferrer\">a portfolio screenshot</a> at 718 whose author answers a question about his sizing with &quot;I have my house in GME as well.&quot;</p>",
+              "text": "A weekend post at 33 points complains about \"a lot of FUD this weekend about warrant expiry\" and carries nothing but reaction images and members stating their intention to let warrants lapse; one at 5 points puts the mood as \"We either ride to Valhalla or ride into the ground\". The rest of hot is memes, nostalgia and position screenshots — \"Why not?\" aside, the top scorers are an untitled image at 1,160 points , \"I just like the stock\" at 1,368, and a portfolio screenshot at 718 whose author answers a question about his sizing with \"I have my house in GME as well.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "One post titled &quot;GameStop CEO: The Machines Are Already Smarter Than Us&quot; reached 40 points, and its only substantive comment dates it: &quot;Old interview from Si…",
+              "html": "<p>One post titled &quot;GameStop CEO: The Machines Are Already Smarter Than Us&quot; reached 40 points, and its only substantive comment dates it: &quot;Old interview from Silvia conference. Already went through it&quot;. Nothing in the thread establishes when the interview was given, and it is not treated as news by the sub.</p>",
+              "text": "One post titled \"GameStop CEO: The Machines Are Already Smarter Than Us\" reached 40 points, and its only substantive comment dates it: \"Old interview from Silvia conference. Already went through it\". Nothing in the thread establishes when the interview was given, and it is not treated as news by the sub.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A post claims the TEDDY.COM marketplace trademark application was abandoned on 15 October while GameStop's POWER PACKS mark registered on 6 October, and I could not confirm either.</strong>",
+              "html": "<p><strong>A post claims the TEDDY.COM marketplace trademark application was abandoned on 15 October while GameStop's POWER PACKS mark registered on 6 October, and I could not confirm either.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1x91uio/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> at 101 points is an image; its author's own summary is the only text: &quot;Teddy's newest marketplace trademark application was abandoned October 15, but its older marketplace registrations remain active. Meanwhile, GameStop officially registered POWER PACKS on October 6. No confirmed corporate connection between these events, but the timing and overlapping marketplace categories make this worth keeping an eye on.&quot; The author states plainly that no connection is established, and the thread is tinfoil rather than scrutiny — the top replies are &quot;Who needs evidence when we have TIN&quot; and a joke about Teddy volume 5. USPTO's TSDR returned HTTP 429 and the uspto.report mirror HTTP 403, and a web search returned a serial number for a Teddy Holdings TEDDY.COM marketplace application with internally contradictory filing and abandonment dates, so I have no primary-source reading of either mark.</p>",
+              "text": "A post claims the TEDDY.COM marketplace trademark application was abandoned on 15 October while GameStop's POWER PACKS mark registered on 6 October, and I could not confirm either. The post at 101 points is an image; its author's own summary is the only text: \"Teddy's newest marketplace trademark application was abandoned October 15, but its older marketplace registrations remain active. Meanwhile, GameStop officially registered POWER PACKS on October 6. No confirmed corporate connection between these events, but the timing and overlapping marketplace categories make this worth keeping an eye on.\" The author states plainly that no connection is established, and the thread is tinfoil rather than scrutiny — the top replies are \"Who needs evidence when we have TIN\" and a joke about Teddy volume 5. USPTO's TSDR returned HTTP 429 and the uspto.report mirror HTTP 403, and a web search returned a serial number for a Teddy Holdings TEDDY.COM marketplace application with internally contradictory filing and abandonment dates, so I have no primary-source reading of either mark. Unconfirmed · TSDR and uspto.report both unreachable this run; search results were inconsistent",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · TSDR and uspto.report both unreachable this run; search results were inconsistent</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> Superstonk.",
+              "html": "<p><strong>Read:</strong> Superstonk. <strong>Sources checked:</strong> GameStop's SEC filings via EDGAR, where the most recent filings are still the four dated 13 October 2026 that the last entry covered; GameStop's news-release page, which again returned only navigation, so a web search was used for the 15–18 October window and surfaced no company release; and the filed warrant distribution FAQ, for the Must know item. USPTO's TSDR and the uspto.report mirror both failed, as recorded above.</p>",
+              "text": "Read: Superstonk. Sources checked: GameStop's SEC filings via EDGAR, where the most recent filings are still the four dated 13 October 2026 that the last entry covered; GameStop's news-release page, which again returned only navigation, so a web search was used for the 15–18 October window and surfaced no company release; and the filed warrant distribution FAQ, for the Must know item. USPTO's TSDR and the uspto.report mirror both failed, as recorded above.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. No GameStop filing or press release appeared between the 2026-10-15 entry and this run.</p>",
+              "text": "Announced, not discussed: none. No GameStop filing or press release appeared between the 2026-10-15 entry and this run. Verified against EDGAR's filing list for CIK 0001326380",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against EDGAR's filing list for CIK 0001326380</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;monday&quot; — noise, from two weekend hype posts (&quot;See you guys Monday&quot; and &quot;MONDAY MOASS LFG&quot;) that carry no claim beyond anticipating the…",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;monday&quot; — noise, from two weekend hype posts (&quot;See you guys Monday&quot; and &quot;MONDAY MOASS LFG&quot;) that carry no claim beyond anticipating the next trading day.</p>",
+              "text": "Flagged terms set aside: \"monday\" — noise, from two weekend hype posts (\"See you guys Monday\" and \"MONDAY MOASS LFG\") that carry no claim beyond anticipating the next trading day.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "title": "Superstonk digest",
@@ -823,9 +1030,23 @@
       "lead_html": null,
       "items": [
         {
-          "headline": "<strong>The megathread has dropped the wrong twenty-day claim, and the sub's own estimate of the last date for a warrant change is the week of 20 October.</strong>",
-          "html": "<p><strong>The megathread has dropped the wrong twenty-day claim, and the sub's own estimate of the last date for a warrant change is the week of 20 October.</strong> A <a href=\"https://www.reddit.com/r/Superstonk/comments/1x56b7v/\" target=\"_blank\" rel=\"noopener noreferrer\">DD at 441 points</a> quotes the prospectus supplement correctly on both powers — the 20-Business-Day runway for a voluntary strike-price decrease, and &quot;to extend the Expiration Date&quot; as an amendment allowed without holder consent on &quot;reasonable notice ... via press release or Form 8-K filing&quot; — and adds NYSE Listed Company Manual Section 204 and SEC Rule 10b-17 to argue the practical cutoff for an announcement is 10 calendar days, or 5–7 business days, before expiry: 20, 21 or 23 October 2026. A commenter disputes that step, arguing the NYSE 10-day rule governs record dates rather than expiration dates, so &quot;GameStop can change the expiration date any anytime up until expiration.&quot; The NYSE manual sections were not read here, so which reading holds is unsettled. Members also report Fidelity's own exercise deadline as 7 p.m. on 29 October with best-effort orders until 11 a.m. ET on 30 October.</p>",
-          "text": "The megathread has dropped the wrong twenty-day claim, and the sub's own estimate of the last date for a warrant change is the week of 20 October. A DD at 441 points quotes the prospectus supplement correctly on both powers — the 20-Business-Day runway for a voluntary strike-price decrease, and \"to extend the Expiration Date\" as an amendment allowed without holder consent on \"reasonable notice ... via press release or Form 8-K filing\" — and adds NYSE Listed Company Manual Section 204 and SEC Rule 10b-17 to argue the practical cutoff for an announcement is 10 calendar days, or 5–7 business days, before expiry: 20, 21 or 23 October 2026. A commenter disputes that step, arguing the NYSE 10-day rule governs record dates rather than expiration dates, so \"GameStop can change the expiration date any anytime up until expiration.\" The NYSE manual sections were not read here, so which reading holds is unsettled. Members also report Fidelity's own exercise deadline as 7 p.m. on 29 October with best-effort orders until 11 a.m. ET on 30 October. Verified for the three prospectus quotations, against the prospectus supplement ; the timing verdict is Single source and contested in its own thread, and the Fidelity deadline is Reported by members · 2026-10-15",
+          "headline": "<strong>GameStop promised a public press release reminding holders of the warrant expiration date, between 10 and 30 days before 30 October 2026.</strong>",
+          "html": "<p><strong>GameStop promised a public press release reminding holders of the warrant expiration date, between 10 and 30 days before 30 October 2026.</strong> The warrant distribution FAQ says &quot;GameStop will also issue at least one public press release providing a reminder of the expiration date, between 10 and 30 days prior to the scheduled expiration date&quot;, which puts the deadline at 20 October 2026. As of 18 October none had appeared: EDGAR's latest GameStop filing was 13 October, and a web search for the window surfaced no release. The sub reads this window as the slot for an announcement about an extension; the FAQ promises a reminder only, as <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8w21s/\" target=\"_blank\" rel=\"noopener noreferrer\">a post at 277 points</a> points out.</p>",
+          "text": "GameStop promised a public press release reminding holders of the warrant expiration date, between 10 and 30 days before 30 October 2026. The warrant distribution FAQ says \"GameStop will also issue at least one public press release providing a reminder of the expiration date, between 10 and 30 days prior to the scheduled expiration date\", which puts the deadline at 20 October 2026. As of 18 October none had appeared: EDGAR's latest GameStop filing was 13 October, and a web search for the window surfaced no release. The sub reads this window as the slot for an announcement about an extension; the FAQ promises a reminder only, as a post at 277 points points out. Verified for the promise, against the warrant distribution FAQ ; that nothing has been issued is as of 2026-10-18 · 2026-10-18",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the promise, against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant distribution FAQ</a>; that nothing has been issued is as of 2026-10-18 · 2026-10-18</p>",
+          "updated": "2026-10-18",
+          "sources": [
+            "r/Superstonk",
+            "SEC filing"
+          ],
+          "due": "2026-10-20",
+          "due_label": "ten days before expiry, the end of the promised window"
+        },
+        {
+          "headline": "<strong>The megathread still carries the wrong twenty-day claim, and the sub's own estimate of the last date for a warrant change is the week of 20 October.</strong>",
+          "html": "<p><strong>The megathread still carries the wrong twenty-day claim, and the sub's own estimate of the last date for a warrant change is the week of 20 October.</strong> Correcting the 2026-10-15 reading of it: as of 18 October the megathread still has the Section 4.01(h) &quot;20 trading days&quot; paragraph under &quot;New information from the comments&quot; — what it struck through was only its separate line that an announcement could come &quot;Potentially as late as the day of expiration&quot;. A <a href=\"https://www.reddit.com/r/Superstonk/comments/1x56b7v/\" target=\"_blank\" rel=\"noopener noreferrer\">DD at 441 points</a> quotes the prospectus supplement correctly on both powers — the 20-Business-Day runway for a voluntary strike-price decrease, and &quot;to extend the Expiration Date&quot; as an amendment allowed without holder consent on &quot;reasonable notice ... via press release or Form 8-K filing&quot; — and adds NYSE Listed Company Manual Section 204 and SEC Rule 10b-17 to argue the practical cutoff for an announcement is 10 calendar days, or 5–7 business days, before expiry: 20, 21 or 23 October 2026. A commenter disputes that step, arguing the NYSE 10-day rule governs record dates rather than expiration dates, so &quot;GameStop can change the expiration date any anytime up until expiration.&quot; The NYSE manual sections were not read here, so which reading holds is unsettled. Members also report Fidelity's own exercise deadline as 7 p.m. on 29 October with best-effort orders until 11 a.m. ET on 30 October.</p>",
+          "text": "The megathread still carries the wrong twenty-day claim, and the sub's own estimate of the last date for a warrant change is the week of 20 October. Correcting the 2026-10-15 reading of it: as of 18 October the megathread still has the Section 4.01(h) \"20 trading days\" paragraph under \"New information from the comments\" — what it struck through was only its separate line that an announcement could come \"Potentially as late as the day of expiration\". A DD at 441 points quotes the prospectus supplement correctly on both powers — the 20-Business-Day runway for a voluntary strike-price decrease, and \"to extend the Expiration Date\" as an amendment allowed without holder consent on \"reasonable notice ... via press release or Form 8-K filing\" — and adds NYSE Listed Company Manual Section 204 and SEC Rule 10b-17 to argue the practical cutoff for an announcement is 10 calendar days, or 5–7 business days, before expiry: 20, 21 or 23 October 2026. A commenter disputes that step, arguing the NYSE 10-day rule governs record dates rather than expiration dates, so \"GameStop can change the expiration date any anytime up until expiration.\" The NYSE manual sections were not read here, so which reading holds is unsettled. Members also report Fidelity's own exercise deadline as 7 p.m. on 29 October with best-effort orders until 11 a.m. ET on 30 October. Verified for the three prospectus quotations, against the prospectus supplement ; the timing verdict is Single source and contested in its own thread, and the Fidelity deadline is Reported by members · 2026-10-15",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> for the three prospectus quotations, against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000092/projectgenesis-prospectuss.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the prospectus supplement</a>; the timing verdict is Single source and contested in its own thread, and the Fidelity deadline is Reported by members · 2026-10-15</p>",
           "updated": "2026-10-15",
@@ -950,11 +1171,11 @@
       "items": [
         {
           "headline": "<strong>The sub now argues both sides of the warrant expiry.</strong>",
-          "html": "<p><strong>The sub now argues both sides of the warrant expiry.</strong> The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3c7qv/\" target=\"_blank\" rel=\"noopener noreferrer\">a post</a> at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated.</p>",
-          "text": "The sub now argues both sides of the warrant expiry. The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in a post at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated. Single source for the argument; the mechanical question it rests on is settled above under Corporate actions · 2026-10-12",
+          "html": "<p><strong>The sub now argues both sides of the warrant expiry.</strong> The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3c7qv/\" target=\"_blank\" rel=\"noopener noreferrer\">a post</a> at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated.\nAs of 18 October the balance has tipped: the sub's highest-scoring post of that run, <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8bn90/\" target=\"_blank\" rel=\"noopener noreferrer\">a plea to extend at 2,392 points</a>, drew most-upvoted replies arguing the opposite — &quot;the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming&quot; at 133 points, and at 101 points the case that the $32 strike was &quot;set to define a reasonable floor for GME in 2026&quot; so cutting it &quot;does not send a good message&quot;. The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%.</p>",
+          "text": "The sub now argues both sides of the warrant expiry. The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in a post at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated. As of 18 October the balance has tipped: the sub's highest-scoring post of that run, a plea to extend at 2,392 points , drew most-upvoted replies arguing the opposite — \"the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming\" at 133 points, and at 101 points the case that the $32 strike was \"set to define a reasonable floor for GME in 2026\" so cutting it \"does not send a good message\". The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%. Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-10-18",
           "status": "single-source",
-          "status_html": "<p>Single source for the argument; the mechanical question it rests on is settled above under Corporate actions · 2026-10-12</p>",
-          "updated": "2026-10-12",
+          "status_html": "<p>Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-10-18</p>",
+          "updated": "2026-10-18",
           "sources": [
             "r/Superstonk"
           ],
