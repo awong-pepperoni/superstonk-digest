@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21",
+  "generated": "2026-10-24",
   "meta": {
     "feed": "superstonk",
     "title": "Superstonk Digest",
@@ -20,6 +20,171 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-24",
+      "title": "Superstonk digest",
+      "intro_html": "<p>The sub is in the last week before the 30 October warrant expiry, and its mood has moved from asking whether GameStop will extend to settling on expiry as the likely outcome: the hot list is a seven-day countdown post, a member publicly exercising five warrants and being mocked for it, and one long DD arguing for an extension that the comments pick apart. GameStop has filed nothing since the 19 October 8-K. The rest is a Roaring Kitty tweet read as a joke about &quot;SI&quot;, a 1,677,000-share print the sub reads as another QCT, and two posts about other people's tweets that have nothing to do with GameStop.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The GameStop warrants expire in six days, at 5:00 p.m. New York time on Friday 30 October 2026, and the company has announced no change to that.</strong>",
+              "html": "<p><strong>The GameStop warrants expire in six days, at 5:00 p.m. New York time on Friday 30 October 2026, and the company has announced no change to that.</strong> They stop trading before the open that morning, so the last trading day is 29 October.</p>\n<ul>\n<li><strong>Why it matters:</strong> this is the dated corporate event the sub has been organising around, and it is the dominant topic of the run. A post at 337 points counts it down as &quot;7 days&quot; and the pinned megathread is at 608 points and 181 comments. After the deadline the warrants &quot;will expire worthless&quot; unless GameStop amends the agreement, which the tracker records it is permitted to do.</li>\n<li><strong>What to watch:</strong> 29 October, last trading day and the Fidelity 7:00 p.m. cutoff members report; 30 October, 5:00 p.m., expiry and the Notice of Guaranteed Delivery deadline; 2 November, 5:00 p.m., delivery deadline for guaranteed-delivery exercises; any 8-K amending the warrant agreement before expiry.</li>\n<li><strong>Numbers:</strong> as posted, not independently measured: a post says the 23 October close was warrants $0.64 and GME $24.82, &quot;$7.18 out of the money&quot; against the $32.00 strike. The tracker's earlier entries carry the filed terms.</li>\n<li><strong>Caveats:</strong> the sub's own cutoff estimates for an extension announcement (20, 21 or 23 October) have now all passed with no announcement, but the agreement's amendment power is not tied to those dates, as the tracker explains. A commenter notes the 19 October release says the warrants expire and cease trading without an &quot;unless amended&quot; caveat. Nobody at the company has said what it will do.</li>\n<li><strong>Read next:</strong> <a href=\"https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Reminds-Holders-of-October-30-2026-Warrant-Expiration-Date/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">the 19 October press release</a></li>\n</ul>",
+              "text": "The GameStop warrants expire in six days, at 5:00 p.m. New York time on Friday 30 October 2026, and the company has announced no change to that. They stop trading before the open that morning, so the last trading day is 29 October. Why it matters: this is the dated corporate event the sub has been organising around, and it is the dominant topic of the run. A post at 337 points counts it down as \"7 days\" and the pinned megathread is at 608 points and 181 comments. After the deadline the warrants \"will expire worthless\" unless GameStop amends the agreement, which the tracker records it is permitted to do. What to watch: 29 October, last trading day and the Fidelity 7:00 p.m. cutoff members report; 30 October, 5:00 p.m., expiry and the Notice of Guaranteed Delivery deadline; 2 November, 5:00 p.m., delivery deadline for guaranteed-delivery exercises; any 8-K amending the warrant agreement before expiry. Numbers: as posted, not independently measured: a post says the 23 October close was warrants $0.64 and GME $24.82, \"$7.18 out of the money\" against the $32.00 strike. The tracker's earlier entries carry the filed terms. Caveats: the sub's own cutoff estimates for an extension announcement (20, 21 or 23 October) have now all passed with no announcement, but the agreement's amendment power is not tied to those dates, as the tracker explains. A commenter notes the 19 October release says the warrants expire and cease trading without an \"unless amended\" caveat. Nobody at the company has said what it will do. Read next: the 19 October press release Verified for the terms and dates against the press release and the 19 October 8-K, and no later filing exists on EDGAR · the prices are Reported by one poster",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the terms and dates against the press release and the 19 October 8-K, and no later filing exists on EDGAR · the prices are Reported by one poster</p>",
+              "updated": null,
+              "sources": [
+                "investor.gamestop.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Roaring Kitty's tweet that a &quot;Super Intelligence&quot; talent push could draw builders to GameStop is the run's top post at 2,149 points, and the thread treats it as a joke.</strong>",
+              "html": "<p><strong>Roaring Kitty's tweet that a &quot;Super Intelligence&quot; talent push could draw builders to GameStop is the run's top post at 2,149 points, and the thread treats it as a joke.</strong> The post is a link with no body, so what the tweet said is known only from the comments. The top comment at 691 points reads &quot;Super Intelligence guys, not short interest lol&quot;, followed by &quot;Calling it SI. Gross.&quot; at 601, and the explanations to a confused commenter are that &quot;SI&quot; is a pet name for AI. One reply at 131 points asks &quot;Is this tweet going to get the warrants ITM?&quot;. Another commenter says it shows Cohen aligning with Musk and Trump, a political reading the thread argues about, not a company statement. The tweet was not seen here and nothing from GameStop corroborates it.</p>",
+              "text": "Roaring Kitty's tweet that a \"Super Intelligence\" talent push could draw builders to GameStop is the run's top post at 2,149 points, and the thread treats it as a joke. The post is a link with no body, so what the tweet said is known only from the comments. The top comment at 691 points reads \"Super Intelligence guys, not short interest lol\", followed by \"Calling it SI. Gross.\" at 601, and the explanations to a confused commenter are that \"SI\" is a pet name for AI. One reply at 131 points asks \"Is this tweet going to get the warrants ITM?\". Another commenter says it shows Cohen aligning with Musk and Trump, a political reading the thread argues about, not a company statement. The tweet was not seen here and nothing from GameStop corroborates it. Single source · a screenshot-style link, content inferred from replies; GameStop has filed nothing on it",
+              "status": "single-source",
+              "status_html": "<p>Single source · a screenshot-style link, content inferred from replies; GameStop has filed nothing on it</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market-data claims",
+          "category": "data",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;That's one spicy QCT - 1,677,000 shares&quot; at 698 points, and a &quot;$42M transaction&quot; post at 392, describe the same print.</strong>",
+              "html": "<p><strong>&quot;That's one spicy QCT - 1,677,000 shares&quot; at 698 points, and a &quot;$42M transaction&quot; post at 392, describe the same print.</strong> The second gives it as 1,677,000 × $25.30, notional $42,422,733.60, observed 23 October at 12:09 p.m. Eastern, side &quot;Neutral&quot;. Commenters answer that it is dark pool volume (&quot;Dark pool isn't spicy&quot;), that &quot;nothing EVER comes from the QCT trades&quot;, and that it &quot;Did not affect the price&quot;. One links a post that frames such prints as an FTD vehicle for XRT. A commenter notes it was more than the day's volume up to that point; that comparison and the notional figure are as posted and were not checked.</p>",
+              "text": "\"That's one spicy QCT - 1,677,000 shares\" at 698 points, and a \"$42M transaction\" post at 392, describe the same print. The second gives it as 1,677,000 × $25.30, notional $42,422,733.60, observed 23 October at 12:09 p.m. Eastern, side \"Neutral\". Commenters answer that it is dark pool volume (\"Dark pool isn't spicy\"), that \"nothing EVER comes from the QCT trades\", and that it \"Did not affect the price\". One links a post that frames such prints as an FTD vehicle for XRT. A commenter notes it was more than the day's volume up to that point; that comparison and the notional figure are as posted and were not checked. Single source · figures as posted by one poster; not independently measured",
+              "status": "single-source",
+              "status_html": "<p>Single source · figures as posted by one poster; not independently measured</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Due diligence",
+          "category": "dd",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong><a href=\"https://www.reddit.com/r/Superstonk/comments/1xdk2m1/\" target=\"_blank\" rel=\"noopener noreferrer\">Here's why I think the warrants will be extended, and then the strike reduced, and then MOASS</a></strong>",
+              "html": "<p><strong><a href=\"https://www.reddit.com/r/Superstonk/comments/1xdk2m1/\" target=\"_blank\" rel=\"noopener noreferrer\">Here's why I think the warrants will be extended, and then the strike reduced, and then MOASS</a></strong> (302 points, 293 comments) — the author says plainly it is &quot;tinfoil&quot; and argues that a 948% borrow rate on the warrants implies they are roughly &quot;100x shorted&quot;, so an extension followed by a strike cut would force shorts to buy. The strongest objections are at the top of the thread: &quot;Borrow rate is not short interest&quot;, and the borrow rate &quot;is the fee needed to retain the short position&quot;, not the number shorted; and exercising warrants issues new shares, so &quot;this won't generate upwards price pressure at all&quot;. The 948% rate and the synthetic-share arithmetic are the author's and unsourced here. A commenter adds that the share price is where it was when the warrants were issued, and calls it &quot;hopium&quot;.</p>",
+              "text": "Here's why I think the warrants will be extended, and then the strike reduced, and then MOASS (302 points, 293 comments) — the author says plainly it is \"tinfoil\" and argues that a 948% borrow rate on the warrants implies they are roughly \"100x shorted\", so an extension followed by a strike cut would force shorts to buy. The strongest objections are at the top of the thread: \"Borrow rate is not short interest\", and the borrow rate \"is the fee needed to retain the short position\", not the number shorted; and exercising warrants issues new shares, so \"this won't generate upwards price pressure at all\". The 948% rate and the synthetic-share arithmetic are the author's and unsourced here. A commenter adds that the share price is where it was when the warrants were issued, and calls it \"hopium\". Single source · DD is one author's argument; the 948% borrow rate is unverified",
+              "status": "single-source",
+              "status_html": "<p>Single source · DD is one author's argument; the 948% borrow rate is unverified</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A member who says they exercised five warrants through Schwab drew mostly ridicule, with a minority defending it.</strong>",
+              "html": "<p><strong>A member who says they exercised five warrants through Schwab drew mostly ridicule, with a minority defending it.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xdn7sc/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (269 points, 196 comments) frames the overpayment as &quot;a premium for the 'collectible' experience&quot; and says it supports a company they like. The top replies are &quot;I'm starting to lose complete faith in this movement&quot; at 233 and &quot;You paid 32 a share for something you could buy for 25?&quot; at 114; a defender at 71 points says it is five warrants and lets holders send cash directly to the company, while buying on the open market does not. A commenter says some holders exercised about 80,000 out-of-the-money warrants months ago; that was not checked.</p>",
+              "text": "A member who says they exercised five warrants through Schwab drew mostly ridicule, with a minority defending it. The post (269 points, 196 comments) frames the overpayment as \"a premium for the 'collectible' experience\" and says it supports a company they like. The top replies are \"I'm starting to lose complete faith in this movement\" at 233 and \"You paid 32 a share for something you could buy for 25?\" at 114; a defender at 71 points says it is five warrants and lets holders send cash directly to the company, while buying on the open market does not. A commenter says some holders exercised about 80,000 out-of-the-money warrants months ago; that was not checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Elsewhere in the thread of the countdown post, the replies are GIFs and &quot;Good, perhaps everyone will shut up about them then&quot; at 13, and one holder at Comput…",
+              "html": "<p>Elsewhere in the thread of the countdown post, the replies are GIFs and &quot;Good, perhaps everyone will shut up about them then&quot; at 13, and one holder at Computershare says they did nothing and fears they are too late. The megathread's own advice is that Computershare allows one online transaction per account and recommends submitting orders at least a week ahead.</p>",
+              "text": "Elsewhere in the thread of the countdown post, the replies are GIFs and \"Good, perhaps everyone will shut up about them then\" at 13, and one holder at Computershare says they did nothing and fears they are too late. The megathread's own advice is that Computershare allows one online transaction per account and recommends submitting orders at least a week ahead.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Two top-ten posts, &quot;LC on X&quot; at 644 points and 416, are about a tech executive&#x27;s post that objection to AI-generated advertising &quot;will gradually dissipate&quot;;…",
+              "html": "<p>Two top-ten posts, &quot;LC on X&quot; at 644 points and 416, are about a tech executive's post that objection to AI-generated advertising &quot;will gradually dissipate&quot;; the replies are about advertising and data centres, not GameStop, and nothing in them is reported here.</p>",
+              "text": "Two top-ten posts, \"LC on X\" at 644 points and 416, are about a tech executive's post that objection to AI-generated advertising \"will gradually dissipate\"; the replies are about advertising and data centres, not GameStop, and nothing in them is reported here.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> Superstonk, 24 posts, with eight threads fetched.",
+              "html": "<p><strong>Read:</strong> Superstonk, 24 posts, with eight threads fetched. <strong>Sources checked:</strong> GameStop's SEC filings via EDGAR, where the 19 October 8-K is the most recent filing and the 13 October Forms 4, 144 and 13D/A are already in the tracker; GameStop's investor news page, which returned an empty &quot;Latest News&quot; section, so a web search was used and found nothing dated after 19 October.</p>",
+              "text": "Read: Superstonk, 24 posts, with eight threads fetched. Sources checked: GameStop's SEC filings via EDGAR, where the 19 October 8-K is the most recent filing and the 13 October Forms 4, 144 and 13D/A are already in the tracker; GameStop's investor news page, which returned an empty \"Latest News\" section, so a web search was used and found nothing dated after 19 October.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. Nothing new has been announced since the 2026-10-21 entry.</p>",
+              "text": "Announced, not discussed: none. Nothing new has been announced since the 2026-10-21 entry. Verified against EDGAR's filing list for CIK 0001326380",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against EDGAR's filing list for CIK 0001326380</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none. The scan flagged no unfamiliar recurring terms this run.</p>",
+              "text": "Flagged terms set aside: none. The scan flagged no unfamiliar recurring terms this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "title": "Superstonk digest",
@@ -1243,11 +1408,11 @@
         },
         {
           "headline": "<strong>GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026.</strong>",
-          "html": "<p><strong>GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026.</strong> Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. The company's 19 October 2026 reminder release adds that the warrants &quot;cease trading&quot; under &quot;GME WS&quot; &quot;before the markets open on October 30, 2026&quot;, and that an exercise by Notice of Guaranteed Delivery needs the notice and the $32.00 payment before 5:00 p.m. on 30 October with the warrants delivered by 5:00 p.m. on 2 November 2026. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the &quot;GameStop Warrant Exercise&quot; letter, with one online transaction per account, and report broker cutoffs of 23 October (Computershare portal), 28 October 7:00 p.m. (Schwab) and 29 October 7:00 p.m. (Fidelity). Hopes of an extension circulate on the sub; none has been announced and the reminder release announced no change to the terms.</p>",
-          "text": "GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026. Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. The company's 19 October 2026 reminder release adds that the warrants \"cease trading\" under \"GME WS\" \"before the markets open on October 30, 2026\", and that an exercise by Notice of Guaranteed Delivery needs the notice and the $32.00 payment before 5:00 p.m. on 30 October with the warrants delivered by 5:00 p.m. on 2 November 2026. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the \"GameStop Warrant Exercise\" letter, with one online transaction per account, and report broker cutoffs of 23 October (Computershare portal), 28 October 7:00 p.m. (Schwab) and 29 October 7:00 p.m. (Fidelity). Hopes of an extension circulate on the sub; none has been announced and the reminder release announced no change to the terms. Verified for terms and dates, against the warrant distribution FAQ and the 19 October 2026 press release ; the broker cutoffs are Reported by members and the extension is Unconfirmed · 2026-10-21",
+          "html": "<p><strong>GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026.</strong> Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. The company's 19 October 2026 reminder release adds that the warrants &quot;cease trading&quot; under &quot;GME WS&quot; &quot;before the markets open on October 30, 2026&quot;, and that an exercise by Notice of Guaranteed Delivery needs the notice and the $32.00 payment before 5:00 p.m. on 30 October with the warrants delivered by 5:00 p.m. on 2 November 2026. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the &quot;GameStop Warrant Exercise&quot; letter, with one online transaction per account, and report broker cutoffs of 23 October (Computershare portal), 28 October 7:00 p.m. (Schwab) and 29 October 7:00 p.m. (Fidelity). As posted on 23 October, the warrants closed at $0.64 and GME at $24.82, $7.18 below the strike. Hopes of an extension circulate on the sub; none has been announced, the reminder release announced no change to the terms, and EDGAR shows no filing after the 19 October 8-K as of 24 October.</p>",
+          "text": "GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026. Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. The company's 19 October 2026 reminder release adds that the warrants \"cease trading\" under \"GME WS\" \"before the markets open on October 30, 2026\", and that an exercise by Notice of Guaranteed Delivery needs the notice and the $32.00 payment before 5:00 p.m. on 30 October with the warrants delivered by 5:00 p.m. on 2 November 2026. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the \"GameStop Warrant Exercise\" letter, with one online transaction per account, and report broker cutoffs of 23 October (Computershare portal), 28 October 7:00 p.m. (Schwab) and 29 October 7:00 p.m. (Fidelity). As posted on 23 October, the warrants closed at $0.64 and GME at $24.82, $7.18 below the strike. Hopes of an extension circulate on the sub; none has been announced, the reminder release announced no change to the terms, and EDGAR shows no filing after the 19 October 8-K as of 24 October. Verified for terms and dates, against the warrant distribution FAQ and the 19 October 2026 press release ; the broker cutoffs are Reported by members and the extension is Unconfirmed, and the closing prices are Reported by one poster · 2026-10-24",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> for terms and dates, against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant distribution FAQ</a> and <a href=\"https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Reminds-Holders-of-October-30-2026-Warrant-Expiration-Date/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">the 19 October 2026 press release</a>; the broker cutoffs are Reported by members and the extension is Unconfirmed · 2026-10-21</p>",
-          "updated": "2026-10-21",
+          "status_html": "<p><strong>Verified</strong> for terms and dates, against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant distribution FAQ</a> and <a href=\"https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Reminds-Holders-of-October-30-2026-Warrant-Expiration-Date/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">the 19 October 2026 press release</a>; the broker cutoffs are Reported by members and the extension is Unconfirmed, and the closing prices are Reported by one poster · 2026-10-24</p>",
+          "updated": "2026-10-24",
           "sources": [
             "SEC filing",
             "investor.gamestop.com"
@@ -1356,11 +1521,11 @@
       "items": [
         {
           "headline": "<strong>The sub now argues both sides of the warrant expiry.</strong>",
-          "html": "<p><strong>The sub now argues both sides of the warrant expiry.</strong> The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3c7qv/\" target=\"_blank\" rel=\"noopener noreferrer\">a post</a> at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated.\nAs of 18 October the balance has tipped: the sub's highest-scoring post of that run, <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8bn90/\" target=\"_blank\" rel=\"noopener noreferrer\">a plea to extend at 2,392 points</a>, drew most-upvoted replies arguing the opposite — &quot;the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming&quot; at 133 points, and at 101 points the case that the $32 strike was &quot;set to define a reasonable floor for GME in 2026&quot; so cutting it &quot;does not send a good message&quot;. The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%.\nBy 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being &quot;I admire your optimism that the share price will be over $32 in the next 7-8 trading days&quot; at 389 points and &quot;If my warrants die they die&quot; at 80.</p>",
-          "text": "The sub now argues both sides of the warrant expiry. The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in a post at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated. As of 18 October the balance has tipped: the sub's highest-scoring post of that run, a plea to extend at 2,392 points , drew most-upvoted replies arguing the opposite — \"the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming\" at 133 points, and at 101 points the case that the $32 strike was \"set to define a reasonable floor for GME in 2026\" so cutting it \"does not send a good message\". The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%. By 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being \"I admire your optimism that the share price will be over $32 in the next 7-8 trading days\" at 389 points and \"If my warrants die they die\" at 80. Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-10-21",
+          "html": "<p><strong>The sub now argues both sides of the warrant expiry.</strong> The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3c7qv/\" target=\"_blank\" rel=\"noopener noreferrer\">a post</a> at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated.\nAs of 18 October the balance has tipped: the sub's highest-scoring post of that run, <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8bn90/\" target=\"_blank\" rel=\"noopener noreferrer\">a plea to extend at 2,392 points</a>, drew most-upvoted replies arguing the opposite — &quot;the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming&quot; at 133 points, and at 101 points the case that the $32 strike was &quot;set to define a reasonable floor for GME in 2026&quot; so cutting it &quot;does not send a good message&quot;. The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%.\nBy 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being &quot;I admire your optimism that the share price will be over $32 in the next 7-8 trading days&quot; at 389 points and &quot;If my warrants die they die&quot; at 80.\nOn 24 October a DD at 302 points still argued for an extension and strike cut from a 948% borrow rate, and the top replies answered that a borrow rate is a fee, not a count of shorted warrants, and that exercise issues new shares; a member who exercised five warrants at Schwab was mostly mocked.</p>",
+          "text": "The sub now argues both sides of the warrant expiry. The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in a post at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated. As of 18 October the balance has tipped: the sub's highest-scoring post of that run, a plea to extend at 2,392 points , drew most-upvoted replies arguing the opposite — \"the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming\" at 133 points, and at 101 points the case that the $32 strike was \"set to define a reasonable floor for GME in 2026\" so cutting it \"does not send a good message\". The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%. By 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being \"I admire your optimism that the share price will be over $32 in the next 7-8 trading days\" at 389 points and \"If my warrants die they die\" at 80. On 24 October a DD at 302 points still argued for an extension and strike cut from a 948% borrow rate, and the top replies answered that a borrow rate is a fee, not a count of shorted warrants, and that exercise issues new shares; a member who exercised five warrants at Schwab was mostly mocked. Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-10-24",
           "status": "single-source",
-          "status_html": "<p>Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-10-21</p>",
-          "updated": "2026-10-21",
+          "status_html": "<p>Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-10-24</p>",
+          "updated": "2026-10-24",
           "sources": [
             "r/Superstonk"
           ],
@@ -1369,11 +1534,11 @@
         },
         {
           "headline": "<strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong>",
-          "html": "<p><strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong> They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered.</p>",
-          "text": "Off-exchange volume, FTD counts and \"who is buying\" candles get posted as screenshots most days. They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered. Single source each time; figures as posted, never independently checked · 2026-10-09",
+          "html": "<p><strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong> They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered.\nOn 23 October a 1,677,000-share print (posted as $42,422,733.60 at $25.30) was read as another QCT, with commenters calling it dark pool volume that did not move the price.</p>",
+          "text": "Off-exchange volume, FTD counts and \"who is buying\" candles get posted as screenshots most days. They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered. On 23 October a 1,677,000-share print (posted as $42,422,733.60 at $25.30) was read as another QCT, with commenters calling it dark pool volume that did not move the price. Single source each time; figures as posted, never independently checked · 2026-10-24",
           "status": "single-source",
-          "status_html": "<p>Single source each time; figures as posted, never independently checked · 2026-10-09</p>",
-          "updated": "2026-10-09",
+          "status_html": "<p>Single source each time; figures as posted, never independently checked · 2026-10-24</p>",
+          "updated": "2026-10-24",
           "sources": [],
           "due": null,
           "due_label": null
