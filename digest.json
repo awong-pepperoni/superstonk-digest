@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-09",
   "meta": {
     "feed": "superstonk",
     "title": "Superstonk Digest",
@@ -20,6 +20,172 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-09",
+      "title": "Superstonk digest",
+      "intro_html": "<p>It was a quiet weekend run. GameStop has filed nothing since the NYSE's 30 October Form 25, and the warrants come off the exchange tomorrow, 10 November. The only warrant talk on hot is about brokers still listing them and paying lending fees on them. The highest-scoring text post argues that GameStop meets every S&amp;P 500 requirement except size, and the comments mostly rebut it. No story qualified for Must know this run. There is no new filing, and the 10 November removal follows from a filing covered on 30 October. The rest is memes, stickers and Power Pack pulls.</p>",
+      "sections": [
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>GameStop has still filed nothing since the 30 October Form 25, and the warrants are due to be removed from listing at the open on 10 November.</strong>",
+              "html": "<p><strong>GameStop has still filed nothing since the 30 October Form 25, and the warrants are due to be removed from listing at the open on 10 November.</strong> EDGAR's most recent GameStop filing is still the NYSE's Form 25-NSE, and no 8-K or amendment has followed it. GameStop's investor news page loaded with an empty &quot;Latest News&quot; section again, and a web search found no GameStop release dated November 2026.</p>",
+              "text": "GameStop has still filed nothing since the 30 October Form 25, and the warrants are due to be removed from listing at the open on 10 November. EDGAR's most recent GameStop filing is still the NYSE's Form 25-NSE, and no 8-K or amendment has followed it. GameStop's investor news page loaded with an empty \"Latest News\" section again, and a web search found no GameStop release dated November 2026. Verified against EDGAR's filing list for CIK 0001326380 on 2026-11-09",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001326380&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing list for CIK 0001326380</a> on 2026-11-09</p>",
+              "updated": "2026-11-09",
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A commenter explains why the warrants still show in brokerage accounts, citing a 2023 DTC rule that lets DTC delete expired warrant positions ten business days after expiry.</strong>",
+              "html": "<p><strong>A commenter explains why the warrants still show in brokerage accounts, citing a 2023 DTC rule that lets DTC delete expired warrant positions ten business days after expiry.</strong> The question came up under <a href=\"https://www.reddit.com/r/Superstonk/comments/1xrpu7x/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;No shares available to short?&quot;</a> (95 points), where a member asked why Fidelity still lists the warrants. The commenter quotes the Form 25's 10 November removal date and the DTC rule, and works out that the warrants would be deleted from accounts around 16 or 17 November. That date is their own arithmetic. The rule says DTC may delete positions &quot;if DTC has not received a notice of extension for an Expired Warrant/Right&quot; &quot;within ten (10) business days after the Expiration Date&quot;. It cut that window from 15 business days. This looks like the rule behind the 30 October post claiming &quot;The hopium can continue for 10 days after expiration&quot;. The rule only sets when DTC may clear positions. It gives no issuer a new power to extend, and GameStop has filed no extension.</p>",
+              "text": "A commenter explains why the warrants still show in brokerage accounts, citing a 2023 DTC rule that lets DTC delete expired warrant positions ten business days after expiry. The question came up under \"No shares available to short?\" (95 points), where a member asked why Fidelity still lists the warrants. The commenter quotes the Form 25's 10 November removal date and the DTC rule, and works out that the warrants would be deleted from accounts around 16 or 17 November. That date is their own arithmetic. The rule says DTC may delete positions \"if DTC has not received a notice of extension for an Expired Warrant/Right\" \"within ten (10) business days after the Expiration Date\". It cut that window from 15 business days. This looks like the rule behind the 30 October post claiming \"The hopium can continue for 10 days after expiration\". The rule only sets when DTC may clear positions. It gives no issuer a new power to extend, and GameStop has filed no extension. Verified for the rule text, against the Federal Register notice of SR-DTC-2023-009 (Release No. 34-98490, 28 September 2023) · the 16–17 November deletion date is the commenter's own estimate, not checked",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the rule text, against <a href=\"https://www.govinfo.gov/content/pkg/FR-2023-09-28/html/2023-21137.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Federal Register notice of SR-DTC-2023-009</a> (Release No. 34-98490, 28 September 2023) · the 16–17 November deletion date is the commenter's own estimate, not checked</p>",
+              "updated": "2023-09-28",
+              "sources": [
+                "r/Superstonk",
+                "govinfo.gov"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market-data claims",
+          "category": "data",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Members report that brokers are still paying lending fees on the expired warrants.</strong>",
+              "html": "<p><strong>Members report that brokers are still paying lending fees on the expired warrants.</strong> Under <a href=\"https://www.reddit.com/r/Superstonk/comments/1xquhtl/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Bet against us!&quot;</a> (866 points), a screenshot post with no body, one commenter says &quot;I've currently been paid daily since Nov 1st for lending my warrants. Currently 147% on Fidelity.&quot; A reply at 59 points calls it &quot;Bonus money for lenders&quot; and estimates &quot;about $0.50 a week&quot; for 100 warrants at $0.20. Another reply asks whether the rate is annual. The top comment, at 242, objects to lending at all, saying it helps short sellers. A reply at 36 says &quot;Warrants are dead, brokers are always slow with cleaning up after an instrument dies.&quot;</p>",
+              "text": "Members report that brokers are still paying lending fees on the expired warrants. Under \"Bet against us!\" (866 points), a screenshot post with no body, one commenter says \"I've currently been paid daily since Nov 1st for lending my warrants. Currently 147% on Fidelity.\" A reply at 59 points calls it \"Bonus money for lenders\" and estimates \"about $0.50 a week\" for 100 warrants at $0.20. Another reply asks whether the rate is annual. The top comment, at 242, objects to lending at all, saying it helps short sellers. A reply at 36 says \"Warrants are dead, brokers are always slow with cleaning up after an instrument dies.\" Single source · one commenter's account of their own Fidelity lending; the per-week arithmetic is another commenter's; not independently checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · one commenter's account of their own Fidelity lending; the per-week arithmetic is another commenter's; not independently checked</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>An eBay quote of $133.62 drew 721 points, and the comments put it down to the overnight market.</strong>",
+              "html": "<p><strong>An eBay quote of $133.62 drew 721 points, and the comments put it down to the overnight market.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xpyw08/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> is a screenshot. One commenter says &quot;If this the overnight market stupid shit like this happens all the time because it's a bullshit low volume market. The trades aren't on Yahoo&quot;. Another asks whether the screenshot is really from Robinhood. The 6 November entry covered a similar $149 overnight print.</p>",
+              "text": "An eBay quote of $133.62 drew 721 points, and the comments put it down to the overnight market. The post is a screenshot. One commenter says \"If this the overnight market stupid shit like this happens all the time because it's a bullshit low volume market. The trades aren't on Yahoo\". Another asks whether the screenshot is really from Robinhood. The 6 November entry covered a similar $149 overnight print. Single source · a screenshot of one quote; not checked against any exchange",
+              "status": "single-source",
+              "status_html": "<p>Single source · a screenshot of one quote; not checked against any exchange</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Due diligence",
+          "category": "dd",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong><a href=\"https://www.reddit.com/r/Superstonk/comments/1xpnc1w/\" target=\"_blank\" rel=\"noopener noreferrer\">A text post at 1,428 points says GameStop meets every S&amp;P 500 requirement except a market cap above $22 billion</a>, and that the next announcement is expected around 4 December.</strong>",
+              "html": "<p><strong><a href=\"https://www.reddit.com/r/Superstonk/comments/1xpnc1w/\" target=\"_blank\" rel=\"noopener noreferrer\">A text post at 1,428 points says GameStop meets every S&amp;P 500 requirement except a market cap above $22 billion</a>, and that the next announcement is expected around 4 December.</strong> The author says that market cap would mean &quot;$45 a share&quot;. Their edit adds that the index committee decides, that inclusion would take effect on 21 December, and that &quot;Hitting the market cap number doesn't guarantee inclusion.&quot; The top reply, at 382 points, makes the same point: &quot;There are many companies that meet the requirements that are not in the S&amp;P500.&quot; The post does not show how it checked the other requirements. S&amp;P Dow Jones Indices' published threshold is $22.7 billion of unadjusted market cap, set in July 2025 and unchanged in its June 2026 factsheet, rather than the post's round $22 billion.</p>",
+              "text": "A text post at 1,428 points says GameStop meets every S&P 500 requirement except a market cap above $22 billion , and that the next announcement is expected around 4 December. The author says that market cap would mean \"$45 a share\". Their edit adds that the index committee decides, that inclusion would take effect on 21 December, and that \"Hitting the market cap number doesn't guarantee inclusion.\" The top reply, at 382 points, makes the same point: \"There are many companies that meet the requirements that are not in the S&P500.\" The post does not show how it checked the other requirements. S&P Dow Jones Indices' published threshold is $22.7 billion of unadjusted market cap, set in July 2025 and unchanged in its June 2026 factsheet, rather than the post's round $22 billion. Single source · the claim to meet every other criterion was not checked; the threshold is Verified against S&P DJI's July 2025 announcement ; the 4 and 21 December dates were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the claim to meet every other criterion was not checked; the threshold is <strong>Verified</strong> against <a href=\"https://press.spglobal.com/2025-07-01-S-P-Dow-Jones-Indices-Announces-Update-to-S-P-Composite-1500-Market-Cap-Guidelines\" target=\"_blank\" rel=\"noopener noreferrer\">S&amp;P DJI's July 2025 announcement</a>; the 4 and 21 December dates were not checked</p>",
+              "updated": "2025-07-01",
+              "sources": [
+                "r/Superstonk",
+                "press.spglobal.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Members say the sub is unusually quiet, and the mood posts are about waiting.</strong>",
+              "html": "<p><strong>Members say the sub is unusually quiet, and the mood posts are about waiting.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xrnqrp/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;It seems awful quiet, so just a reminder..&quot;</a> (278 points) drew &quot;Yep - quietest ive seen it for a while&quot; and a revival of &quot;Negative beta&quot;. Its top comment is a joke about Nvidia's CEO, and one reply asks &quot;When did we become NVDA?&quot; <a href=\"https://www.reddit.com/r/Superstonk/comments/1xr38kx/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Infinite hype loop continues&quot;</a> (565 points) drew &quot;God please let it end&quot; as its top reply.</p>",
+              "text": "Members say the sub is unusually quiet, and the mood posts are about waiting. \"It seems awful quiet, so just a reminder..\" (278 points) drew \"Yep - quietest ive seen it for a while\" and a revival of \"Negative beta\". Its top comment is a joke about Nvidia's CEO, and one reply asks \"When did we become NVDA?\" \"Infinite hype loop continues\" (565 points) drew \"God please let it end\" as its top reply.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The rest of hot is memes, sticker sightings, a &quot;World&#x27;s Smallest GameStop&quot; free game-exchange box at 2,033 points, Power Pack pulls of cards from what a comm…",
+              "html": "<p>The rest of hot is memes, sticker sightings, a &quot;World's Smallest GameStop&quot; free game-exchange box at 2,033 points, Power Pack pulls of cards from what a commenter calls &quot;That 30th set&quot;, a daily share-buy post, a daily max-pain chart, and the closing-price bot.</p>",
+              "text": "The rest of hot is memes, sticker sightings, a \"World's Smallest GameStop\" free game-exchange box at 2,033 points, Power Pack pulls of cards from what a commenter calls \"That 30th set\", a daily share-buy post, a daily max-pain chart, and the closing-price bot.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> Superstonk, 22 posts, with ten threads fetched.",
+              "html": "<p><strong>Read:</strong> Superstonk, 22 posts, with ten threads fetched. <strong>Sources checked:</strong> GameStop's SEC filings on EDGAR, where the latest filing is still the 30 October Form 25-NSE. GameStop's investor news page loaded with an empty &quot;Latest News&quot; section, and a web search found no GameStop release dated November 2026. EDGAR was read through a fetch tool's summary of the filing list, not the raw page.</p>",
+              "text": "Read: Superstonk, 22 posts, with ten threads fetched. Sources checked: GameStop's SEC filings on EDGAR, where the latest filing is still the 30 October Form 25-NSE. GameStop's investor news page loaded with an empty \"Latest News\" section, and a web search found no GameStop release dated November 2026. EDGAR was read through a fetch tool's summary of the filing list, not the raw page.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. Nothing has been filed or announced since the 2026-11-06 entry.</p>",
+              "text": "Announced, not discussed: none. Nothing has been filed or announced since the 2026-11-06 entry. Verified against EDGAR's filing list for CIK 0001326380",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against EDGAR's filing list for CIK 0001326380</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none. The scan flagged no unfamiliar recurring terms this run.</p>",
+              "text": "Flagged terms set aside: none. The scan flagged no unfamiliar recurring terms this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "title": "Superstonk digest",
@@ -1886,14 +2052,15 @@
       "items": [
         {
           "headline": "<strong>GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026.</strong>",
-          "html": "<p><strong>GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026.</strong> Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. The company's 19 October 2026 reminder release adds that the warrants &quot;cease trading&quot; under &quot;GME WS&quot; &quot;before the markets open on October 30, 2026&quot;, and that an exercise by Notice of Guaranteed Delivery needs the notice and the $32.00 payment before 5:00 p.m. on 30 October with the warrants delivered by 5:00 p.m. on 2 November 2026. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the &quot;GameStop Warrant Exercise&quot; letter, with one online transaction per account, and report broker cutoffs of 23 October (Computershare portal), 28 October 7:00 p.m. (Schwab) and 29 October 7:00 p.m. (Fidelity). As posted on 23 October, the warrants closed at $0.64 and GME at $24.82, $7.18 below the strike. Hopes of an extension circulate on the sub. None has been announced, and the reminder release announced no change to the terms. The release also says &quot;The NYSE confirmed with the Company that it intends to file a Form 25 with the Securities and Exchange Commission&quot; to delist the warrants, while the common stock keeps trading as &quot;GME&quot;. The NYSE filed that Form 25-NSE at 08:51 on 30 October. It covers &quot;Warrants to Purchase Common Stock&quot;, cites Rule 12d2-2(a)(3), says &quot;this security was suspended from trading on October 30, 2026&quot;, and sets removal from listing &quot;at the opening of business on November 10, 2026.&quot; As of 6 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry, so the warrants lapsed on their filed terms. Delete this entry once removal from listing takes effect.</p>",
-          "text": "GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026. Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. The company's 19 October 2026 reminder release adds that the warrants \"cease trading\" under \"GME WS\" \"before the markets open on October 30, 2026\", and that an exercise by Notice of Guaranteed Delivery needs the notice and the $32.00 payment before 5:00 p.m. on 30 October with the warrants delivered by 5:00 p.m. on 2 November 2026. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the \"GameStop Warrant Exercise\" letter, with one online transaction per account, and report broker cutoffs of 23 October (Computershare portal), 28 October 7:00 p.m. (Schwab) and 29 October 7:00 p.m. (Fidelity). As posted on 23 October, the warrants closed at $0.64 and GME at $24.82, $7.18 below the strike. Hopes of an extension circulate on the sub. None has been announced, and the reminder release announced no change to the terms. The release also says \"The NYSE confirmed with the Company that it intends to file a Form 25 with the Securities and Exchange Commission\" to delist the warrants, while the common stock keeps trading as \"GME\". The NYSE filed that Form 25-NSE at 08:51 on 30 October. It covers \"Warrants to Purchase Common Stock\", cites Rule 12d2-2(a)(3), says \"this security was suspended from trading on October 30, 2026\", and sets removal from listing \"at the opening of business on November 10, 2026.\" As of 6 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry, so the warrants lapsed on their filed terms. Delete this entry once removal from listing takes effect. Verified for terms and dates, against the warrant distribution FAQ , the 19 October 2026 press release and the 30 October Form 25-NSE , and for the absence of any amendment against EDGAR's filing list; the broker cutoffs are Reported by members, and the closing prices are Reported by one poster · 2026-11-06",
+          "html": "<p><strong>GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026.</strong> Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. The company's 19 October 2026 reminder release adds that the warrants &quot;cease trading&quot; under &quot;GME WS&quot; &quot;before the markets open on October 30, 2026&quot;, and that an exercise by Notice of Guaranteed Delivery needs the notice and the $32.00 payment before 5:00 p.m. on 30 October with the warrants delivered by 5:00 p.m. on 2 November 2026. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the &quot;GameStop Warrant Exercise&quot; letter, with one online transaction per account, and report broker cutoffs of 23 October (Computershare portal), 28 October 7:00 p.m. (Schwab) and 29 October 7:00 p.m. (Fidelity). As posted on 23 October, the warrants closed at $0.64 and GME at $24.82, $7.18 below the strike. Hopes of an extension circulate on the sub. None has been announced, and the reminder release announced no change to the terms. The release also says &quot;The NYSE confirmed with the Company that it intends to file a Form 25 with the Securities and Exchange Commission&quot; to delist the warrants, while the common stock keeps trading as &quot;GME&quot;. The NYSE filed that Form 25-NSE at 08:51 on 30 October. It covers &quot;Warrants to Purchase Common Stock&quot;, cites Rule 12d2-2(a)(3), says &quot;this security was suspended from trading on October 30, 2026&quot;, and sets removal from listing &quot;at the opening of business on November 10, 2026.&quot; As of 6 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry, so the warrants lapsed on their filed terms. As of 9 November that is still true. Brokers still show the warrants, and one member reports Fidelity paying a lending fee on them. A 2023 DTC rule (SR-DTC-2023-009) lets DTC delete expired warrant positions if it &quot;has not received a notice of extension&quot; &quot;within ten (10) business days after the Expiration Date&quot;. A commenter estimates that the warrants leave accounts around 16 or 17 November. Delete this entry once removal from listing takes effect.</p>",
+          "text": "GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026. Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. The company's 19 October 2026 reminder release adds that the warrants \"cease trading\" under \"GME WS\" \"before the markets open on October 30, 2026\", and that an exercise by Notice of Guaranteed Delivery needs the notice and the $32.00 payment before 5:00 p.m. on 30 October with the warrants delivered by 5:00 p.m. on 2 November 2026. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the \"GameStop Warrant Exercise\" letter, with one online transaction per account, and report broker cutoffs of 23 October (Computershare portal), 28 October 7:00 p.m. (Schwab) and 29 October 7:00 p.m. (Fidelity). As posted on 23 October, the warrants closed at $0.64 and GME at $24.82, $7.18 below the strike. Hopes of an extension circulate on the sub. None has been announced, and the reminder release announced no change to the terms. The release also says \"The NYSE confirmed with the Company that it intends to file a Form 25 with the Securities and Exchange Commission\" to delist the warrants, while the common stock keeps trading as \"GME\". The NYSE filed that Form 25-NSE at 08:51 on 30 October. It covers \"Warrants to Purchase Common Stock\", cites Rule 12d2-2(a)(3), says \"this security was suspended from trading on October 30, 2026\", and sets removal from listing \"at the opening of business on November 10, 2026.\" As of 6 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry, so the warrants lapsed on their filed terms. As of 9 November that is still true. Brokers still show the warrants, and one member reports Fidelity paying a lending fee on them. A 2023 DTC rule (SR-DTC-2023-009) lets DTC delete expired warrant positions if it \"has not received a notice of extension\" \"within ten (10) business days after the Expiration Date\". A commenter estimates that the warrants leave accounts around 16 or 17 November. Delete this entry once removal from listing takes effect. Verified for terms and dates, against the warrant distribution FAQ , the 19 October 2026 press release and the 30 October Form 25-NSE , and for the absence of any amendment against EDGAR's filing list; the DTC rule text is Verified against the Federal Register notice ; the broker cutoffs and lending fees are Reported by members, the deletion date is a commenter's estimate, and the closing prices are Reported by one poster · 2026-11-09",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> for terms and dates, against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant distribution FAQ</a>, <a href=\"https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Reminds-Holders-of-October-30-2026-Warrant-Expiration-Date/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">the 19 October 2026 press release</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000087666126000873/0000876661-26-000873-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 30 October Form 25-NSE</a>, and for the absence of any amendment against EDGAR's filing list; the broker cutoffs are Reported by members, and the closing prices are Reported by one poster · 2026-11-06</p>",
-          "updated": "2026-11-06",
+          "status_html": "<p><strong>Verified</strong> for terms and dates, against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant distribution FAQ</a>, <a href=\"https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Reminds-Holders-of-October-30-2026-Warrant-Expiration-Date/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">the 19 October 2026 press release</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000087666126000873/0000876661-26-000873-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 30 October Form 25-NSE</a>, and for the absence of any amendment against EDGAR's filing list; the DTC rule text is <strong>Verified</strong> against <a href=\"https://www.govinfo.gov/content/pkg/FR-2023-09-28/html/2023-21137.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Federal Register notice</a>; the broker cutoffs and lending fees are Reported by members, the deletion date is a commenter's estimate, and the closing prices are Reported by one poster · 2026-11-09</p>",
+          "updated": "2026-11-09",
           "sources": [
             "SEC filing",
-            "investor.gamestop.com"
+            "investor.gamestop.com",
+            "govinfo.gov"
           ],
           "due": "2026-11-10",
           "due_label": "removal from listing \"at the opening of business on November 10, 2026\""
@@ -2019,12 +2186,25 @@
       "lead_html": null,
       "items": [
         {
-          "headline": "<strong>The sub now argues both sides of the warrant expiry.</strong>",
-          "html": "<p><strong>The sub now argues both sides of the warrant expiry.</strong> The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3c7qv/\" target=\"_blank\" rel=\"noopener noreferrer\">a post</a> at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated.\nAs of 18 October the balance has tipped: the sub's highest-scoring post of that run, <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8bn90/\" target=\"_blank\" rel=\"noopener noreferrer\">a plea to extend at 2,392 points</a>, drew most-upvoted replies arguing the opposite — &quot;the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming&quot; at 133 points, and at 101 points the case that the $32 strike was &quot;set to define a reasonable floor for GME in 2026&quot; so cutting it &quot;does not send a good message&quot;. The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%.\nBy 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being &quot;I admire your optimism that the share price will be over $32 in the next 7-8 trading days&quot; at 389 points and &quot;If my warrants die they die&quot; at 80.\nOn 24 October a DD at 302 points still argued for an extension and strike cut from a 948% borrow rate, and the top replies answered that a borrow rate is a fee, not a count of shorted warrants, and that exercise issues new shares; a member who exercised five warrants at Schwab was mostly mocked.\nOn 27 October the warrants' quoted cost to borrow had climbed in the sub's posts to 1,127% and then 1,959.50%, both posted by one author without a named source, and the most-upvoted replies read it as shorts betting on a worthless expiry. The rate is annual, and one commenter put the cost for the few days left at about $0.09 a warrant. A &quot;ban bet&quot; on an extension reached 953 points, and its top replies argued that a change announced after broker deadlines would come too late to help holders.\nOn 30 October, after the NYSE's Form 25, the most-upvoted posts treated the warrants as finished (&quot;Delisted - Let's Move On Now&quot; at 1,128 points), and replies blamed the members who had hyped them. A link post at 86 points claimed a rule lets GameStop extend the warrants for 10 days after expiry. The rule was not identified, and nothing in the Form 25 supports that reading.\nBy 6 November no post on hot mentioned the warrants, and GameStop had filed no amendment.</p>",
-          "text": "The sub now argues both sides of the warrant expiry. The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in a post at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated. As of 18 October the balance has tipped: the sub's highest-scoring post of that run, a plea to extend at 2,392 points , drew most-upvoted replies arguing the opposite — \"the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming\" at 133 points, and at 101 points the case that the $32 strike was \"set to define a reasonable floor for GME in 2026\" so cutting it \"does not send a good message\". The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%. By 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being \"I admire your optimism that the share price will be over $32 in the next 7-8 trading days\" at 389 points and \"If my warrants die they die\" at 80. On 24 October a DD at 302 points still argued for an extension and strike cut from a 948% borrow rate, and the top replies answered that a borrow rate is a fee, not a count of shorted warrants, and that exercise issues new shares; a member who exercised five warrants at Schwab was mostly mocked. On 27 October the warrants' quoted cost to borrow had climbed in the sub's posts to 1,127% and then 1,959.50%, both posted by one author without a named source, and the most-upvoted replies read it as shorts betting on a worthless expiry. The rate is annual, and one commenter put the cost for the few days left at about $0.09 a warrant. A \"ban bet\" on an extension reached 953 points, and its top replies argued that a change announced after broker deadlines would come too late to help holders. On 30 October, after the NYSE's Form 25, the most-upvoted posts treated the warrants as finished (\"Delisted - Let's Move On Now\" at 1,128 points), and replies blamed the members who had hyped them. A link post at 86 points claimed a rule lets GameStop extend the warrants for 10 days after expiry. The rule was not identified, and nothing in the Form 25 supports that reading. By 6 November no post on hot mentioned the warrants, and GameStop had filed no amendment. Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-11-06",
+          "headline": "<strong>A post at 1,428 points claims GameStop meets every S&amp;P 500 requirement except market cap, and that the next additions are announced around 4 December.</strong>",
+          "html": "<p><strong>A post at 1,428 points claims GameStop meets every S&amp;P 500 requirement except market cap, and that the next additions are announced around 4 December.</strong> The author gives the threshold as &quot;$22 billion&quot;; S&amp;P Dow Jones Indices' published figure is $22.7 billion of unadjusted market cap. The author and the top reply both note that the index committee decides and meeting the criteria does not guarantee inclusion. The claim to meet the other criteria was not checked.</p>",
+          "text": "A post at 1,428 points claims GameStop meets every S&P 500 requirement except market cap, and that the next additions are announced around 4 December. The author gives the threshold as \"$22 billion\"; S&P Dow Jones Indices' published figure is $22.7 billion of unadjusted market cap. The author and the top reply both note that the index committee decides and meeting the criteria does not guarantee inclusion. The claim to meet the other criteria was not checked. Single source for the claim and dates; the threshold is Verified against S&P DJI's July 2025 announcement · 2026-11-09",
           "status": "single-source",
-          "status_html": "<p>Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-11-06</p>",
-          "updated": "2026-11-06",
+          "status_html": "<p>Single source for the claim and dates; the threshold is <strong>Verified</strong> against <a href=\"https://press.spglobal.com/2025-07-01-S-P-Dow-Jones-Indices-Announces-Update-to-S-P-Composite-1500-Market-Cap-Guidelines\" target=\"_blank\" rel=\"noopener noreferrer\">S&amp;P DJI's July 2025 announcement</a> · 2026-11-09</p>",
+          "updated": "2026-11-09",
+          "sources": [
+            "press.spglobal.com"
+          ],
+          "due": "2026-12-04",
+          "due_label": "announcement \"expected around December 4th\", as posted"
+        },
+        {
+          "headline": "<strong>The sub now argues both sides of the warrant expiry.</strong>",
+          "html": "<p><strong>The sub now argues both sides of the warrant expiry.</strong> The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3c7qv/\" target=\"_blank\" rel=\"noopener noreferrer\">a post</a> at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated.\nAs of 18 October the balance has tipped: the sub's highest-scoring post of that run, <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8bn90/\" target=\"_blank\" rel=\"noopener noreferrer\">a plea to extend at 2,392 points</a>, drew most-upvoted replies arguing the opposite — &quot;the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming&quot; at 133 points, and at 101 points the case that the $32 strike was &quot;set to define a reasonable floor for GME in 2026&quot; so cutting it &quot;does not send a good message&quot;. The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%.\nBy 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being &quot;I admire your optimism that the share price will be over $32 in the next 7-8 trading days&quot; at 389 points and &quot;If my warrants die they die&quot; at 80.\nOn 24 October a DD at 302 points still argued for an extension and strike cut from a 948% borrow rate, and the top replies answered that a borrow rate is a fee, not a count of shorted warrants, and that exercise issues new shares; a member who exercised five warrants at Schwab was mostly mocked.\nOn 27 October the warrants' quoted cost to borrow had climbed in the sub's posts to 1,127% and then 1,959.50%, both posted by one author without a named source, and the most-upvoted replies read it as shorts betting on a worthless expiry. The rate is annual, and one commenter put the cost for the few days left at about $0.09 a warrant. A &quot;ban bet&quot; on an extension reached 953 points, and its top replies argued that a change announced after broker deadlines would come too late to help holders.\nOn 30 October, after the NYSE's Form 25, the most-upvoted posts treated the warrants as finished (&quot;Delisted - Let's Move On Now&quot; at 1,128 points), and replies blamed the members who had hyped them. A link post at 86 points claimed a rule lets GameStop extend the warrants for 10 days after expiry. The rule was not identified, and nothing in the Form 25 supports that reading.\nBy 6 November no post on hot mentioned the warrants, and GameStop had filed no amendment.\nOn 9 November a commenter identified what looks like the rule behind the 30 October &quot;10 days after expiration&quot; claim. It is DTC's 2023 notice-period rule, which sets how long DTC waits before deleting expired warrant positions. It gives the issuer no new power to extend.</p>",
+          "text": "The sub now argues both sides of the warrant expiry. The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in a post at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated. As of 18 October the balance has tipped: the sub's highest-scoring post of that run, a plea to extend at 2,392 points , drew most-upvoted replies arguing the opposite — \"the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming\" at 133 points, and at 101 points the case that the $32 strike was \"set to define a reasonable floor for GME in 2026\" so cutting it \"does not send a good message\". The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%. By 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being \"I admire your optimism that the share price will be over $32 in the next 7-8 trading days\" at 389 points and \"If my warrants die they die\" at 80. On 24 October a DD at 302 points still argued for an extension and strike cut from a 948% borrow rate, and the top replies answered that a borrow rate is a fee, not a count of shorted warrants, and that exercise issues new shares; a member who exercised five warrants at Schwab was mostly mocked. On 27 October the warrants' quoted cost to borrow had climbed in the sub's posts to 1,127% and then 1,959.50%, both posted by one author without a named source, and the most-upvoted replies read it as shorts betting on a worthless expiry. The rate is annual, and one commenter put the cost for the few days left at about $0.09 a warrant. A \"ban bet\" on an extension reached 953 points, and its top replies argued that a change announced after broker deadlines would come too late to help holders. On 30 October, after the NYSE's Form 25, the most-upvoted posts treated the warrants as finished (\"Delisted - Let's Move On Now\" at 1,128 points), and replies blamed the members who had hyped them. A link post at 86 points claimed a rule lets GameStop extend the warrants for 10 days after expiry. The rule was not identified, and nothing in the Form 25 supports that reading. By 6 November no post on hot mentioned the warrants, and GameStop had filed no amendment. On 9 November a commenter identified what looks like the rule behind the 30 October \"10 days after expiration\" claim. It is DTC's 2023 notice-period rule, which sets how long DTC waits before deleting expired warrant positions. It gives the issuer no new power to extend. Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-11-09",
+          "status": "single-source",
+          "status_html": "<p>Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-11-09</p>",
+          "updated": "2026-11-09",
           "sources": [
             "r/Superstonk"
           ],
