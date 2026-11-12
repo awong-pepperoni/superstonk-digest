@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09",
+  "generated": "2026-11-12",
   "meta": {
     "feed": "superstonk",
     "title": "Superstonk Digest",
@@ -20,6 +20,168 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-12",
+      "title": "Superstonk digest",
+      "intro_html": "<p>Another quiet run, and the sub says so itself. GameStop has filed nothing since the NYSE's 30 October Form 25, and the warrants' 10 November removal date has passed with no amendment on EDGAR. Nobody on hot mentions them except as a grievance. The posts with the most discussion are a Ryan Cohen post titled &quot;Power to the Players&quot;, which commenters read as being about digital game ownership, and the wait for third-quarter earnings, which members expect in early December but GameStop has not dated. No story qualified for Must know: there is no new filing, and the earnings date is a commenter's estimate.</p>",
+      "sections": [
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>GameStop has filed nothing since the 30 October Form 25, and no amendment to the warrants appeared before their 10 November removal from listing.</strong>",
+              "html": "<p><strong>GameStop has filed nothing since the 30 October Form 25, and no amendment to the warrants appeared before their 10 November removal from listing.</strong> EDGAR's latest GameStop filing is still the NYSE's Form 25-NSE, followed by nothing from the company. GameStop's investor news page loaded with an empty &quot;Latest News&quot; section again, and a web search found no GameStop release dated November 2026.</p>",
+              "text": "GameStop has filed nothing since the 30 October Form 25, and no amendment to the warrants appeared before their 10 November removal from listing. EDGAR's latest GameStop filing is still the NYSE's Form 25-NSE, followed by nothing from the company. GameStop's investor news page loaded with an empty \"Latest News\" section again, and a web search found no GameStop release dated November 2026. Verified against EDGAR's filing list for CIK 0001326380 on 2026-11-12",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001326380&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing list for CIK 0001326380</a> on 2026-11-12</p>",
+              "updated": "2026-11-12",
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A Ryan Cohen post titled &quot;Power to the Players&quot; took 1,026 points, and commenters read it as a push on digital game ownership.</strong>",
+              "html": "<p><strong>A Ryan Cohen post titled &quot;Power to the Players&quot; took 1,026 points, and commenters read it as a push on digital game ownership.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xu4fho/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> and a companion <a href=\"https://www.reddit.com/r/Superstonk/comments/1xu4hhq/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;RC on Twitter&quot;</a> (345 points) are screenshots with no body, so what Cohen wrote cannot be seen here. One commenter, at 37 points, says that if Cohen &quot;starts a way to trade digital copies then it's all over&quot;. The reply, at 17, says the post is about &quot;servers for games getting shut down making them unaccesable&quot; and that GameStop could not fix that without every studio agreeing. Under the second post, a commenter at 15 describes a Switch cloud game removed from their account and links it to the &quot;Stop Killing Games&quot; initiative. A separate <a href=\"https://www.reddit.com/r/Superstonk/comments/1xu4ll5/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;NFT Marketplace&quot;</a> post (232 points) tied it to GameStop's old NFT venture, and the reply at 11 says &quot;This has nothing to do with nfts&quot;. A <a href=\"https://www.reddit.com/r/Superstonk/comments/1xtupvj/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;GameStop on Twitter&quot;</a> post (395 points) drew guesses that the company is &quot;all-in on physical media&quot;. Its most pointed reply, at 7, says that would have been nice &quot;when warrants were in play&quot;.</p>",
+              "text": "A Ryan Cohen post titled \"Power to the Players\" took 1,026 points, and commenters read it as a push on digital game ownership. The post and a companion \"RC on Twitter\" (345 points) are screenshots with no body, so what Cohen wrote cannot be seen here. One commenter, at 37 points, says that if Cohen \"starts a way to trade digital copies then it's all over\". The reply, at 17, says the post is about \"servers for games getting shut down making them unaccesable\" and that GameStop could not fix that without every studio agreeing. Under the second post, a commenter at 15 describes a Switch cloud game removed from their account and links it to the \"Stop Killing Games\" initiative. A separate \"NFT Marketplace\" post (232 points) tied it to GameStop's old NFT venture, and the reply at 11 says \"This has nothing to do with nfts\". A \"GameStop on Twitter\" post (395 points) drew guesses that the company is \"all-in on physical media\". Its most pointed reply, at 7, says that would have been nice \"when warrants were in play\". Reported · the readings are commenters'; Cohen's posts themselves were not seen, and GameStop has announced no digital-resale product",
+              "status": "reported",
+              "status_html": "<p>Reported · the readings are commenters'; Cohen's posts themselves were not seen, and GameStop has announced no digital-resale product</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market-data claims",
+          "category": "data",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Members say brokers still treat GME as non-marginable, and give different figures for each broker.</strong>",
+              "html": "<p><strong>Members say brokers still treat GME as non-marginable, and give different figures for each broker.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xtpmea/\" target=\"_blank\" rel=\"noopener noreferrer\">A text post at 158 points</a> says Wealthsimple sets a &quot;100% margin requirement&quot; on GME while other volatile stocks get 30%. Replies, each one member's account: &quot;It's been 100% for GME for a while now&quot; (46 points); SoFi at 100% and Schwab at 70%; Schwab held GME at &quot;100% long, 300% short from Jan 2021 until dropping it to 70% recently&quot;, while Fidelity &quot;still has it at 100%&quot;; and Tastytrade has &quot;always&quot; been 100%. One commenter says it is &quot;a risk management decision that each broker makes independently&quot;. Another calls it &quot;Not a sign of anything imminent&quot;.</p>",
+              "text": "Members say brokers still treat GME as non-marginable, and give different figures for each broker. A text post at 158 points says Wealthsimple sets a \"100% margin requirement\" on GME while other volatile stocks get 30%. Replies, each one member's account: \"It's been 100% for GME for a while now\" (46 points); SoFi at 100% and Schwab at 70%; Schwab held GME at \"100% long, 300% short from Jan 2021 until dropping it to 70% recently\", while Fidelity \"still has it at 100%\"; and Tastytrade has \"always\" been 100%. One commenter says it is \"a risk management decision that each broker makes independently\". Another calls it \"Not a sign of anything imminent\". Reported · several members' own accounts of their brokers; no broker's margin table was checked",
+              "status": "reported",
+              "status_html": "<p>Reported · several members' own accounts of their brokers; no broker's margin table was checked</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The sub calls itself quiet and is waiting for earnings.</strong>",
+              "html": "<p><strong>The sub calls itself quiet and is waiting for earnings.</strong> Under <a href=\"https://www.reddit.com/r/Superstonk/comments/1xtl6xi/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Agree, its quiet...&quot;</a> (462 points), one commenter sums it up: &quot;With the tight pricing band, and GTA VI seven days away, the warrants done, it's just pure buy, hold, shop and Zen.&quot; Another says &quot;Everyone just waiting on earnings now&quot;. <a href=\"https://www.reddit.com/r/Superstonk/comments/1xtpofb/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Still here. Might buy more. When earnings ?&quot;</a> (543 points) drew &quot;Earnings estimated to be around Dec 7th&quot;, and the quiet thread drew &quot;Dec 8th or so?&quot;. Under a 100,000-share screenshot titled <a href=\"https://www.reddit.com/r/Superstonk/comments/1xtjs4p/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Another 100k before our historical earnings&quot;</a> (1,365 points), the top text reply, at 69, says &quot;we have just had two 'historical' earnings reports already this year and they have done absolutely nothing to buoy the share price&quot;. A reply at 9 answers that the price &quot;is currently around 40% above where it was before the last earnings&quot;.</p>",
+              "text": "The sub calls itself quiet and is waiting for earnings. Under \"Agree, its quiet...\" (462 points), one commenter sums it up: \"With the tight pricing band, and GTA VI seven days away, the warrants done, it's just pure buy, hold, shop and Zen.\" Another says \"Everyone just waiting on earnings now\". \"Still here. Might buy more. When earnings ?\" (543 points) drew \"Earnings estimated to be around Dec 7th\", and the quiet thread drew \"Dec 8th or so?\". Under a 100,000-share screenshot titled \"Another 100k before our historical earnings\" (1,365 points), the top text reply, at 69, says \"we have just had two 'historical' earnings reports already this year and they have done absolutely nothing to buoy the share price\". A reply at 9 answers that the price \"is currently around 40% above where it was before the last earnings\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The run's top post is a satire tying a late GME dip to news about Nvidia's CEO.</strong>",
+              "html": "<p><strong>The run's top post is a satire tying a late GME dip to news about Nvidia's CEO.</strong> In <a href=\"https://www.reddit.com/r/Superstonk/comments/1xtvy2i/\" target=\"_blank\" rel=\"noopener noreferrer\">the post</a> (1,633 points), a commenter at 117 posts regular-hours moves of &quot;QQQ +2.31% SPY +1.32% GME +0.47%&quot; and after-hours moves of &quot;GME -2.30%&quot;. As posted by the daily price bot, GME closed at $25.55 on 11 November. The replies are speculation about an Nvidia sell-off and a margin call, offered as jokes or &quot;tin&quot;. None of it is sourced.</p>",
+              "text": "The run's top post is a satire tying a late GME dip to news about Nvidia's CEO. In the post (1,633 points), a commenter at 117 posts regular-hours moves of \"QQQ +2.31% SPY +1.32% GME +0.47%\" and after-hours moves of \"GME -2.30%\". As posted by the daily price bot, GME closed at $25.55 on 11 November. The replies are speculation about an Nvidia sell-off and a margin call, offered as jokes or \"tin\". None of it is sourced.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The rest of hot is memes, a &quot;who&#x27;s still holding their collectibles&quot; post, a daily share-buy post, a max-pain chart, the German-market opening post, the clos…",
+              "html": "<p>The rest of hot is memes, a &quot;who's still holding their collectibles&quot; post, a daily share-buy post, a max-pain chart, the German-market opening post, the closing-price bot, a Veterans Day post, and the January–February Open Forum's mod note that posts about DFV's brother are off-topic.</p>",
+              "text": "The rest of hot is memes, a \"who's still holding their collectibles\" post, a daily share-buy post, a max-pain chart, the German-market opening post, the closing-price bot, a Veterans Day post, and the January–February Open Forum's mod note that posts about DFV's brother are off-topic.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Members expect third-quarter results around 7 or 8 December, but GameStop has not announced a date.</strong>",
+              "html": "<p><strong>Members expect third-quarter results around 7 or 8 December, but GameStop has not announced a date.</strong> The dates come from two commenters in the threads above. Neither EDGAR nor GameStop's news page shows a release-date announcement, and a web search turned up only the equivalent announcement from November 2025.</p>",
+              "text": "Members expect third-quarter results around 7 or 8 December, but GameStop has not announced a date. The dates come from two commenters in the threads above. Neither EDGAR nor GameStop's news page shows a release-date announcement, and a web search turned up only the equivalent announcement from November 2025. Unconfirmed · checked EDGAR's filing list, GameStop's investor news page and a web search",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · checked EDGAR's filing list, GameStop's investor news page and a web search</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> Superstonk, 24 posts, with twelve threads fetched.",
+              "html": "<p><strong>Read:</strong> Superstonk, 24 posts, with twelve threads fetched. <strong>Sources checked:</strong> GameStop's SEC filings on EDGAR, where the latest filing is still the 30 October Form 25-NSE. EDGAR was read through a fetch tool's summary of the filing list, because a direct <code>curl</code> was not permitted in this unattended run. GameStop's investor news page loaded with an empty &quot;Latest News&quot; section, and a web search found no GameStop release dated November 2026.</p>",
+              "text": "Read: Superstonk, 24 posts, with twelve threads fetched. Sources checked: GameStop's SEC filings on EDGAR, where the latest filing is still the 30 October Form 25-NSE. EDGAR was read through a fetch tool's summary of the filing list, because a direct curl was not permitted in this unattended run. GameStop's investor news page loaded with an empty \"Latest News\" section, and a web search found no GameStop release dated November 2026.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. Nothing has been filed or announced since the 2026-11-09 entry.</p>",
+              "text": "Announced, not discussed: none. Nothing has been filed or announced since the 2026-11-09 entry. Verified against EDGAR's filing list for CIK 0001326380",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against EDGAR's filing list for CIK 0001326380</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;daaaaaaaay&quot; is from two copies of the same daily &quot;TODAY&#x27;S THE DAAAAAAAAY&quot; meme post by one author, so it is noise.",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;daaaaaaaay&quot; is from two copies of the same daily &quot;TODAY'S THE DAAAAAAAAY&quot; meme post by one author, so it is noise.</p>",
+              "text": "Flagged terms set aside: \"daaaaaaaay\" is from two copies of the same daily \"TODAY'S THE DAAAAAAAAY\" meme post by one author, so it is noise.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "title": "Superstonk digest",
@@ -2051,19 +2213,18 @@
       "lead_html": null,
       "items": [
         {
-          "headline": "<strong>GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026.</strong>",
-          "html": "<p><strong>GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026.</strong> Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. The company's 19 October 2026 reminder release adds that the warrants &quot;cease trading&quot; under &quot;GME WS&quot; &quot;before the markets open on October 30, 2026&quot;, and that an exercise by Notice of Guaranteed Delivery needs the notice and the $32.00 payment before 5:00 p.m. on 30 October with the warrants delivered by 5:00 p.m. on 2 November 2026. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the &quot;GameStop Warrant Exercise&quot; letter, with one online transaction per account, and report broker cutoffs of 23 October (Computershare portal), 28 October 7:00 p.m. (Schwab) and 29 October 7:00 p.m. (Fidelity). As posted on 23 October, the warrants closed at $0.64 and GME at $24.82, $7.18 below the strike. Hopes of an extension circulate on the sub. None has been announced, and the reminder release announced no change to the terms. The release also says &quot;The NYSE confirmed with the Company that it intends to file a Form 25 with the Securities and Exchange Commission&quot; to delist the warrants, while the common stock keeps trading as &quot;GME&quot;. The NYSE filed that Form 25-NSE at 08:51 on 30 October. It covers &quot;Warrants to Purchase Common Stock&quot;, cites Rule 12d2-2(a)(3), says &quot;this security was suspended from trading on October 30, 2026&quot;, and sets removal from listing &quot;at the opening of business on November 10, 2026.&quot; As of 6 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry, so the warrants lapsed on their filed terms. As of 9 November that is still true. Brokers still show the warrants, and one member reports Fidelity paying a lending fee on them. A 2023 DTC rule (SR-DTC-2023-009) lets DTC delete expired warrant positions if it &quot;has not received a notice of extension&quot; &quot;within ten (10) business days after the Expiration Date&quot;. A commenter estimates that the warrants leave accounts around 16 or 17 November. Delete this entry once removal from listing takes effect.</p>",
-          "text": "GameStop warrants (NYSE: GME WS) expire at 5:00 p.m. New York time on 30 October 2026. Each warrant buys one share at $32.00 in cash; they were distributed one per ten shares held on 3 October 2025. The company's 19 October 2026 reminder release adds that the warrants \"cease trading\" under \"GME WS\" \"before the markets open on October 30, 2026\", and that an exercise by Notice of Guaranteed Delivery needs the notice and the $32.00 payment before 5:00 p.m. on 30 October with the warrants delivered by 5:00 p.m. on 2 November 2026. Members report that warrants held at Computershare can only be sold or exercised through a separate site using the codes in the \"GameStop Warrant Exercise\" letter, with one online transaction per account, and report broker cutoffs of 23 October (Computershare portal), 28 October 7:00 p.m. (Schwab) and 29 October 7:00 p.m. (Fidelity). As posted on 23 October, the warrants closed at $0.64 and GME at $24.82, $7.18 below the strike. Hopes of an extension circulate on the sub. None has been announced, and the reminder release announced no change to the terms. The release also says \"The NYSE confirmed with the Company that it intends to file a Form 25 with the Securities and Exchange Commission\" to delist the warrants, while the common stock keeps trading as \"GME\". The NYSE filed that Form 25-NSE at 08:51 on 30 October. It covers \"Warrants to Purchase Common Stock\", cites Rule 12d2-2(a)(3), says \"this security was suspended from trading on October 30, 2026\", and sets removal from listing \"at the opening of business on November 10, 2026.\" As of 6 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry, so the warrants lapsed on their filed terms. As of 9 November that is still true. Brokers still show the warrants, and one member reports Fidelity paying a lending fee on them. A 2023 DTC rule (SR-DTC-2023-009) lets DTC delete expired warrant positions if it \"has not received a notice of extension\" \"within ten (10) business days after the Expiration Date\". A commenter estimates that the warrants leave accounts around 16 or 17 November. Delete this entry once removal from listing takes effect. Verified for terms and dates, against the warrant distribution FAQ , the 19 October 2026 press release and the 30 October Form 25-NSE , and for the absence of any amendment against EDGAR's filing list; the DTC rule text is Verified against the Federal Register notice ; the broker cutoffs and lending fees are Reported by members, the deletion date is a commenter's estimate, and the closing prices are Reported by one poster · 2026-11-09",
+          "headline": "<strong>GameStop's warrants (NYSE: GME WS) lapsed on their filed terms on 30 October 2026 and were due to be removed from listing on 10 November.</strong>",
+          "html": "<p><strong>GameStop's warrants (NYSE: GME WS) lapsed on their filed terms on 30 October 2026 and were due to be removed from listing on 10 November.</strong> Each warrant bought one share at $32.00 in cash. The NYSE's Form 25-NSE of 30 October sets removal &quot;at the opening of business on November 10, 2026.&quot; As of 12 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry. A 2023 DTC rule (SR-DTC-2023-009) lets DTC delete expired warrant positions if it &quot;has not received a notice of extension&quot; &quot;within ten (10) business days after the Expiration Date&quot;. A commenter estimates that the warrants leave brokerage accounts around 16 or 17 November. This entry stays only because the entries below refer to it. Delete it with them once the warrants stop coming up.</p>",
+          "text": "GameStop's warrants (NYSE: GME WS) lapsed on their filed terms on 30 October 2026 and were due to be removed from listing on 10 November. Each warrant bought one share at $32.00 in cash. The NYSE's Form 25-NSE of 30 October sets removal \"at the opening of business on November 10, 2026.\" As of 12 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry. A 2023 DTC rule (SR-DTC-2023-009) lets DTC delete expired warrant positions if it \"has not received a notice of extension\" \"within ten (10) business days after the Expiration Date\". A commenter estimates that the warrants leave brokerage accounts around 16 or 17 November. This entry stays only because the entries below refer to it. Delete it with them once the warrants stop coming up. Verified against the 30 October Form 25-NSE and EDGAR's filing list, and the DTC rule text against the Federal Register notice ; the deletion date is a commenter's estimate · 2026-11-12",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> for terms and dates, against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/a993-warrantdistributionfa.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the warrant distribution FAQ</a>, <a href=\"https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Reminds-Holders-of-October-30-2026-Warrant-Expiration-Date/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">the 19 October 2026 press release</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000087666126000873/0000876661-26-000873-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 30 October Form 25-NSE</a>, and for the absence of any amendment against EDGAR's filing list; the DTC rule text is <strong>Verified</strong> against <a href=\"https://www.govinfo.gov/content/pkg/FR-2023-09-28/html/2023-21137.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Federal Register notice</a>; the broker cutoffs and lending fees are Reported by members, the deletion date is a commenter's estimate, and the closing prices are Reported by one poster · 2026-11-09</p>",
-          "updated": "2026-11-09",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000087666126000873/0000876661-26-000873-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 30 October Form 25-NSE</a> and EDGAR's filing list, and the DTC rule text against <a href=\"https://www.govinfo.gov/content/pkg/FR-2023-09-28/html/2023-21137.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Federal Register notice</a>; the deletion date is a commenter's estimate · 2026-11-12</p>",
+          "updated": "2026-11-12",
           "sources": [
             "SEC filing",
-            "investor.gamestop.com",
             "govinfo.gov"
           ],
-          "due": "2026-11-10",
-          "due_label": "removal from listing \"at the opening of business on November 10, 2026\""
+          "due": null,
+          "due_label": null
         },
         {
           "headline": "<strong>The warrant agreement permits an extension, and the twenty-day rule the sub cites applies to something else.</strong>",
@@ -2134,6 +2295,17 @@
           "sources": [
             "SEC filing"
           ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date.</strong>",
+          "html": "<p><strong>Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date.</strong> On 12 November two commenters gave &quot;around Dec 7th&quot; and &quot;Dec 8th or so?&quot;. As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. Replace the estimate with the filed date once GameStop announces one.</p>",
+          "text": "Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date. On 12 November two commenters gave \"around Dec 7th\" and \"Dec 8th or so?\". As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. Replace the estimate with the filed date once GameStop announces one. Unconfirmed · checked EDGAR's filing list and GameStop's investor news page · 2026-11-12",
+          "status": "unconfirmed",
+          "status_html": "<p><strong>Unconfirmed</strong> · checked EDGAR's filing list and GameStop's investor news page · 2026-11-12</p>",
+          "updated": "2026-11-12",
+          "sources": [],
           "due": null,
           "due_label": null
         }
