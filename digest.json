@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-15",
   "meta": {
     "feed": "superstonk",
     "title": "Superstonk Digest",
@@ -20,6 +20,178 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-15",
+      "title": "Superstonk digest",
+      "intro_html": "<p>The warrants came back for one last thread. A post titled &quot;WS status change - delisted to worthless&quot; drew 529 points, and its replies mostly mocked the theories that they would be revived. The only verified news on hot is outside GameStop: on 13 November the Supreme Court agreed to hear Robinhood's appeal in a lawsuit over its 2021 IPO, a case that turns partly on meme-stock trading. The posts with the most points are screenshots of Ryan Cohen's social media, which drew political argument rather than company news, and a repeat of a large block trade. No story qualified for Must know. GameStop has filed nothing since 30 October, and the Supreme Court case does not involve the company.</p>",
+      "sections": [
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>GameStop has filed nothing since the 30 October Form 25, and has still not dated its third-quarter results.</strong>",
+              "html": "<p><strong>GameStop has filed nothing since the 30 October Form 25, and has still not dated its third-quarter results.</strong> EDGAR's latest GameStop filing is still the NYSE's Form 25-NSE of 30 October. Before that came an 8-K on 19 October. GameStop's investor news page loaded with an empty &quot;Latest News&quot; section again. A web search found no release announcing the results date, only third-party estimates. On hot, <a href=\"https://www.reddit.com/r/Superstonk/comments/1xvybtv/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;T minus 24 days until q3 earnings&quot;</a> (353 points) is a countdown to a date GameStop has not announced. One reply there wishes for &quot;more details into the power pack metrics specifically rather than everything just being grouped into 'collectibles'&quot;.</p>",
+              "text": "GameStop has filed nothing since the 30 October Form 25, and has still not dated its third-quarter results. EDGAR's latest GameStop filing is still the NYSE's Form 25-NSE of 30 October. Before that came an 8-K on 19 October. GameStop's investor news page loaded with an empty \"Latest News\" section again. A web search found no release announcing the results date, only third-party estimates. On hot, \"T minus 24 days until q3 earnings\" (353 points) is a countdown to a date GameStop has not announced. One reply there wishes for \"more details into the power pack metrics specifically rather than everything just being grouped into 'collectibles'\". Verified against EDGAR's filing list for CIK 0001326380 on 2026-11-15 · the results date is Unconfirmed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001326380&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing list for CIK 0001326380</a> on 2026-11-15 · the results date is <strong>Unconfirmed</strong></p>",
+              "updated": "2026-11-15",
+              "sources": [
+                "r/Superstonk",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Supreme Court agreed on 13 November to hear Robinhood's appeal in a shareholder suit over its 2021 IPO.</strong>",
+              "html": "<p><strong>The Supreme Court agreed on 13 November to hear Robinhood's appeal in a shareholder suit over its 2021 IPO.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xwbm2y/\" target=\"_blank\" rel=\"noopener noreferrer\">A text post at 405 points</a> reproduces a Benzinga article. It says the plaintiffs allege Robinhood did not disclose that its revenue had shifted toward meme stocks like GameStop, and that the frenzy had faded before the July 2021 IPO. Citing Reuters, it says the court &quot;is expected to rule by the end of June&quot;. The Court's order list confirms the grant in <em>Robinhood Markets, Inc. v. Sodha</em>, No. 25-944. Review is &quot;limited to the following question&quot;: whether an issuer can be liable under Section 11(a) for failing &quot;to disclose interim financial information that is material&quot;, &quot;without an additional inquiry to determine whether the omission rendered any affirmative statement misleading.&quot; Most replies are about the January 2021 buy-button restrictions. One reply, at 12 points, says the case &quot;has nothing to do with&quot; naked shorting and is about Robinhood's pre-IPO numbers. GameStop is not a party.</p>",
+              "text": "The Supreme Court agreed on 13 November to hear Robinhood's appeal in a shareholder suit over its 2021 IPO. A text post at 405 points reproduces a Benzinga article. It says the plaintiffs allege Robinhood did not disclose that its revenue had shifted toward meme stocks like GameStop, and that the frenzy had faded before the July 2021 IPO. Citing Reuters, it says the court \"is expected to rule by the end of June\". The Court's order list confirms the grant in Robinhood Markets, Inc. v. Sodha , No. 25-944. Review is \"limited to the following question\": whether an issuer can be liable under Section 11(a) for failing \"to disclose interim financial information that is material\", \"without an additional inquiry to determine whether the omission rendered any affirmative statement misleading.\" Most replies are about the January 2021 buy-button restrictions. One reply, at 12 points, says the case \"has nothing to do with\" naked shorting and is about Robinhood's pre-IPO numbers. GameStop is not a party. Verified for the grant and question, against the Supreme Court's 13 November 2026 order list · the June timing is Reported, from Reuters via the post",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the grant and question, against <a href=\"https://www.supremecourt.gov/orders/courtorders/111326zr_09m1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">the Supreme Court's 13 November 2026 order list</a> · the June timing is Reported, from Reuters via the post</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk",
+                "supremecourt.gov"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market-data claims",
+          "category": "data",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The sub says a block trade of 1,667,000 shares on the Chicago exchange repeated an identical trade from 20 days earlier.</strong>",
+              "html": "<p><strong>The sub says a block trade of 1,667,000 shares on the Chicago exchange repeated an identical trade from 20 days earlier.</strong> The post, <a href=\"https://www.reddit.com/r/Superstonk/comments/1xv9jn8/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;1M shares on Chicago&quot;</a>, took 2,261 points, and its author's own comment says &quot;1,667,000 20 days ago and again today&quot;. The tracker recorded a 1,677,000-share print on 23 October. Commenters claim &quot;3 mil in 10 minutes&quot; and &quot;3.2 Million shares&quot; in the first ten minutes of trading. Under a companion post, <a href=\"https://www.reddit.com/r/Superstonk/comments/1xv9pv3/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Big buys&quot;</a> (1,087 points), a reply says &quot;Someone mentioned this is just clean up of the option chain or something like that. So nothing burger&quot;. Another reply reads the trade as shorts covering. Neither explanation is sourced.</p>",
+              "text": "The sub says a block trade of 1,667,000 shares on the Chicago exchange repeated an identical trade from 20 days earlier. The post, \"1M shares on Chicago\" , took 2,261 points, and its author's own comment says \"1,667,000 20 days ago and again today\". The tracker recorded a 1,677,000-share print on 23 October. Commenters claim \"3 mil in 10 minutes\" and \"3.2 Million shares\" in the first ten minutes of trading. Under a companion post, \"Big buys\" (1,087 points), a reply says \"Someone mentioned this is just clean up of the option chain or something like that. So nothing burger\". Another reply reads the trade as shorts covering. Neither explanation is sourced. Single source · figures are as posted, from screenshots; no trade data was checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · figures are as posted, from screenshots; no trade data was checked</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Members read GME rising on a red market day as a sign of &quot;negative beta&quot; again.</strong>",
+              "html": "<p><strong>Members read GME rising on a red market day as a sign of &quot;negative beta&quot; again.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xvdwvl/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;All I know is GME green whilst entire Market is red = good.&quot;</a> took 879 points, and its top reply is &quot;(Negative) Beta gang&quot;. A reply at 2 points calls it &quot;a perfect hedge&quot;. The post gives no figures.</p>",
+              "text": "Members read GME rising on a red market day as a sign of \"negative beta\" again. \"All I know is GME green whilst entire Market is red = good.\" took 879 points, and its top reply is \"(Negative) Beta gang\". A reply at 2 points calls it \"a perfect hedge\". The post gives no figures. Single source · no market data was cited or checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · no market data was cited or checked</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The warrant thread turned into a postmortem.</strong>",
+              "html": "<p><strong>The warrant thread turned into a postmortem.</strong> Under <a href=\"https://www.reddit.com/r/Superstonk/comments/1xw798y/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;WS status change - delisted to worthless&quot;</a> (529 points), the top reply, at 202, expects the &quot;warrant boyz&quot; to keep producing theories anyway. Another, at 49, says &quot;Yet another 'researched' superstonk theory proven wrong&quot;. A commenter at 25 says Fidelity still shows the warrants. They expect removal &quot;this coming week&quot;, because DTCC sends formal notice &quot;10 business days after the warrants expire&quot;. That matches the DTC rule the 9 November entry verified. The timing for Fidelity is the commenter's own estimate.</p>",
+              "text": "The warrant thread turned into a postmortem. Under \"WS status change - delisted to worthless\" (529 points), the top reply, at 202, expects the \"warrant boyz\" to keep producing theories anyway. Another, at 49, says \"Yet another 'researched' superstonk theory proven wrong\". A commenter at 25 says Fidelity still shows the warrants. They expect removal \"this coming week\", because DTCC sends formal notice \"10 business days after the warrants expire\". That matches the DTC rule the 9 November entry verified. The timing for Fidelity is the commenter's own estimate.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Ryan Cohen's posts drew political pushback rather than company talk.</strong>",
+              "html": "<p><strong>Ryan Cohen's posts drew political pushback rather than company talk.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xvmvx3/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Ryan Cohen repost on Twitter&quot;</a> is the run's top post at 2,552 points. It is a screenshot that commenters say comes from &quot;a host of the all in podcast&quot;, and the replies show it is about DEI and corporate boards. The top reply, at 563 points, is &quot;Just increase shareholder value already&quot;. Another, at 243, says GameStop once faced pressure to adopt DEI rules that would have put &quot;anti cohen people on the board&quot;. A second screenshot, <a href=\"https://www.reddit.com/r/Superstonk/comments/1xvtq7f/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Ryan Cohen&quot;</a> (2,274 points), drew jokes that it shows an AI chatbot praising Cohen (&quot;'Hey Grok, tell me Ryan Cohen is great'&quot;). Neither image is visible through the tool.</p>",
+              "text": "Ryan Cohen's posts drew political pushback rather than company talk. \"Ryan Cohen repost on Twitter\" is the run's top post at 2,552 points. It is a screenshot that commenters say comes from \"a host of the all in podcast\", and the replies show it is about DEI and corporate boards. The top reply, at 563 points, is \"Just increase shareholder value already\". Another, at 243, says GameStop once faced pressure to adopt DEI rules that would have put \"anti cohen people on the board\". A second screenshot, \"Ryan Cohen\" (2,274 points), drew jokes that it shows an AI chatbot praising Cohen (\"'Hey Grok, tell me Ryan Cohen is great'\"). Neither image is visible through the tool.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Two image posts tied a market sell-off to &quot;MOASS&quot;, and the replies were sceptical.</strong>",
+              "html": "<p><strong>Two image posts tied a market sell-off to &quot;MOASS&quot;, and the replies were sceptical.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xw09oa/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Larry on X, moass next?&quot;</a> (2,044 points) drew a top reply, at 575, about AI-written code and AI-found exploits (&quot;The system will eat itself&quot;). A reply at 12 says the poster &quot;cryptically said risks seem high but are low right before the warrants expired&quot;. Under <a href=\"https://www.reddit.com/r/Superstonk/comments/1xwg85l/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;It's gone&quot;</a> (1,003 points), a reply at 10 says &quot;I love how anything happens in the market and we have the delusion it'll somehow help us at this point.&quot;</p>",
+              "text": "Two image posts tied a market sell-off to \"MOASS\", and the replies were sceptical. \"Larry on X, moass next?\" (2,044 points) drew a top reply, at 575, about AI-written code and AI-found exploits (\"The system will eat itself\"). A reply at 12 says the poster \"cryptically said risks seem high but are low right before the warrants expired\". Under \"It's gone\" (1,003 points), a reply at 10 says \"I love how anything happens in the market and we have the delusion it'll somehow help us at this point.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The rest of hot is memes, a GameStop tweet showing 20 games that commenters tried to decode (one says X &quot;recently allowed posts with up to 20 images&quot;), a pos…",
+              "html": "<p>The rest of hot is memes, a GameStop tweet showing 20 games that commenters tried to decode (one says X &quot;recently allowed posts with up to 20 images&quot;), a post arguing that short selling should be banned, a daily share-buy post, a max-pain chart, the closing-price bot and the January–February Open Forum.</p>",
+              "text": "The rest of hot is memes, a GameStop tweet showing 20 games that commenters tried to decode (one says X \"recently allowed posts with up to 20 images\"), a post arguing that short selling should be banned, a daily share-buy post, a max-pain chart, the closing-price bot and the January–February Open Forum.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> Superstonk, 23 posts, with twelve threads fetched.",
+              "html": "<p><strong>Read:</strong> Superstonk, 23 posts, with twelve threads fetched. <strong>Sources checked:</strong> GameStop's SEC filings on EDGAR, where the latest filing is still the 30 October Form 25-NSE. EDGAR was read through a fetch tool's summary of the filing list. GameStop's investor news page loaded with an empty &quot;Latest News&quot; section. A web search found no GameStop release announcing a third-quarter results date. The Supreme Court order list was read directly for the Robinhood item.</p>",
+              "text": "Read: Superstonk, 23 posts, with twelve threads fetched. Sources checked: GameStop's SEC filings on EDGAR, where the latest filing is still the 30 October Form 25-NSE. EDGAR was read through a fetch tool's summary of the filing list. GameStop's investor news page loaded with an empty \"Latest News\" section. A web search found no GameStop release announcing a third-quarter results date. The Supreme Court order list was read directly for the Robinhood item.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. GameStop has filed or announced nothing since the 2026-11-12 entry.</p>",
+              "text": "Announced, not discussed: none. GameStop has filed or announced nothing since the 2026-11-12 entry. Verified against EDGAR's filing list for CIK 0001326380",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against EDGAR's filing list for CIK 0001326380</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none. The scan flagged no unfamiliar recurring terms this run.</p>",
+              "text": "Flagged terms set aside: none. The scan flagged no unfamiliar recurring terms this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "title": "Superstonk digest",
@@ -2214,11 +2386,11 @@
       "items": [
         {
           "headline": "<strong>GameStop's warrants (NYSE: GME WS) lapsed on their filed terms on 30 October 2026 and were due to be removed from listing on 10 November.</strong>",
-          "html": "<p><strong>GameStop's warrants (NYSE: GME WS) lapsed on their filed terms on 30 October 2026 and were due to be removed from listing on 10 November.</strong> Each warrant bought one share at $32.00 in cash. The NYSE's Form 25-NSE of 30 October sets removal &quot;at the opening of business on November 10, 2026.&quot; As of 12 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry. A 2023 DTC rule (SR-DTC-2023-009) lets DTC delete expired warrant positions if it &quot;has not received a notice of extension&quot; &quot;within ten (10) business days after the Expiration Date&quot;. A commenter estimates that the warrants leave brokerage accounts around 16 or 17 November. This entry stays only because the entries below refer to it. Delete it with them once the warrants stop coming up.</p>",
-          "text": "GameStop's warrants (NYSE: GME WS) lapsed on their filed terms on 30 October 2026 and were due to be removed from listing on 10 November. Each warrant bought one share at $32.00 in cash. The NYSE's Form 25-NSE of 30 October sets removal \"at the opening of business on November 10, 2026.\" As of 12 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry. A 2023 DTC rule (SR-DTC-2023-009) lets DTC delete expired warrant positions if it \"has not received a notice of extension\" \"within ten (10) business days after the Expiration Date\". A commenter estimates that the warrants leave brokerage accounts around 16 or 17 November. This entry stays only because the entries below refer to it. Delete it with them once the warrants stop coming up. Verified against the 30 October Form 25-NSE and EDGAR's filing list, and the DTC rule text against the Federal Register notice ; the deletion date is a commenter's estimate · 2026-11-12",
+          "html": "<p><strong>GameStop's warrants (NYSE: GME WS) lapsed on their filed terms on 30 October 2026 and were due to be removed from listing on 10 November.</strong> Each warrant bought one share at $32.00 in cash. The NYSE's Form 25-NSE of 30 October sets removal &quot;at the opening of business on November 10, 2026.&quot; As of 12 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry. A 2023 DTC rule (SR-DTC-2023-009) lets DTC delete expired warrant positions if it &quot;has not received a notice of extension&quot; &quot;within ten (10) business days after the Expiration Date&quot;. A commenter estimates that the warrants leave brokerage accounts around 16 or 17 November. On 15 November EDGAR still showed nothing after the Form 25. A post titled &quot;WS status change - delisted to worthless&quot; reached 529 points, and a commenter said Fidelity still listed the warrants and would remove them &quot;this coming week&quot;. This entry stays only because the entries below refer to it. Delete it with them once the warrants stop coming up.</p>",
+          "text": "GameStop's warrants (NYSE: GME WS) lapsed on their filed terms on 30 October 2026 and were due to be removed from listing on 10 November. Each warrant bought one share at $32.00 in cash. The NYSE's Form 25-NSE of 30 October sets removal \"at the opening of business on November 10, 2026.\" As of 12 November, EDGAR shows no amendment or 8-K from GameStop before or after expiry. A 2023 DTC rule (SR-DTC-2023-009) lets DTC delete expired warrant positions if it \"has not received a notice of extension\" \"within ten (10) business days after the Expiration Date\". A commenter estimates that the warrants leave brokerage accounts around 16 or 17 November. On 15 November EDGAR still showed nothing after the Form 25. A post titled \"WS status change - delisted to worthless\" reached 529 points, and a commenter said Fidelity still listed the warrants and would remove them \"this coming week\". This entry stays only because the entries below refer to it. Delete it with them once the warrants stop coming up. Verified against the 30 October Form 25-NSE and EDGAR's filing list, and the DTC rule text against the Federal Register notice ; the deletion date is a commenter's estimate · 2026-11-15",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000087666126000873/0000876661-26-000873-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 30 October Form 25-NSE</a> and EDGAR's filing list, and the DTC rule text against <a href=\"https://www.govinfo.gov/content/pkg/FR-2023-09-28/html/2023-21137.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Federal Register notice</a>; the deletion date is a commenter's estimate · 2026-11-12</p>",
-          "updated": "2026-11-12",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000087666126000873/0000876661-26-000873-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 30 October Form 25-NSE</a> and EDGAR's filing list, and the DTC rule text against <a href=\"https://www.govinfo.gov/content/pkg/FR-2023-09-28/html/2023-21137.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Federal Register notice</a>; the deletion date is a commenter's estimate · 2026-11-15</p>",
+          "updated": "2026-11-15",
           "sources": [
             "SEC filing",
             "govinfo.gov"
@@ -2300,14 +2472,34 @@
         },
         {
           "headline": "<strong>Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date.</strong>",
-          "html": "<p><strong>Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date.</strong> On 12 November two commenters gave &quot;around Dec 7th&quot; and &quot;Dec 8th or so?&quot;. As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. Replace the estimate with the filed date once GameStop announces one.</p>",
-          "text": "Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date. On 12 November two commenters gave \"around Dec 7th\" and \"Dec 8th or so?\". As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. Replace the estimate with the filed date once GameStop announces one. Unconfirmed · checked EDGAR's filing list and GameStop's investor news page · 2026-11-12",
+          "html": "<p><strong>Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date.</strong> On 12 November two commenters gave &quot;around Dec 7th&quot; and &quot;Dec 8th or so?&quot;. As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. On 15 November a post titled &quot;T minus 24 days until q3 earnings&quot; counted down to a date GameStop still had not announced, and a web search found only third-party estimates. Replace the estimate with the filed date once GameStop announces one.</p>",
+          "text": "Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date. On 12 November two commenters gave \"around Dec 7th\" and \"Dec 8th or so?\". As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. On 15 November a post titled \"T minus 24 days until q3 earnings\" counted down to a date GameStop still had not announced, and a web search found only third-party estimates. Replace the estimate with the filed date once GameStop announces one. Unconfirmed · checked EDGAR's filing list, GameStop's investor news page and a web search · 2026-11-15",
           "status": "unconfirmed",
-          "status_html": "<p><strong>Unconfirmed</strong> · checked EDGAR's filing list and GameStop's investor news page · 2026-11-12</p>",
-          "updated": "2026-11-12",
+          "status_html": "<p><strong>Unconfirmed</strong> · checked EDGAR's filing list, GameStop's investor news page and a web search · 2026-11-15</p>",
+          "updated": "2026-11-15",
           "sources": [],
           "due": null,
           "due_label": null
+        }
+      ]
+    },
+    {
+      "theme": "Litigation",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>The Supreme Court will hear Robinhood's appeal in a shareholder suit over its 2021 IPO, a case built partly on undisclosed meme-stock trading.</strong>",
+          "html": "<p><strong>The Supreme Court will hear Robinhood's appeal in a shareholder suit over its 2021 IPO, a case built partly on undisclosed meme-stock trading.</strong> The Court granted certiorari in <em>Robinhood Markets, Inc. v. Sodha</em>, No. 25-944, on 13 November 2026. Review is &quot;limited to the following question&quot;: whether an issuer can be liable under Section 11(a) of the Securities Act for failing &quot;to disclose interim financial information that is material&quot;, &quot;without an additional inquiry to determine whether the omission rendered any affirmative statement misleading.&quot; A Benzinga article reposted on the sub says the plaintiffs allege Robinhood hid that revenue had shifted toward meme stocks like GameStop, and that, according to Reuters, the court &quot;is expected to rule by the end of June&quot;. GameStop is not a party. A commenter notes that the case is not about short selling.</p>",
+          "text": "The Supreme Court will hear Robinhood's appeal in a shareholder suit over its 2021 IPO, a case built partly on undisclosed meme-stock trading. The Court granted certiorari in Robinhood Markets, Inc. v. Sodha , No. 25-944, on 13 November 2026. Review is \"limited to the following question\": whether an issuer can be liable under Section 11(a) of the Securities Act for failing \"to disclose interim financial information that is material\", \"without an additional inquiry to determine whether the omission rendered any affirmative statement misleading.\" A Benzinga article reposted on the sub says the plaintiffs allege Robinhood hid that revenue had shifted toward meme stocks like GameStop, and that, according to Reuters, the court \"is expected to rule by the end of June\". GameStop is not a party. A commenter notes that the case is not about short selling. Verified for the grant and question, against the 13 November 2026 order list ; the ruling date is Reported · 2026-11-15",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the grant and question, against <a href=\"https://www.supremecourt.gov/orders/courtorders/111326zr_09m1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">the 13 November 2026 order list</a>; the ruling date is Reported · 2026-11-15</p>",
+          "updated": "2026-11-15",
+          "sources": [
+            "supremecourt.gov"
+          ],
+          "due": "2027-06-30",
+          "due_label": "ruling \"expected ... by the end of June\", per Reuters as posted"
         }
       ]
     },
@@ -2372,11 +2564,11 @@
         },
         {
           "headline": "<strong>The sub now argues both sides of the warrant expiry.</strong>",
-          "html": "<p><strong>The sub now argues both sides of the warrant expiry.</strong> The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3c7qv/\" target=\"_blank\" rel=\"noopener noreferrer\">a post</a> at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated.\nAs of 18 October the balance has tipped: the sub's highest-scoring post of that run, <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8bn90/\" target=\"_blank\" rel=\"noopener noreferrer\">a plea to extend at 2,392 points</a>, drew most-upvoted replies arguing the opposite — &quot;the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming&quot; at 133 points, and at 101 points the case that the $32 strike was &quot;set to define a reasonable floor for GME in 2026&quot; so cutting it &quot;does not send a good message&quot;. The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%.\nBy 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being &quot;I admire your optimism that the share price will be over $32 in the next 7-8 trading days&quot; at 389 points and &quot;If my warrants die they die&quot; at 80.\nOn 24 October a DD at 302 points still argued for an extension and strike cut from a 948% borrow rate, and the top replies answered that a borrow rate is a fee, not a count of shorted warrants, and that exercise issues new shares; a member who exercised five warrants at Schwab was mostly mocked.\nOn 27 October the warrants' quoted cost to borrow had climbed in the sub's posts to 1,127% and then 1,959.50%, both posted by one author without a named source, and the most-upvoted replies read it as shorts betting on a worthless expiry. The rate is annual, and one commenter put the cost for the few days left at about $0.09 a warrant. A &quot;ban bet&quot; on an extension reached 953 points, and its top replies argued that a change announced after broker deadlines would come too late to help holders.\nOn 30 October, after the NYSE's Form 25, the most-upvoted posts treated the warrants as finished (&quot;Delisted - Let's Move On Now&quot; at 1,128 points), and replies blamed the members who had hyped them. A link post at 86 points claimed a rule lets GameStop extend the warrants for 10 days after expiry. The rule was not identified, and nothing in the Form 25 supports that reading.\nBy 6 November no post on hot mentioned the warrants, and GameStop had filed no amendment.\nOn 9 November a commenter identified what looks like the rule behind the 30 October &quot;10 days after expiration&quot; claim. It is DTC's 2023 notice-period rule, which sets how long DTC waits before deleting expired warrant positions. It gives the issuer no new power to extend.</p>",
-          "text": "The sub now argues both sides of the warrant expiry. The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in a post at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated. As of 18 October the balance has tipped: the sub's highest-scoring post of that run, a plea to extend at 2,392 points , drew most-upvoted replies arguing the opposite — \"the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming\" at 133 points, and at 101 points the case that the $32 strike was \"set to define a reasonable floor for GME in 2026\" so cutting it \"does not send a good message\". The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%. By 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being \"I admire your optimism that the share price will be over $32 in the next 7-8 trading days\" at 389 points and \"If my warrants die they die\" at 80. On 24 October a DD at 302 points still argued for an extension and strike cut from a 948% borrow rate, and the top replies answered that a borrow rate is a fee, not a count of shorted warrants, and that exercise issues new shares; a member who exercised five warrants at Schwab was mostly mocked. On 27 October the warrants' quoted cost to borrow had climbed in the sub's posts to 1,127% and then 1,959.50%, both posted by one author without a named source, and the most-upvoted replies read it as shorts betting on a worthless expiry. The rate is annual, and one commenter put the cost for the few days left at about $0.09 a warrant. A \"ban bet\" on an extension reached 953 points, and its top replies argued that a change announced after broker deadlines would come too late to help holders. On 30 October, after the NYSE's Form 25, the most-upvoted posts treated the warrants as finished (\"Delisted - Let's Move On Now\" at 1,128 points), and replies blamed the members who had hyped them. A link post at 86 points claimed a rule lets GameStop extend the warrants for 10 days after expiry. The rule was not identified, and nothing in the Form 25 supports that reading. By 6 November no post on hot mentioned the warrants, and GameStop had filed no amendment. On 9 November a commenter identified what looks like the rule behind the 30 October \"10 days after expiration\" claim. It is DTC's 2023 notice-period rule, which sets how long DTC waits before deleting expired warrant positions. It gives the issuer no new power to extend. Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-11-09",
+          "html": "<p><strong>The sub now argues both sides of the warrant expiry.</strong> The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in <a href=\"https://www.reddit.com/r/Superstonk/comments/1x3c7qv/\" target=\"_blank\" rel=\"noopener noreferrer\">a post</a> at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated.\nAs of 18 October the balance has tipped: the sub's highest-scoring post of that run, <a href=\"https://www.reddit.com/r/Superstonk/comments/1x8bn90/\" target=\"_blank\" rel=\"noopener noreferrer\">a plea to extend at 2,392 points</a>, drew most-upvoted replies arguing the opposite — &quot;the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming&quot; at 133 points, and at 101 points the case that the $32 strike was &quot;set to define a reasonable floor for GME in 2026&quot; so cutting it &quot;does not send a good message&quot;. The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%.\nBy 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being &quot;I admire your optimism that the share price will be over $32 in the next 7-8 trading days&quot; at 389 points and &quot;If my warrants die they die&quot; at 80.\nOn 24 October a DD at 302 points still argued for an extension and strike cut from a 948% borrow rate, and the top replies answered that a borrow rate is a fee, not a count of shorted warrants, and that exercise issues new shares; a member who exercised five warrants at Schwab was mostly mocked.\nOn 27 October the warrants' quoted cost to borrow had climbed in the sub's posts to 1,127% and then 1,959.50%, both posted by one author without a named source, and the most-upvoted replies read it as shorts betting on a worthless expiry. The rate is annual, and one commenter put the cost for the few days left at about $0.09 a warrant. A &quot;ban bet&quot; on an extension reached 953 points, and its top replies argued that a change announced after broker deadlines would come too late to help holders.\nOn 30 October, after the NYSE's Form 25, the most-upvoted posts treated the warrants as finished (&quot;Delisted - Let's Move On Now&quot; at 1,128 points), and replies blamed the members who had hyped them. A link post at 86 points claimed a rule lets GameStop extend the warrants for 10 days after expiry. The rule was not identified, and nothing in the Form 25 supports that reading.\nBy 6 November no post on hot mentioned the warrants, and GameStop had filed no amendment.\nOn 9 November a commenter identified what looks like the rule behind the 30 October &quot;10 days after expiration&quot; claim. It is DTC's 2023 notice-period rule, which sets how long DTC waits before deleting expired warrant positions. It gives the issuer no new power to extend.\nOn 15 November the most-upvoted replies under &quot;WS status change - delisted to worthless&quot; mocked the revival theories, for example &quot;Yet another 'researched' superstonk theory proven wrong&quot; at 49 points.</p>",
+          "text": "The sub now argues both sides of the warrant expiry. The case that GameStop will simply let the warrants lapse — that they were issued on the expectation of an eBay deal closing by now, and that a last-minute extension or strike cut would be out of character for this board — was made in a post at 851 points and 376 comments and was upvoted rather than dismissed. The objections are that the eBay rejection was anticipated, and that insider buying as the price climbs cuts the other way. Both sides are claims about intentions nobody at the company has stated. As of 18 October the balance has tipped: the sub's highest-scoring post of that run, a plea to extend at 2,392 points , drew most-upvoted replies arguing the opposite — \"the only person who can actually make that call (Cohen) isn't doing it! ... Which all makes me think no extension is coming\" at 133 points, and at 101 points the case that the $32 strike was \"set to define a reasonable floor for GME in 2026\" so cutting it \"does not send a good message\". The case for a late change rests on an unsourced claim that the warrants' cost to borrow is around 700%. By 21 October the argument has largely stopped: the reminder release came and announced nothing, and the run's warrant threads are about broker cutoffs and whether to bother exercising, the most-upvoted positions being \"I admire your optimism that the share price will be over $32 in the next 7-8 trading days\" at 389 points and \"If my warrants die they die\" at 80. On 24 October a DD at 302 points still argued for an extension and strike cut from a 948% borrow rate, and the top replies answered that a borrow rate is a fee, not a count of shorted warrants, and that exercise issues new shares; a member who exercised five warrants at Schwab was mostly mocked. On 27 October the warrants' quoted cost to borrow had climbed in the sub's posts to 1,127% and then 1,959.50%, both posted by one author without a named source, and the most-upvoted replies read it as shorts betting on a worthless expiry. The rate is annual, and one commenter put the cost for the few days left at about $0.09 a warrant. A \"ban bet\" on an extension reached 953 points, and its top replies argued that a change announced after broker deadlines would come too late to help holders. On 30 October, after the NYSE's Form 25, the most-upvoted posts treated the warrants as finished (\"Delisted - Let's Move On Now\" at 1,128 points), and replies blamed the members who had hyped them. A link post at 86 points claimed a rule lets GameStop extend the warrants for 10 days after expiry. The rule was not identified, and nothing in the Form 25 supports that reading. By 6 November no post on hot mentioned the warrants, and GameStop had filed no amendment. On 9 November a commenter identified what looks like the rule behind the 30 October \"10 days after expiration\" claim. It is DTC's 2023 notice-period rule, which sets how long DTC waits before deleting expired warrant positions. It gives the issuer no new power to extend. On 15 November the most-upvoted replies under \"WS status change - delisted to worthless\" mocked the revival theories, for example \"Yet another 'researched' superstonk theory proven wrong\" at 49 points. Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-11-15",
           "status": "single-source",
-          "status_html": "<p>Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-11-09</p>",
-          "updated": "2026-11-09",
+          "status_html": "<p>Single source for the arguments; the mechanical question they rest on is settled above under Corporate actions · 2026-11-15</p>",
+          "updated": "2026-11-15",
           "sources": [
             "r/Superstonk"
           ],
@@ -2385,11 +2577,11 @@
         },
         {
           "headline": "<strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong>",
-          "html": "<p><strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong> They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered.\nOn 23 October a 1,677,000-share print (posted as $42,422,733.60 at $25.30) was read as another QCT, with commenters calling it dark pool volume that did not move the price.</p>",
-          "text": "Off-exchange volume, FTD counts and \"who is buying\" candles get posted as screenshots most days. They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered. On 23 October a 1,677,000-share print (posted as $42,422,733.60 at $25.30) was read as another QCT, with commenters calling it dark pool volume that did not move the price. Single source each time; figures as posted, never independently checked · 2026-10-24",
+          "html": "<p><strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong> They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered.\nOn 23 October a 1,677,000-share print (posted as $42,422,733.60 at $25.30) was read as another QCT, with commenters calling it dark pool volume that did not move the price.\nOn 13 November a 1,667,000-share block on the Chicago exchange reached 2,261 points, and its poster called it a repeat of the trade &quot;20 days ago&quot;. One reply passed on someone else's view that it was &quot;clean up of the option chain&quot;; another read it as shorts covering.</p>",
+          "text": "Off-exchange volume, FTD counts and \"who is buying\" candles get posted as screenshots most days. They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered. On 23 October a 1,677,000-share print (posted as $42,422,733.60 at $25.30) was read as another QCT, with commenters calling it dark pool volume that did not move the price. On 13 November a 1,667,000-share block on the Chicago exchange reached 2,261 points, and its poster called it a repeat of the trade \"20 days ago\". One reply passed on someone else's view that it was \"clean up of the option chain\"; another read it as shorts covering. Single source each time; figures as posted, never independently checked · 2026-11-15",
           "status": "single-source",
-          "status_html": "<p>Single source each time; figures as posted, never independently checked · 2026-10-24</p>",
-          "updated": "2026-10-24",
+          "status_html": "<p>Single source each time; figures as posted, never independently checked · 2026-11-15</p>",
+          "updated": "2026-11-15",
           "sources": [],
           "due": null,
           "due_label": null
