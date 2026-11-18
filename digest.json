@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-18",
   "meta": {
     "feed": "superstonk",
     "title": "Superstonk Digest",
@@ -20,6 +20,198 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-18",
+      "title": "Superstonk digest",
+      "intro_html": "<p>The sub spent this run on Ryan Cohen's post asking for GTA VI on a physical disc, which drew the run's top score and a debate about game ownership rather than company news. The useful finds sit lower down. A text post flagged FINRA's proposal to return to a member-majority board, with SEC comments due 4 December, and an institutional-ownership post was corrected in its own comments. GameStop has still filed nothing since the 30 October Form 25, and it has not dated its third-quarter results. No story qualified for Must know: there is no new filing, and the FINRA proposal does not involve GameStop.</p>",
+      "sections": [
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>GameStop has filed nothing since the 30 October Form 25, and has still not announced a date for its third-quarter results.</strong>",
+              "html": "<p><strong>GameStop has filed nothing since the 30 October Form 25, and has still not announced a date for its third-quarter results.</strong> EDGAR's latest GameStop filing is still the NYSE's Form 25-NSE of 30 October, preceded by an 8-K on 19 October. GameStop's investor news page loaded with an empty &quot;Latest News&quot; section again. A web search found only third-party estimates of 7 or 8 December. The same search notes that last year's date announcement came on 28 November 2025.</p>",
+              "text": "GameStop has filed nothing since the 30 October Form 25, and has still not announced a date for its third-quarter results. EDGAR's latest GameStop filing is still the NYSE's Form 25-NSE of 30 October, preceded by an 8-K on 19 October. GameStop's investor news page loaded with an empty \"Latest News\" section again. A web search found only third-party estimates of 7 or 8 December. The same search notes that last year's date announcement came on 28 November 2025. Verified against EDGAR's filing list for CIK 0001326380 on 2026-11-18 · the results date is Unconfirmed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001326380&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing list for CIK 0001326380</a> on 2026-11-18 · the results date is <strong>Unconfirmed</strong></p>",
+              "updated": "2026-11-18",
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Ryan Cohen posted asking for GTA VI &quot;On a disc&quot;, and GameStop quote-posted him.</strong>",
+              "html": "<p><strong>Ryan Cohen posted asking for GTA VI &quot;On a disc&quot;, and GameStop quote-posted him.</strong> Three screenshot posts carried it: <a href=\"https://www.reddit.com/r/Superstonk/comments/1xy9qps/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Ryan Cohen on Twitter&quot;</a> (3,630 points), <a href=\"https://www.reddit.com/r/Superstonk/comments/1xy9qz6/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Ryan Cohen (@ryancohen) 768 likes · 64 replies&quot;</a> (1,394) and <a href=\"https://www.reddit.com/r/Superstonk/comments/1xya12l/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;GameStop quote retweets Ryan Cohen&quot;</a> (1,324). The post's own author quotes the text in a comment: &quot;GTA. On a disc. In a case. On your shelf. Like if you still want a physical copy.&quot; The top reply, at 359 points, asks &quot;GTA physical copy exclusive to gamestop?&quot; Several replies say the game is 210 GB and doubt that it fits on a disc. Others, under <a href=\"https://www.reddit.com/r/Superstonk/comments/1xz4596/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;It may be a little physical-ish&quot;</a> (221 points), complain that the boxed copy contains only a code, and one says their code was blank. Replies such as &quot;Like if you want shareholder value&quot; (61 points) show some impatience. GameStop has filed or announced nothing about it.</p>",
+              "text": "Ryan Cohen posted asking for GTA VI \"On a disc\", and GameStop quote-posted him. Three screenshot posts carried it: \"Ryan Cohen on Twitter\" (3,630 points), \"Ryan Cohen (@ryancohen) 768 likes · 64 replies\" (1,394) and \"GameStop quote retweets Ryan Cohen\" (1,324). The post's own author quotes the text in a comment: \"GTA. On a disc. In a case. On your shelf. Like if you still want a physical copy.\" The top reply, at 359 points, asks \"GTA physical copy exclusive to gamestop?\" Several replies say the game is 210 GB and doubt that it fits on a disc. Others, under \"It may be a little physical-ish\" (221 points), complain that the boxed copy contains only a code, and one says their code was blank. Replies such as \"Like if you want shareholder value\" (61 points) show some impatience. GameStop has filed or announced nothing about it. Reported · the tweet text is a commenter's quotation, since the screenshots are not visible through the tool; X was not checked; no GameStop announcement exists",
+              "status": "reported",
+              "status_html": "<p>Reported · the tweet text is a commenter's quotation, since the screenshots are not visible through the tool; X was not checked; no GameStop announcement exists</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>GameStop added cheaper tiers of Power Packs, according to a 1,112-point post.</strong>",
+              "html": "<p><strong>GameStop added cheaper tiers of Power Packs, according to a 1,112-point post.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xyrq8i/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> is a screenshot. One commenter says they pulled two $10 packs and got two PSA 9 cards, and adds that the $10 tier has &quot;much smaller upside, much smaller down side&quot;. Another, at 27, describes $50 turning into $27 and then $18. A reply at 12 guesses that GameStop &quot;saw the data of how many people just withdraw their balance when they get below $25&quot;. Another, at 10, reads lower tiers as a push for volume. GameStop's news page lists no Power Packs announcement.</p>",
+              "text": "GameStop added cheaper tiers of Power Packs, according to a 1,112-point post. The post is a screenshot. One commenter says they pulled two $10 packs and got two PSA 9 cards, and adds that the $10 tier has \"much smaller upside, much smaller down side\". Another, at 27, describes $50 turning into $27 and then $18. A reply at 12 guesses that GameStop \"saw the data of how many people just withdraw their balance when they get below $25\". Another, at 10, reads lower tiers as a push for volume. GameStop's news page lists no Power Packs announcement. Single source · the new tiers are as posted, from a screenshot; not checked on GameStop's site",
+              "status": "single-source",
+              "status_html": "<p>Single source · the new tiers are as posted, from a screenshot; not checked on GameStop's site</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market-data claims",
+          "category": "data",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A post says institutional ownership rose from 159 million to 176 million shares in the third quarter, and a reply challenged its percentage.</strong>",
+              "html": "<p><strong>A post says institutional ownership rose from 159 million to 176 million shares in the third quarter, and a reply challenged its percentage.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xyw42l/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (408 points) also says institutional call exposure rose &quot;from 59 M to 72 M (!)&quot;. Its chart is an image. A commenter at 18 points works out 176 million of &quot;505M shares outstanding&quot; as 34.9%, and says Fidelity and Schwab show 32.36% and 32.58%. They ask whether the chart uses float. The author replies that the source is WhaleWisdom, which may use &quot;the old shares outstanding&quot;. Another commenter says shares outstanding went from 448 million to 505 million in the quarter because of the convertible-note exchange. That matches the direction of the tracker's verified exchange of about 55.5 million shares. The 448 and 505 million figures were not checked.</p>",
+              "text": "A post says institutional ownership rose from 159 million to 176 million shares in the third quarter, and a reply challenged its percentage. The post (408 points) also says institutional call exposure rose \"from 59 M to 72 M (!)\". Its chart is an image. A commenter at 18 points works out 176 million of \"505M shares outstanding\" as 34.9%, and says Fidelity and Schwab show 32.36% and 32.58%. They ask whether the chart uses float. The author replies that the source is WhaleWisdom, which may use \"the old shares outstanding\". Another commenter says shares outstanding went from 448 million to 505 million in the quarter because of the convertible-note exchange. That matches the direction of the tracker's verified exchange of about 55.5 million shares. The 448 and 505 million figures were not checked. Single source · figures are as posted, from WhaleWisdom via the author; no 13F data or 10-Q was checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · figures are as posted, from WhaleWisdom via the author; no 13F data or 10-Q was checked</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A Chicago block-trade post drew complaints that the sub keeps posting them.</strong>",
+              "html": "<p><strong>A Chicago block-trade post drew complaints that the sub keeps posting them.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xytkts/\" target=\"_blank\" rel=\"noopener noreferrer\">The gallery</a> (668 points) shows a Chicago print. Its top reply, at 45, is &quot;Qualified Contingent Trade&quot;. Others ask &quot;Isn't this the 100th post of chicago orders?&quot; and ask the mods to ban them. The poster answers that these are FLEX option trades. They post a table of 2GME FLEX contracts expiring on 20 November (28,920), 4 December (12,000), 18 December (31,580) and 15 January (30,000), and mention &quot;the 340,000-share Chicago QCT&quot;. A reply at -3 says such prints have &quot;been indicative of volatility in the subsequent 8 trading days&quot;.</p>",
+              "text": "A Chicago block-trade post drew complaints that the sub keeps posting them. The gallery (668 points) shows a Chicago print. Its top reply, at 45, is \"Qualified Contingent Trade\". Others ask \"Isn't this the 100th post of chicago orders?\" and ask the mods to ban them. The poster answers that these are FLEX option trades. They post a table of 2GME FLEX contracts expiring on 20 November (28,920), 4 December (12,000), 18 December (31,580) and 15 January (30,000), and mention \"the 340,000-share Chicago QCT\". A reply at -3 says such prints have \"been indicative of volatility in the subsequent 8 trading days\". Single source · the FLEX counts and trade size are the poster's; no exchange data was checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the FLEX counts and trade size are the poster's; no exchange data was checked</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Due diligence",
+          "category": "dd",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A comment presented as &quot;Our GameStop Q3 outlook&quot; lists net sales of $835 million and net income of $300 million, but GameStop has given no such outlook.</strong>",
+              "html": "<p><strong>A comment presented as &quot;Our GameStop Q3 outlook&quot; lists net sales of $835 million and net income of $300 million, but GameStop has given no such outlook.</strong> It sits under <a href=\"https://www.reddit.com/r/Superstonk/comments/1xyb5w9/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;UPCOMING: GAMESTOP IS ABOUT TO PRINT 10 GREEN EARNINGS IN A ROW&quot;</a> (2,291 points). The post's author wrote the comment, which opens &quot;We did the math&quot; and reaches 269 points. It also lists operating income of $190 million and diluted EPS of $0.52, and says cash &quot;expected to remain above $5.0 billion&quot;. It is laid out like a company release, with prior-year comparisons. Replies mostly joke that the stock will &quot;dip&quot; whatever the results. One asks &quot;Investment income?&quot;</p>",
+              "text": "A comment presented as \"Our GameStop Q3 outlook\" lists net sales of $835 million and net income of $300 million, but GameStop has given no such outlook. It sits under \"UPCOMING: GAMESTOP IS ABOUT TO PRINT 10 GREEN EARNINGS IN A ROW\" (2,291 points). The post's author wrote the comment, which opens \"We did the math\" and reaches 269 points. It also lists operating income of $190 million and diluted EPS of $0.52, and says cash \"expected to remain above $5.0 billion\". It is laid out like a company release, with prior-year comparisons. Replies mostly joke that the stock will \"dip\" whatever the results. One asks \"Investment income?\" Single source · the author's own projections; EDGAR and GameStop's news page carry no guidance",
+              "status": "single-source",
+              "status_html": "<p>Single source · the author's own projections; EDGAR and GameStop's news page carry no guidance</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Members discussed how GME trades now that it is &quot;stable&quot;.</strong>",
+              "html": "<p><strong>Members discussed how GME trades now that it is &quot;stable&quot;.</strong> Under <a href=\"https://www.reddit.com/r/Superstonk/comments/1xz4rda/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Now that GME is stable&quot;</a> (946 points), an image post, the top reply at 70 says the image reflects &quot;a single analyst rating&quot;. A reply names Yorkville Ives at $32 as a second. The tracker already records that rating. A commenter at 9 quotes Cohen's 30 January 2026 line that something would be &quot;really big… transformational&quot;, and says a year without it is &quot;not a good look&quot;. A reply at 1 says the chance of a short squeeze ended years ago.</p>",
+              "text": "Members discussed how GME trades now that it is \"stable\". Under \"Now that GME is stable\" (946 points), an image post, the top reply at 70 says the image reflects \"a single analyst rating\". A reply names Yorkville Ives at $32 as a second. The tracker already records that rating. A commenter at 9 quotes Cohen's 30 January 2026 line that something would be \"really big… transformational\", and says a year without it is \"not a good look\". A reply at 1 says the chance of a short squeeze ended years ago.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A FINRA governance proposal reached hot as a call to comment.</strong>",
+              "html": "<p><strong>A FINRA governance proposal reached hot as a call to comment.</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1xz3ikv/\" target=\"_blank\" rel=\"noopener noreferrer\">A text post at 373 points</a> says SR-FINRA-2026-024 would replace the board's public majority with an industry majority, drop public-majority requirements on committees, and extend board terms &quot;from 6 to 9 years&quot;. It urges members to comment to the SEC by 4 December. FINRA's own summary confirms it would return &quot;to a majority-member Board&quot; with member governors &quot;never exceeding the number of public governors by more than two&quot;, and cut the board from 25 to 20. It also says the change covers &quot;updating term limits&quot; and committee flexibility, and that the Audit and Risk Committee stays majority-public. The SEC page lists the comment deadline as 4 December 2026. The six-to-nine-year detail was not found in what was read.</p>",
+              "text": "A FINRA governance proposal reached hot as a call to comment. A text post at 373 points says SR-FINRA-2026-024 would replace the board's public majority with an industry majority, drop public-majority requirements on committees, and extend board terms \"from 6 to 9 years\". It urges members to comment to the SEC by 4 December. FINRA's own summary confirms it would return \"to a majority-member Board\" with member governors \"never exceeding the number of public governors by more than two\", and cut the board from 25 to 20. It also says the change covers \"updating term limits\" and committee flexibility, and that the Audit and Risk Committee stays majority-public. The SEC page lists the comment deadline as 4 December 2026. The six-to-nine-year detail was not found in what was read. Verified for the board change, size and comment deadline, against FINRA's 2 November summary and the SEC's rule-filing page (Release No. 34-106868) · the term-length and committee specifics are the post's, not checked",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the board change, size and comment deadline, against <a href=\"https://www.finra.org/sites/default/files/2026-11/modernizing-finras-governance-structure.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">FINRA's 2 November summary</a> and <a href=\"https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-finra-2026-024\" target=\"_blank\" rel=\"noopener noreferrer\">the SEC's rule-filing page</a> (Release No. 34-106868) · the term-length and committee specifics are the post's, not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk",
+                "finra.org",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The rest of hot is a New York Times story on Deutsche Bank&#x27;s Russian clients that does not involve GameStop, two days of a member&#x27;s daily questions to the DT…",
+              "html": "<p>The rest of hot is a New York Times story on Deutsche Bank's Russian clients that does not involve GameStop, two days of a member's daily questions to the DTCC on X, memes, the reverse-repo post, a daily share-buy post, a max-pain chart, the German-market opening post, the closing-price bot and the January–February Open Forum.</p>",
+              "text": "The rest of hot is a New York Times story on Deutsche Bank's Russian clients that does not involve GameStop, two days of a member's daily questions to the DTCC on X, memes, the reverse-repo post, a daily share-buy post, a max-pain chart, the German-market opening post, the closing-price bot and the January–February Open Forum.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> Superstonk, 24 posts, with eleven threads fetched.",
+              "html": "<p><strong>Read:</strong> Superstonk, 24 posts, with eleven threads fetched. <strong>Sources checked:</strong> GameStop's SEC filings on EDGAR, where the latest filing is still the 30 October Form 25-NSE. EDGAR was read through a fetch tool's summary of the filing list. GameStop's investor news page loaded with an empty &quot;Latest News&quot; section. A web search found no GameStop release announcing a third-quarter results date. FINRA's governance summary and the SEC's SR-FINRA-2026-024 page were read for the FINRA item.</p>",
+              "text": "Read: Superstonk, 24 posts, with eleven threads fetched. Sources checked: GameStop's SEC filings on EDGAR, where the latest filing is still the 30 October Form 25-NSE. EDGAR was read through a fetch tool's summary of the filing list. GameStop's investor news page loaded with an empty \"Latest News\" section. A web search found no GameStop release announcing a third-quarter results date. FINRA's governance summary and the SEC's SR-FINRA-2026-024 page were read for the FINRA item.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. GameStop has filed or announced nothing since the 2026-11-15 entry.</p>",
+              "text": "Announced, not discussed: none. GameStop has filed or announced nothing since the 2026-11-15 entry. Verified against EDGAR's filing list for CIK 0001326380",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against EDGAR's filing list for CIK 0001326380</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;jabarumba&quot; is the username of the author of the daily &quot;DTCC has their own Twitter account&quot; posts (days 990 and 991), so it is a person&#x27;s…",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;jabarumba&quot; is the username of the author of the daily &quot;DTCC has their own Twitter account&quot; posts (days 990 and 991), so it is a person's name. The posts are questions to the DTCC, and one is about Nvidia, so neither is GameStop news.</p>",
+              "text": "Flagged terms set aside: \"jabarumba\" is the username of the author of the daily \"DTCC has their own Twitter account\" posts (days 990 and 991), so it is a person's name. The posts are questions to the DTCC, and one is about Nvidia, so neither is GameStop news.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "title": "Superstonk digest",
@@ -2472,11 +2664,11 @@
         },
         {
           "headline": "<strong>Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date.</strong>",
-          "html": "<p><strong>Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date.</strong> On 12 November two commenters gave &quot;around Dec 7th&quot; and &quot;Dec 8th or so?&quot;. As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. On 15 November a post titled &quot;T minus 24 days until q3 earnings&quot; counted down to a date GameStop still had not announced, and a web search found only third-party estimates. Replace the estimate with the filed date once GameStop announces one.</p>",
-          "text": "Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date. On 12 November two commenters gave \"around Dec 7th\" and \"Dec 8th or so?\". As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. On 15 November a post titled \"T minus 24 days until q3 earnings\" counted down to a date GameStop still had not announced, and a web search found only third-party estimates. Replace the estimate with the filed date once GameStop announces one. Unconfirmed · checked EDGAR's filing list, GameStop's investor news page and a web search · 2026-11-15",
+          "html": "<p><strong>Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date.</strong> On 12 November two commenters gave &quot;around Dec 7th&quot; and &quot;Dec 8th or so?&quot;. As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. On 15 November a post titled &quot;T minus 24 days until q3 earnings&quot; counted down to a date GameStop still had not announced, and a web search found only third-party estimates. On 18 November there was still no announcement. Third-party sites gave 7 or 8 December, and last year's date announcement came on 28 November 2025. Replace the estimate with the filed date once GameStop announces one.</p>",
+          "text": "Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date. On 12 November two commenters gave \"around Dec 7th\" and \"Dec 8th or so?\". As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. On 15 November a post titled \"T minus 24 days until q3 earnings\" counted down to a date GameStop still had not announced, and a web search found only third-party estimates. On 18 November there was still no announcement. Third-party sites gave 7 or 8 December, and last year's date announcement came on 28 November 2025. Replace the estimate with the filed date once GameStop announces one. Unconfirmed · checked EDGAR's filing list, GameStop's investor news page and a web search · 2026-11-18",
           "status": "unconfirmed",
-          "status_html": "<p><strong>Unconfirmed</strong> · checked EDGAR's filing list, GameStop's investor news page and a web search · 2026-11-15</p>",
-          "updated": "2026-11-15",
+          "status_html": "<p><strong>Unconfirmed</strong> · checked EDGAR's filing list, GameStop's investor news page and a web search · 2026-11-18</p>",
+          "updated": "2026-11-18",
           "sources": [],
           "due": null,
           "due_label": null
@@ -2541,6 +2733,20 @@
           ],
           "due": "2026-10-26",
           "due_label": "public comments due"
+        },
+        {
+          "headline": "<strong>FINRA has proposed returning to a board with a majority of member-firm governors.</strong>",
+          "html": "<p><strong>FINRA has proposed returning to a board with a majority of member-firm governors.</strong> File No. SR-FINRA-2026-024, Release No. 34-106868, was filed with the SEC on 2 November 2026. FINRA's summary says it would return &quot;to a majority-member Board while preserving substantial public governor representation, with the number of member firm governors never exceeding the number of public governors by more than two&quot;. It would also cut the board from up to 25 governors to 20 and update term limits and committee rules. The Audit and Risk Committee would stay majority-public. Members voted for it on 9 October, and it needs SEC approval. A post at 373 points on 18 November urged members to comment. It claims board terms would rise &quot;from 6 to 9 years&quot;; that detail was not checked.</p>",
+          "text": "FINRA has proposed returning to a board with a majority of member-firm governors. File No. SR-FINRA-2026-024, Release No. 34-106868, was filed with the SEC on 2 November 2026. FINRA's summary says it would return \"to a majority-member Board while preserving substantial public governor representation, with the number of member firm governors never exceeding the number of public governors by more than two\". It would also cut the board from up to 25 governors to 20 and update term limits and committee rules. The Audit and Risk Committee would stay majority-public. Members voted for it on 9 October, and it needs SEC approval. A post at 373 points on 18 November urged members to comment. It claims board terms would rise \"from 6 to 9 years\"; that detail was not checked. Verified against FINRA's summary and the SEC's rule-filing page ; a proposal, not an approved rule · 2026-11-18",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.finra.org/sites/default/files/2026-11/modernizing-finras-governance-structure.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">FINRA's summary</a> and <a href=\"https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-finra-2026-024\" target=\"_blank\" rel=\"noopener noreferrer\">the SEC's rule-filing page</a>; a proposal, not an approved rule · 2026-11-18</p>",
+          "updated": "2026-11-18",
+          "sources": [
+            "finra.org",
+            "SEC filing"
+          ],
+          "due": "2026-12-04",
+          "due_label": "SEC comment deadline"
         }
       ]
     },
@@ -2577,11 +2783,11 @@
         },
         {
           "headline": "<strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong>",
-          "html": "<p><strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong> They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered.\nOn 23 October a 1,677,000-share print (posted as $42,422,733.60 at $25.30) was read as another QCT, with commenters calling it dark pool volume that did not move the price.\nOn 13 November a 1,667,000-share block on the Chicago exchange reached 2,261 points, and its poster called it a repeat of the trade &quot;20 days ago&quot;. One reply passed on someone else's view that it was &quot;clean up of the option chain&quot;; another read it as shorts covering.</p>",
-          "text": "Off-exchange volume, FTD counts and \"who is buying\" candles get posted as screenshots most days. They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered. On 23 October a 1,677,000-share print (posted as $42,422,733.60 at $25.30) was read as another QCT, with commenters calling it dark pool volume that did not move the price. On 13 November a 1,667,000-share block on the Chicago exchange reached 2,261 points, and its poster called it a repeat of the trade \"20 days ago\". One reply passed on someone else's view that it was \"clean up of the option chain\"; another read it as shorts covering. Single source each time; figures as posted, never independently checked · 2026-11-15",
+          "html": "<p><strong>Off-exchange volume, FTD counts and &quot;who is buying&quot; candles get posted as screenshots most days.</strong> They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered.\nOn 23 October a 1,677,000-share print (posted as $42,422,733.60 at $25.30) was read as another QCT, with commenters calling it dark pool volume that did not move the price.\nOn 13 November a 1,667,000-share block on the Chicago exchange reached 2,261 points, and its poster called it a repeat of the trade &quot;20 days ago&quot;. One reply passed on someone else's view that it was &quot;clean up of the option chain&quot;; another read it as shorts covering.\nOn 18 November another Chicago post drew replies asking the mods to ban them. Its poster said these are FLEX option trades and listed 2GME FLEX contracts expiring on 20 November (28,920), 4 December (12,000), 18 December (31,580) and 15 January (30,000).</p>",
+          "text": "Off-exchange volume, FTD counts and \"who is buying\" candles get posted as screenshots most days. They are read as signs of manipulation or of accumulation. Other members often answer them in the comments, for example noting that a large print was qualified contingent trades, or that an FTD due date is irrelevant once it's covered. On 23 October a 1,677,000-share print (posted as $42,422,733.60 at $25.30) was read as another QCT, with commenters calling it dark pool volume that did not move the price. On 13 November a 1,667,000-share block on the Chicago exchange reached 2,261 points, and its poster called it a repeat of the trade \"20 days ago\". One reply passed on someone else's view that it was \"clean up of the option chain\"; another read it as shorts covering. On 18 November another Chicago post drew replies asking the mods to ban them. Its poster said these are FLEX option trades and listed 2GME FLEX contracts expiring on 20 November (28,920), 4 December (12,000), 18 December (31,580) and 15 January (30,000). Single source each time; figures as posted, never independently checked · 2026-11-18",
           "status": "single-source",
-          "status_html": "<p>Single source each time; figures as posted, never independently checked · 2026-11-15</p>",
-          "updated": "2026-11-15",
+          "status_html": "<p>Single source each time; figures as posted, never independently checked · 2026-11-18</p>",
+          "updated": "2026-11-18",
           "sources": [],
           "due": null,
           "due_label": null
