@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-22",
   "meta": {
     "feed": "superstonk",
     "title": "Superstonk Digest",
@@ -20,6 +20,131 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-22",
+      "title": "Superstonk digest",
+      "intro_html": "<p>Hot was almost all memes and screenshots this run, with the most discussion on a speculative text post claiming Ryan Cohen will &quot;return&quot; with a $1B position. Nothing in the run is company news or a filing. EDGAR could not be read directly this run, so the absence of new GameStop filings is not verified. No story qualified for Must know.</p>",
+      "sections": [
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>No GameStop announcement could be found since 18 November, but EDGAR itself was not read.</strong>",
+              "html": "<p><strong>No GameStop announcement could be found since 18 November, but EDGAR itself was not read.</strong> A web search found no release announcing third-quarter fiscal 2026 results; it returned only last year's announcement, made on 28 November 2025 for a 9 December 2025 report. An AAII page lists 9/8/2026 for the quarter, which looks like an automated estimate. A second search found no Form 4 from Cohen after early October. GameStop's investor news page and EDGAR were not loaded this run: direct requests to EDGAR needed approval that an unattended run does not have.</p>",
+              "text": "No GameStop announcement could be found since 18 November, but EDGAR itself was not read. A web search found no release announcing third-quarter fiscal 2026 results; it returned only last year's announcement, made on 28 November 2025 for a 9 December 2025 report. An AAII page lists 9/8/2026 for the quarter, which looks like an automated estimate. A second search found no Form 4 from Cohen after early October. GameStop's investor news page and EDGAR were not loaded this run: direct requests to EDGAR needed approval that an unattended run does not have. Unconfirmed · only web searches were run; no primary source was read",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · only web searches were run; no primary source was read</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market-data claims",
+          "category": "data",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A 1,597-point text post argues Ryan Cohen's insider buying could mask a large purchase by &quot;Keith Gill&quot; (DFV).</strong>",
+              "html": "<p><strong>A 1,597-point text post argues Ryan Cohen's insider buying could mask a large purchase by &quot;Keith Gill&quot; (DFV).</strong> <a href=\"https://www.reddit.com/r/Superstonk/comments/1y28i70/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> cites screenshots it describes as &quot;an insane 95% call options&quot; and &quot;3 Large blocks coming in just before RKs tweet, 50K 7 minutes prior&quot;. It says it has no further evidence: &quot;I don't have any more tinfoil to support my thesis, unfortunately. Volume and off-exchange buying is anonymous.&quot; The author struck through an earlier 13D/13G timing claim and corrected it. The top replies are jokes (&quot;I want this to be true, so I am going to behave like it is&quot;, 438 points). A reply at 99 asks whether this means a position of &quot;around 9.8%&quot;, and the author answers that he could buy &quot;around 650m&quot; worth while staying under the radar. Another reply at 40 says Cohen's roughly $250M figure was only his GME position. The post's figures were not checked; the term &quot;RKs&quot; in the scan refers to Roaring Kitty, the screen name of Keith Gill.</p>",
+              "text": "A 1,597-point text post argues Ryan Cohen's insider buying could mask a large purchase by \"Keith Gill\" (DFV). The post cites screenshots it describes as \"an insane 95% call options\" and \"3 Large blocks coming in just before RKs tweet, 50K 7 minutes prior\". It says it has no further evidence: \"I don't have any more tinfoil to support my thesis, unfortunately. Volume and off-exchange buying is anonymous.\" The author struck through an earlier 13D/13G timing claim and corrected it. The top replies are jokes (\"I want this to be true, so I am going to behave like it is\", 438 points). A reply at 99 asks whether this means a position of \"around 9.8%\", and the author answers that he could buy \"around 650m\" worth while staying under the radar. Another reply at 40 says Cohen's roughly $250M figure was only his GME position. The post's figures were not checked; the term \"RKs\" in the scan refers to Roaring Kitty, the screen name of Keith Gill. Single source · the thesis and the options and block figures are the author's, from screenshots; no filing or exchange data was checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the thesis and the options and block figures are the author's, from screenshots; no filing or exchange data was checked</p>",
+              "updated": null,
+              "sources": [
+                "r/Superstonk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The sub spent the run on hype posts built on Roaring Kitty, and replies pushed back on the number-reading ones.</strong>",
+              "html": "<p><strong>The sub spent the run on hype posts built on Roaring Kitty, and replies pushed back on the number-reading ones.</strong> &quot;1:09/4:20 = 11/19/26&quot; (557 points) reads timestamps as a date; the top reply, at 425, says &quot;I don't know whether to believe that he's genius or that you're an idiot&quot;. A gallery linking Anthropic's founding and IPO to a DFV post (847 points) drew a top reply at 313 asking why either would be relevant to GME, and another at 101 hoping such posts are not &quot;meant to be taken seriously&quot;. &quot;It's Showtime&quot; (489), &quot;SHF in the red watching apes get ready after RKs return&quot; (666) and &quot;This Market Correction Might Be The Tip Of The Iceberg&quot; (621) carry little beyond memes and hope. Several replies to the last say the weekend feels long.</p>",
+              "text": "The sub spent the run on hype posts built on Roaring Kitty, and replies pushed back on the number-reading ones. \"1:09/4:20 = 11/19/26\" (557 points) reads timestamps as a date; the top reply, at 425, says \"I don't know whether to believe that he's genius or that you're an idiot\". A gallery linking Anthropic's founding and IPO to a DFV post (847 points) drew a top reply at 313 asking why either would be relevant to GME, and another at 101 hoping such posts are not \"meant to be taken seriously\". \"It's Showtime\" (489), \"SHF in the red watching apes get ready after RKs return\" (666) and \"This Market Correction Might Be The Tip Of The Iceberg\" (621) carry little beyond memes and hope. Several replies to the last say the weekend feels long.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The rest of hot is memes, a B2G1 preowned games promotion post, a holder&#x27;s share-count post, the daily directory, the January–February Open Forum and the clo…",
+              "html": "<p>The rest of hot is memes, a B2G1 preowned games promotion post, a holder's share-count post, the daily directory, the January–February Open Forum and the closing-price bot.</p>",
+              "text": "The rest of hot is memes, a B2G1 preowned games promotion post, a holder's share-count post, the daily directory, the January–February Open Forum and the closing-price bot.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> Superstonk, 24 posts, with six threads fetched.",
+              "html": "<p><strong>Read:</strong> Superstonk, 24 posts, with six threads fetched. <strong>Sources checked:</strong> GameStop's SEC filings and investor news were not loaded: the direct request to EDGAR was refused for lack of approval in an unattended run, and the investor news request was not run. Two web searches found no results-date release and no Cohen Form 4 after early October.</p>",
+              "text": "Read: Superstonk, 24 posts, with six threads fetched. Sources checked: GameStop's SEC filings and investor news were not loaded: the direct request to EDGAR was refused for lack of approval in an unattended run, and the investor news request was not run. Two web searches found no results-date release and no Cohen Form 4 after early October.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> unknown.",
+              "html": "<p><strong>Announced, not discussed:</strong> unknown. Primary sources could not be read, so a filing since 18 November cannot be ruled out.</p>",
+              "text": "Announced, not discussed: unknown. Primary sources could not be read, so a filing since 18 November cannot be ruled out. Unconfirmed · web searches only",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · web searches only</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;RKs&quot; is the sub&#x27;s shorthand for Roaring Kitty, Keith Gill&#x27;s screen name; it appears in the two posts above about his supposed return and…",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;RKs&quot; is the sub's shorthand for Roaring Kitty, Keith Gill's screen name; it appears in the two posts above about his supposed return and is speculation, not news.</p>",
+              "text": "Flagged terms set aside: \"RKs\" is the sub's shorthand for Roaring Kitty, Keith Gill's screen name; it appears in the two posts above about his supposed return and is speculation, not news.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-11-18 to 2026-11-22; official sources could not be read, so that window was checked only by web search.",
+              "html": "<p>Hot lists could not cover 2026-11-18 to 2026-11-22; official sources could not be read, so that window was checked only by web search.</p>",
+              "text": "Hot lists could not cover 2026-11-18 to 2026-11-22; official sources could not be read, so that window was checked only by web search.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "title": "Superstonk digest",
@@ -2664,11 +2789,11 @@
         },
         {
           "headline": "<strong>Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date.</strong>",
-          "html": "<p><strong>Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date.</strong> On 12 November two commenters gave &quot;around Dec 7th&quot; and &quot;Dec 8th or so?&quot;. As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. On 15 November a post titled &quot;T minus 24 days until q3 earnings&quot; counted down to a date GameStop still had not announced, and a web search found only third-party estimates. On 18 November there was still no announcement. Third-party sites gave 7 or 8 December, and last year's date announcement came on 28 November 2025. Replace the estimate with the filed date once GameStop announces one.</p>",
-          "text": "Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date. On 12 November two commenters gave \"around Dec 7th\" and \"Dec 8th or so?\". As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. On 15 November a post titled \"T minus 24 days until q3 earnings\" counted down to a date GameStop still had not announced, and a web search found only third-party estimates. On 18 November there was still no announcement. Third-party sites gave 7 or 8 December, and last year's date announcement came on 28 November 2025. Replace the estimate with the filed date once GameStop announces one. Unconfirmed · checked EDGAR's filing list, GameStop's investor news page and a web search · 2026-11-18",
+          "html": "<p><strong>Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date.</strong> On 12 November two commenters gave &quot;around Dec 7th&quot; and &quot;Dec 8th or so?&quot;. As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. On 15 November a post titled &quot;T minus 24 days until q3 earnings&quot; counted down to a date GameStop still had not announced, and a web search found only third-party estimates. On 18 November there was still no announcement. Third-party sites gave 7 or 8 December, and last year's date announcement came on 28 November 2025. Replace the estimate with the filed date once GameStop announces one.\nOn 22 November a web search again found no announcement; EDGAR and the investor news page could not be read that run.</p>",
+          "text": "Members expect third-quarter fiscal 2026 results around 7 or 8 December, but GameStop has not announced a date. On 12 November two commenters gave \"around Dec 7th\" and \"Dec 8th or so?\". As of that day, neither EDGAR nor GameStop's investor news page carries a release-date announcement. On 15 November a post titled \"T minus 24 days until q3 earnings\" counted down to a date GameStop still had not announced, and a web search found only third-party estimates. On 18 November there was still no announcement. Third-party sites gave 7 or 8 December, and last year's date announcement came on 28 November 2025. Replace the estimate with the filed date once GameStop announces one. On 22 November a web search again found no announcement; EDGAR and the investor news page could not be read that run. Unconfirmed · checked EDGAR's filing list, GameStop's investor news page and a web search on 18 November; web search only on 22 November · 2026-11-22",
           "status": "unconfirmed",
-          "status_html": "<p><strong>Unconfirmed</strong> · checked EDGAR's filing list, GameStop's investor news page and a web search · 2026-11-18</p>",
-          "updated": "2026-11-18",
+          "status_html": "<p><strong>Unconfirmed</strong> · checked EDGAR's filing list, GameStop's investor news page and a web search on 18 November; web search only on 22 November · 2026-11-22</p>",
+          "updated": "2026-11-22",
           "sources": [],
           "due": null,
           "due_label": null
